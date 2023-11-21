@@ -41,6 +41,5 @@ jobs:
 
   deploy:
     needs: import
-    if: ${{ jobs.import.steps.import.outputs.result == 'PUSHED' }}
-    
+    if: ${{ needs.import.steps.import.outputs.result == 'PUSHED' }}
     uses: ./.github/workflows/hugo.yaml
