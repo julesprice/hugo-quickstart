@@ -34,8 +34,13 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
     - name: Run the import
-      run: source script/import.sh
+      id: import
+      run: |
+        source script/import.sh
+        echo "result=$IMPORT_RESULT\n" >> $GITHUB_OUTPUT
 
   deploy:
     needs: import
+    if: ${{ jobs.import.steps.import.outputs.result == 'PUSHED' }}
+    
     uses: ./.github/workflows/hugo.yaml
