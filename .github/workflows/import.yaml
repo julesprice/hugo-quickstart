@@ -1,0 +1,41 @@
+name: Import podcast episodes from rss feeds
+
+# Allow this workflow to be run manually from the Actions tab
+on: workflow_dispatch
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent import
+concurrency:
+  group: "import"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  import:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.120.2
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        #pip install flake8 pytest
+        if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
+    - name: Lint with flake8
+      run: |
+       script/import.sh
