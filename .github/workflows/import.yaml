@@ -43,6 +43,13 @@ jobs:
         echo "result=$IMPORT_RESULT\n" >> $GITHUB_OUTPUT
 
   deploy:
+    runs-on: ubuntu-latest
     needs: import
-    if: ${{ needs.import.outputs.result == 'PUSHED' }}
-    uses: ./.github/workflows/hugo.yaml
+    steps:
+      - env:
+          RESULT: ${{needs.import.outputs.result}}
+        run: echo "RESULT=$RESULT"
+
+    # needs: import
+    # if: ${{ needs.import.outputs.result == 'PUSHED' }}
+    # uses: ./.github/workflows/hugo.yaml
