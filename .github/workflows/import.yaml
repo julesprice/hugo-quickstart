@@ -23,6 +23,8 @@ jobs:
   # Import job
   import:
     runs-on: ubuntu-latest
+    outputs:
+      result: ${{ steps.import.outputs.result }}
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -37,9 +39,10 @@ jobs:
       id: import
       run: |
         source script/import.sh
+        echo "IMPORT_RESULT=$IMPORT_RESULT"
         echo "result=$IMPORT_RESULT\n" >> $GITHUB_OUTPUT
 
   deploy:
     needs: import
-    if: ${{ needs.import.steps.import.outputs.result == 'PUSHED' }}
+    if: ${{ needs.import.outputs.result == 'PUSHED' }}
     uses: ./.github/workflows/hugo.yaml
