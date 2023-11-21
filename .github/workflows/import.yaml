@@ -34,5 +34,6 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
     - name: Run the import
-      run: |
-       source script/import.sh
+      run: source script/import.sh
+    - name: Run hugo workflow to deploy imorted episodes
+      uses: .github/workflows/hugo.yaml
