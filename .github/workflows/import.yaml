@@ -30,10 +30,11 @@ jobs:
       with:
         python-version: "3.10"
     - name: Install dependencies
-      run: |
+      run: |import
         python -m pip install --upgrade pip
         if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
     - name: Run the import
       run: source script/import.sh
-    - name: Run hugo workflow to deploy imorted episodes
-      uses: .github/workflows/hugo.yaml
+
+  deploy:
+    uses: ./.github/workflows/hugo.yaml
