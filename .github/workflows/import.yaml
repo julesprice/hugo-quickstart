@@ -40,16 +40,38 @@ jobs:
       run: |
         source script/import.sh
         echo "IMPORT_RESULT=$IMPORT_RESULT"
-        echo "result=$IMPORT_RESULT\n" >> $GITHUB_OUTPUT
+        echo "result=$IMPORT_RESULT" >> $GITHUB_OUTPUT
 
-  deploy:
+  debug1:
     runs-on: ubuntu-latest
     needs: import
     steps:
       - env:
-          RESULT: ${{needs.import.outputs.result}}
-        run: echo "RESULT=$RESULT"
+          RESULT_JOB: ${{needs.import.outputs.result}}
+          RESULT_STEP: ${{needs.import.steps.import.outputs.result}}
+        run: |
+          echo "DEBUG1 RESULT_JOB=$RESULT_JOB"
+          echo "DEBUG1 RESULT_STEP=$RESULT_STEP"
 
-    # needs: import
-    # if: ${{ needs.import.outputs.result == 'PUSHED' }}
-    # uses: ./.github/workflows/hugo.yaml
+  debug2:
+    runs-on: ubuntu-latest
+    needs: import
+    if: ${{ needs.import.outputs.result == 'PUSHED' }}
+    steps:
+      - env:
+          RESULT: ${{needs.import.outputs.result}}
+        run: echo "DEBUG2 needs.import.outputs.result=$RESULT"
+
+  debug3:
+    runs-on: ubuntu-latest
+    needs: import
+    if: ${{ needs.import.steps.import.outputs.result == 'PUSHED' }}
+    steps:
+      - env:
+          RESULT: ${{needs.import.steps.import.outputs.result}}
+        run: echo "DEBUG3 RESULT=$RESULT"
+
+  deploy:
+    needs: import
+    if: ${{ needs.import.outputs.result == 'PUSHED' }}
+    uses: ./.github/workflows/hugo.yaml
