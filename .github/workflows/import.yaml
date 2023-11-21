@@ -37,4 +37,5 @@ jobs:
       run: source script/import.sh
 
   deploy:
+    needs: import
     uses: ./.github/workflows/hugo.yaml
