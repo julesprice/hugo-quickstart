@@ -39,7 +39,7 @@ jobs:
       id: import
       run: |
         source script/import.sh
-        echo "IMPORT_RESULT=$IMPORT_RESULT"
+        echo "result=$IMPORT_RESULT" >> $GITHUB_OUTPUT
 
   deploy:
     needs: import
