@@ -1,7 +1,7 @@
 ---
 date: '2022-08-22'
 draft: 'false'
-id: d2022-08-22-e668
+id: e668
 summary: Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Social
   Cognition at the Max Planck Institute for Human Development, Berlin. Her research
   investigates how infants and young children think about and learn from other people

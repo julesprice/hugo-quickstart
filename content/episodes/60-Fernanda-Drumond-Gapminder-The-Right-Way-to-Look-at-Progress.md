@@ -1,7 +1,7 @@
 ---
 date: '2019-04-26'
 draft: 'false'
-id: d2019-04-26-e60
+id: e60
 summary: Gapminder Foundation is a non-profit venture based in Stockholm, Sweden,
   that promotes sustainable global development and achievement of the United Nations
   Millennium Development Goals by increased use and understanding of statistics and

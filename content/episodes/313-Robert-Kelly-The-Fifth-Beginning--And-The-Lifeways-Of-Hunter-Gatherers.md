@@ -1,7 +1,7 @@
 ---
 date: '2020-03-27'
 draft: 'false'
-id: d2020-03-27-e313
+id: e313
 summary: "Dr. Robert Kelly is Professor of Archaeology at the University of Wyoming.\
   \ Dr. Kelly has shaped and contributed much to our understanding of hunter-gatherer\
   \ societies. He has a deep interest in Western North American archaeology, especially\

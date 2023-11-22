@@ -1,7 +1,7 @@
 ---
 date: '2023-08-03'
 draft: 'false'
-id: d2023-08-03-e816
+id: e816
 summary: 'Dr. Gareth Leng was one of the founders in 1983 of the British Society for
   Neuroendocrinology. He was appointed as the Chair of Experimental Physiology at
   the University of Edinburgh in 1994, after 17 years at what is now the Babraham

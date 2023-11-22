@@ -1,7 +1,7 @@
 ---
 date: '2020-12-31'
 draft: 'false'
-id: d2020-12-31-e411
+id: e411
 summary: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy\
   \ of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive\
   \ scientist and empirical philosopher &amp; historian of science, technology, and\

@@ -1,7 +1,7 @@
 ---
 date: '2019-04-04'
 draft: 'false'
-id: d2019-04-04-e48
+id: e48
 summary: Mrs. Susan Pinker is a psychologist, author and social science columnist
   for The Wall Street Journal. She is a former weekly columnist for The Globe and
   Mail, and has also written for The New York Times, The Guardian, and The Times of

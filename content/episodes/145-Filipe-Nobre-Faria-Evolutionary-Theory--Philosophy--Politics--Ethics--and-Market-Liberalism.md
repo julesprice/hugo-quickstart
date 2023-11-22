@@ -1,7 +1,7 @@
 ---
 date: '2019-03-01'
 draft: 'false'
-id: d2019-03-01-e145
+id: e145
 summary: "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher in\
   \ ethics and political philosophy at the Institute for Philosophy of the Nova University\
   \ of Lisbon (IFILNOVA). Furthermore, he lectures on subjects of his expertise at\

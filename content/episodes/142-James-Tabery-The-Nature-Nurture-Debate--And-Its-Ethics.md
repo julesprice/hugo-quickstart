@@ -1,7 +1,7 @@
 ---
 date: '2019-02-22'
 draft: 'false'
-id: d2019-02-22-e142
+id: e142
 summary: "Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct Associate\
   \ Professor of Internal Medicine and Associate Professor of Philosophy at the University\
   \ of Utah. His research focuses largely on the philosophy of science and applied\

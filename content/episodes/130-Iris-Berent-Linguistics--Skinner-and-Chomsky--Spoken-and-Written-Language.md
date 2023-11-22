@@ -1,7 +1,7 @@
 ---
 date: '2019-08-07'
 draft: 'false'
-id: d2019-08-07-e130
+id: e130
 summary: "Dr. Iris Berent is Professor of Psychology at Northeastern University, US.\
   \ Her research examines the nature of linguistic competence, its origins, and its\
   \ interaction with reading ability. She\u2019s the author of the book The Phonological\

@@ -1,7 +1,7 @@
 ---
 date: '2020-02-03'
 draft: 'false'
-id: d2020-02-03-e290
+id: e290
 summary: "Dr. Colin F. Camerer is the Robert Kirby Professor of Behavioral Finance\
   \ and Economics at the California Institute of Technology, where he teaches cognitive\
   \ psychology and economics. His work seeks a better understanding of the psychological\

@@ -1,7 +1,7 @@
 ---
 date: '2019-05-31'
 draft: 'false'
-id: d2019-05-31-e86
+id: e86
 summary: "Dr. Colin McGinn has taught philosophy at institutions of higher learning\
   \ including University College London, Rutgers University, and Oxford University.\
   \ He\u2019s the author of over two dozen books including The Character of Mind,\

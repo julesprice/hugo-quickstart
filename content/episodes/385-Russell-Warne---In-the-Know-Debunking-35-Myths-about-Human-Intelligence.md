@@ -1,7 +1,7 @@
 ---
 date: '2020-10-30'
 draft: 'false'
-id: d2020-10-30-e385
+id: e385
 summary: "In this episode, the topic of conversation is Dr. Warne\u2019s new book,\
   \ In the Know. We cover some of the major topics of the book, including: g and IQ;\
   \ what general intelligence is; if IQ tests only work in the West, and are culture-specific;\

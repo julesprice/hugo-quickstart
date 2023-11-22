@@ -1,7 +1,7 @@
 ---
 date: '2019-05-17'
 draft: 'false'
-id: d2019-05-17-e76
+id: e76
 summary: "Dr. David Christian is Professor at the Department of Modern History, Politics\
   \ and International Relations at Macquarie University. He is notable for teaching\
   \ and promoting the discipline of Big History. He is credited with coining the term\

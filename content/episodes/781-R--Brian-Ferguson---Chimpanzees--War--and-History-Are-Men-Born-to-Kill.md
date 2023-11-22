@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 draft: 'false'
-id: d2023-05-12-e781
+id: e781
 summary: "Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers University\
   \ Newark. His expertise lies in cultural anthropology, the anthropology of war,\
   \ ethnic conflict, state-tribe interaction, policing, and Puerto Rico. His latest\

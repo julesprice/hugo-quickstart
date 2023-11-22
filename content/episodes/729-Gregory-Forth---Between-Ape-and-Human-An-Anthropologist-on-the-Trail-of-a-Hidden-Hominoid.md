@@ -1,7 +1,7 @@
 ---
 date: '2023-01-12'
 draft: 'false'
-id: d2023-01-12-e729
+id: e729
 summary: 'Dr. Gregory Forth received his doctorate at Oxford and was a professor of
   anthropology at the University of Alberta for more than three decades. He is a fellow
   of the Royal Society of Canada and is the author of more than one hundred scholarly

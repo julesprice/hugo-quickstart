@@ -1,7 +1,7 @@
 ---
 date: '2020-09-10'
 draft: 'false'
-id: d2020-09-10-e363
+id: e363
 summary: Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology at
   The Pennsylvania State University. A biological anthropologist and paleobiologist,
   she studies the evolution of adaptations to the environment in Old World primates

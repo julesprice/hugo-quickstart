@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 draft: 'false'
-id: d2023-09-29-e841
+id: e841
 summary: "Dr. Rebecca Tuvel is Associate Professor and Chair of Philosophy at Rhodes\
   \ College. She works in feminist philosophy, philosophy of race, and the ethics\
   \ of identity. Her book project Changing Race: The Ethics and Metaphysics of Transracialism\

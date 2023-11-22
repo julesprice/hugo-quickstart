@@ -1,7 +1,7 @@
 ---
 date: '2021-01-25'
 draft: 'false'
-id: d2021-01-25-e422
+id: e422
 summary: "Dr. Michael Tomasello is an American developmental and comparative psychologist,\
   \ as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary\
   \ Anthropology in Leipzig, and professor of psychology at Duke University. Earning\

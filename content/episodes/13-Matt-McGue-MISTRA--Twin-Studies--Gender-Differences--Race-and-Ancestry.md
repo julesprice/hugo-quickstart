@@ -1,7 +1,7 @@
 ---
 date: '2019-02-20'
 draft: 'false'
-id: d2019-02-20-e13
+id: e13
 summary: Dr. Matt McGue is a behavior geneticist and Regents Professor of Psychology
   at the University of Minnesota, where he co-directs the Minnesota Center for Twin
   and Family Research. Dr. McGue has authored or co-authored and published over 375

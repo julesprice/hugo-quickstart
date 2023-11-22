@@ -1,7 +1,7 @@
 ---
 date: '2020-08-24'
 draft: 'false'
-id: d2020-08-24-e357
+id: e357
 summary: "Dr. Elliott Sober is Hans Reichenbach Professor and William F. Vilas Research\
   \ Professor in the Department of Philosophy at the University of Wisconsin\u2013\
   Madison. Dr. Sober is noted for his work in philosophy of biology and general philosophy\

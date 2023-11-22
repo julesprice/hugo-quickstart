@@ -1,7 +1,7 @@
 ---
 date: '2022-08-12'
 draft: 'false'
-id: d2022-08-12-e664
+id: e664
 summary: Dr. Summer Mengelkoch has recently finished her PhD in experimental social
   psychology at Texas Christian University. She has just accepted a postdoc position
   at UCLA under George Slavich. She earned a B.A. from the University of Minnesota

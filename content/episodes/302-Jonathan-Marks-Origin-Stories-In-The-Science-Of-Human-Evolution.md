@@ -1,7 +1,7 @@
 ---
 date: '2020-03-02'
 draft: 'false'
-id: d2020-03-02-e302
+id: e302
 summary: "Dr. Jonathan Marks is Professor of Anthropology at the University of North\
   \ Carolina at Charlotte. His primary training is in biological anthropology and\
   \ genetics. In 2006 he was elected a Fellow of the American Association for the\

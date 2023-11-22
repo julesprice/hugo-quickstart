@@ -1,7 +1,7 @@
 ---
 date: '2023-01-26'
 draft: 'false'
-id: d2023-01-26-e735
+id: e735
 summary: "Dr. Daniel Blumstein is a Professor in the Department of Ecology and Evolutionary\
   \ Biology at the University of California, Los Angeles, and a Professor at UCLA\u2019\
   s Institute of the Environment and Sustainability. He is a behavioral ecologist\

@@ -1,7 +1,7 @@
 ---
 date: '2021-03-04'
 draft: 'false'
-id: d2021-03-04-e438
+id: e438
 summary: In this episode, we talk about the psychology of criminal behavior. We go
   through the several levels of analysis for the development of criminal behavior,
   including its evolutionary bases, its behavioral genetics, prenatal factors, sex

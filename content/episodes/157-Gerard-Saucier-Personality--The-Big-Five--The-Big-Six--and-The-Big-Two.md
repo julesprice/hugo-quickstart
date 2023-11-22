@@ -1,7 +1,7 @@
 ---
 date: '2019-03-29'
 draft: 'false'
-id: d2019-03-29-e157
+id: e157
 summary: "Dr. Gerard Saucier is a Professor of Psychology at the University of Oregon.\
   \ He won the 1999 Cattell Early Career Research Award from the Society of Multivariate\
   \ Experimental Psychology. His research focuses on Personality Psychology, Values,\

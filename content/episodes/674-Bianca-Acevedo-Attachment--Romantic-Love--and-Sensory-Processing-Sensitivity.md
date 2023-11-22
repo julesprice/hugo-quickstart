@@ -1,7 +1,7 @@
 ---
 date: '2022-09-05'
 draft: 'false'
-id: d2022-09-05-e674
+id: e674
 summary: Dr. Bianca Acevedo is an Instructor at New York University. She is a social
   neuroscientist whose research focuses on the neural basis of attachment, caregiving,
   sensory processing sensitivity (and related disorders), and mind-body interventions.

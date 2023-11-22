@@ -1,7 +1,7 @@
 ---
 date: '2023-04-24'
 draft: 'false'
-id: d2023-04-24-e773
+id: e773
 summary: "Dr. Catarina Dutilh Novaes is Professor and University Research Chair at\
   \ the Department of Philosophy of the VU Amsterdam. She is also a Professorial Fellow\
   \ at Arch\xE9 in St. Andrews (2019-2024). She is currently running the ERC Consolidator\

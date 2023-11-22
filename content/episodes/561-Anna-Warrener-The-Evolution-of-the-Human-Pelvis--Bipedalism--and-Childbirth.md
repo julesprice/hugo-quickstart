@@ -1,7 +1,7 @@
 ---
 date: '2021-12-16'
 draft: 'false'
-id: d2021-12-16-e561
+id: e561
 summary: Dr. Anna Warrener is an assistant professor in the Anthropology department
   at University of Colorado Denver. Her research focuses on the evolution of the human
   musculoskeletal system using biomechanical techniques to assess how variation in

@@ -1,7 +1,7 @@
 ---
 date: '2021-07-26'
 draft: 'false'
-id: d2021-07-26-e500
+id: e500
 summary: 'Dr. Elly Vintiadis is a philosopher of mind and psychiatry at Deree, the
   American College of Greece. Her work focuses on the mind, its products and disorders,
   and the nature of their dependence on the social environment. She is mainly interested

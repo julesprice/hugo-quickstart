@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01'
 draft: 'false'
-id: d2019-08-01-e127
+id: e127
 summary: 'Dr. Michael Graziano is a Professor of Psychology and Neuroscience at Princeton
   University. His scientific research focuses on the brain basis of awareness. He
   has proposed the "attention schema" theory, an explanation of how, and for what

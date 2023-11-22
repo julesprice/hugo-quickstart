@@ -1,7 +1,7 @@
 ---
 date: '2019-10-31'
 draft: 'false'
-id: d2019-10-31-e249
+id: e249
 summary: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab &amp; Lecturer
   at Harvard's Department of Economics. He applies game theory, models of learning
   and evolution, and experimental methods, to try to decipher the (often subconscious

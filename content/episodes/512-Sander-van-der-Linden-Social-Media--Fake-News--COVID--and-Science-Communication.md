@@ -1,7 +1,7 @@
 ---
 date: '2021-08-23'
 draft: 'false'
-id: d2021-08-23-e512
+id: e512
 summary: Dr. Sander van der Linden is Professor of Social Psychology in the Department
   of Psychology at the University of Cambridge and Director of the Cambridge Social
   Decision-Making Lab. His research interests center around the psychology of human

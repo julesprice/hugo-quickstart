@@ -1,7 +1,7 @@
 ---
 date: '2019-06-07'
 draft: 'false'
-id: d2019-06-07-e187
+id: e187
 summary: "Dr. Robert Trivers is an American evolutionary biologist and sociobiologist.\
   \ He proposed the theories of reciprocal altruism (1971), parental investment (1972),\
   \ facultative sex ratio determination (1973), and parent\u2013offspring conflict\

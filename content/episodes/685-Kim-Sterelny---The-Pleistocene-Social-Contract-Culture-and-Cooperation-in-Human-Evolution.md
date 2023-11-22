@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 draft: 'false'
-id: d2022-09-30-e685
+id: e685
 summary: 'Dr. Kim Sterelny is professor of philosophy in the Research School of Social
   Sciences at Australian National University and Victoria University of Wellington.
   He is the winner of several international prizes in the philosophy of science. He

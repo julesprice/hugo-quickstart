@@ -1,7 +1,7 @@
 ---
 date: '2020-05-25'
 draft: 'false'
-id: d2020-05-25-e338
+id: e338
 summary: "Dr. Don Moore is the Lorraine Tyson Mitchell Professor of Communication\
   \ and Leadership at the Haas School of Business, and a member of the Management\
   \ of Organizations group, at UC Berkeley. Prior to Haas, Dr. Moore served on the\

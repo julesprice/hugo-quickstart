@@ -1,7 +1,7 @@
 ---
 date: '2019-06-14'
 draft: 'false'
-id: d2019-06-14-e95
+id: e95
 summary: "Dr. Robert Kurzban is a former Professor of Psychology at the University\
   \ of Pennsylvania. His research focuses on the nature of evolved cognitive adaptations\
   \ for social life. Dr. Kurzban has served as both the editor-in-chief of the journal\

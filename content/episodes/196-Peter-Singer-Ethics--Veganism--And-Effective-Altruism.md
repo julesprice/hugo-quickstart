@@ -1,7 +1,7 @@
 ---
 date: '2019-06-28'
 draft: 'false'
-id: d2019-06-28-e196
+id: e196
 summary: Dr. Peter Singer is the Ira W. DeCamp Professor of Bioethics at Princeton
   University, and a Laureate Professor at the Centre for Applied Philosophy and Public
   Ethics at the University of Melbourne. He specializes in applied ethics and approaches

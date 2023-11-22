@@ -1,7 +1,7 @@
 ---
 date: '2023-09-22'
 draft: 'false'
-id: d2023-09-22-e838
+id: e838
 summary: Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decision
   Making at UCLA Anderson School of Management. Her research interests lie in behavioral
   economics, strategy, and innovation, with a focus on recognition incentives and

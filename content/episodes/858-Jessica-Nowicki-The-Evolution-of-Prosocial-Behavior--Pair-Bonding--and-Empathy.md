@@ -1,7 +1,7 @@
 ---
 date: '2023-11-09'
 draft: 'false'
-id: d2023-11-09-e858
+id: e858
 summary: Dr. Jessica Nowicki is a Research Scientist at the Wu Tsai Neurosciences
   Institute at Stanford University. She is interested in the mechanistic basis of
   prosocial behavior in early vertebrates. She uses poison frogs, which display considerable

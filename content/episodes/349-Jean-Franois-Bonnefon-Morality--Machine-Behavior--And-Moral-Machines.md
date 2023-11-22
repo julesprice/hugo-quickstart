@@ -1,7 +1,7 @@
 ---
 date: '2020-07-20'
 draft: 'false'
-id: d2020-07-20-e349
+id: e349
 summary: "Dr. Jean-Fran\xE7ois Bonnefon (PhD, cognitive psychology) is a Research\
   \ Director at the French Centre National de la Recherche Scientifique, affiliated\
   \ to the Toulouse School of Economics, the Toulouse School of Management, and the\

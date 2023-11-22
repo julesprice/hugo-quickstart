@@ -1,7 +1,7 @@
 ---
 date: '2019-07-01'
 draft: 'false'
-id: d2019-07-01-e197
+id: e197
 summary: "O Dr. Paulo Finuras \xE9 Doutorado em Ci\xEAncias Sociais e do Comportamento\
   \ (especialidade de Ci\xEAncia Pol\xEDtica) pela ULHT (Universidade Lus\xF3fona\
   \ de Humanidades e Tecnologias), P\xF3s-graduado em Gest\xE3o e Pol\xEDtica Internacional\

@@ -1,7 +1,7 @@
 ---
 date: '2021-09-17'
 draft: 'false'
-id: d2021-09-17-e523
+id: e523
 summary: "Dr. Roman V. Yampolskiy is a Tenured Associate Professor in the department\
   \ of Computer Engineering and Computer Science at the Speed School of Engineering\
   \ at the University of Louisville. He is the founding and current director of the\

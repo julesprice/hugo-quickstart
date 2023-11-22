@@ -1,7 +1,7 @@
 ---
 date: '2021-02-26'
 draft: 'false'
-id: d2021-02-26-e436
+id: e436
 summary: 'Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Honorary
   Professor of Philosophy at Macquarie University. He is also the Co-Director of the
   Justice Without Retribution Network (JWRN) at the University of Aberdeen School

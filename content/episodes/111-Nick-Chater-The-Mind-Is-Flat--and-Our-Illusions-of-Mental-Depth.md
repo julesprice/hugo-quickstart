@@ -1,7 +1,7 @@
 ---
 date: '2019-07-09'
 draft: 'false'
-id: d2019-07-09-e111
+id: e111
 summary: "Dr. Nick Chater is Professor of Behavioural Science at Warwick Business\
   \ School. He works on rationality and language using a range of theoretical and\
   \ experimental approaches. He has over 200 publications, has won four national awards\

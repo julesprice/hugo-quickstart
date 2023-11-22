@@ -1,7 +1,7 @@
 ---
 date: '2020-02-21'
 draft: 'false'
-id: d2020-02-21-e298
+id: e298
 summary: Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University
   of Toronto. His primary appointment is as Professor in the Department of Psychology,
   but he is also cross-appointed as Professor at the Rotman School of Management.

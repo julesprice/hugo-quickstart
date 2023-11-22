@@ -1,7 +1,7 @@
 ---
 date: '2019-02-18'
 draft: 'false'
-id: d2019-02-18-e11
+id: e11
 summary: Mr. Kevin Lomangino is the managing editor of HealthNewsReview.org. He is
   also an independent health care journalist who was previously editor-in-chief of
   Clinical Nutrition Insight, a monthly evidence-based newsletter for physicians and

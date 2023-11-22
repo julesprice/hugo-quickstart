@@ -1,7 +1,7 @@
 ---
 date: '2023-02-10'
 draft: 'false'
-id: d2023-02-10-e742
+id: e742
 summary: Dr. Zoe Liberman is Associate Professor of Psychology at the University of
   California Santa Barbara. Dr. Liberman investigates the origins and development
   of human social cognition. She is particularly interested in how infants begin to

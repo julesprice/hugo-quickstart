@@ -1,7 +1,7 @@
 ---
 date: '2021-05-13'
 draft: 'false'
-id: d2021-05-13-e468
+id: e468
 summary: 'Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the University
   of Louisville. He specializes in the philosophical study of the mind and has published
   extensively on the nature of emotions (especially, boredom), consciousness, and

@@ -1,7 +1,7 @@
 ---
 date: '2019-09-06'
 draft: 'false'
-id: d2019-09-06-e226
+id: e226
 summary: "In this episode, we talk about the philosophy of the Black Mirror series,\
   \ by Charlie Brooker. We go through some of the general themes we were able to identify\
   \ running through the series, including: the individual and social aspects of life,\

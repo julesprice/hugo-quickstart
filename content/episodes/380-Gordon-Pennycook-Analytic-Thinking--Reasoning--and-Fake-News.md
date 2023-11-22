@@ -1,7 +1,7 @@
 ---
 date: '2020-10-19'
 draft: 'false'
-id: d2020-10-19-e380
+id: e380
 summary: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University\
   \ of Regina\u2019s Hill/Levene Schools of Business. He\u2019s also an Associate\
   \ Member of the Department of Psychology. He\u2019s a member of the editorial board\

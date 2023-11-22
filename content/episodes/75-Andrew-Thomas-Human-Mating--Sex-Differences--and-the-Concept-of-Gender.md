@@ -1,7 +1,7 @@
 ---
 date: '2019-05-16'
 draft: 'false'
-id: d2019-05-16-e75
+id: e75
 summary: Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK.
   His research is concerned with the differences in mating strategies within and between
   the sexes. This includes environmental and social factors which contribute to this

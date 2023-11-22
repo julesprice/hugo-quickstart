@@ -1,7 +1,7 @@
 ---
 date: '2019-04-06'
 draft: 'false'
-id: d2019-04-06-e50
+id: e50
 summary: "Dr. Nancy Segal is Professor of Developmental Psychology and Director of\
   \ the Twin Studies Center, at California State University, Fullerton. She\u2019\
   s been the recipient of many awards and distinctions. She served as Assistant Director\

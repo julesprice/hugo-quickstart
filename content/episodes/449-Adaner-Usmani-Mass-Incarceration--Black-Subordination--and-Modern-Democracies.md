@@ -1,7 +1,7 @@
 ---
 date: '2021-03-29'
 draft: 'false'
-id: d2021-03-29-e449
+id: e449
 summary: In this episode, we focus on topics like mass incarceration, discrimination
   against black Americans and the root causes of their subordination, modern democracies
   and their weaknesses, creating a Left that does not deny human nature, and the viability

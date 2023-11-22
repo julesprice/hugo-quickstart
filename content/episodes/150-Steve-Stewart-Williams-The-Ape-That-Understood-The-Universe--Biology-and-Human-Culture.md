@@ -1,7 +1,7 @@
 ---
 date: '2019-03-14'
 draft: 'false'
-id: d2019-03-14-e150
+id: e150
 summary: "Dr. Steve Stewart-Williams is Associate Professor of Psychology at Nottingham\
   \ University Malaysia Campus. His research revolves around the idea that theories\
   \ from evolutionary biology can shed light on human psychology. In particular, he\u2019\

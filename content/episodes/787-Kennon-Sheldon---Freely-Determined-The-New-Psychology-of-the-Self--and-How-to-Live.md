@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 draft: 'false'
-id: d2023-05-26-e787
+id: e787
 summary: 'Dr. Kennon Sheldon is Curator&#39;s Distinguished Professor in the Department
   of Psychological Sciences at the University of Missouri. His research is in the
   areas of well-being, motivation, self-determination theory, personality, and positive

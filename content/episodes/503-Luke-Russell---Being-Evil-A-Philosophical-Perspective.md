@@ -1,7 +1,7 @@
 ---
 date: '2021-08-02'
 draft: 'false'
-id: d2021-08-02-e503
+id: e503
 summary: 'Dr. Luke Russell is Associate Professor in the Department of Philosophy
   at the University of Sydney. His research explores moral philosophy and he has written
   about evil, forgiveness, virtue and vice. Dr. Russell teaches ethics, moral psychology,

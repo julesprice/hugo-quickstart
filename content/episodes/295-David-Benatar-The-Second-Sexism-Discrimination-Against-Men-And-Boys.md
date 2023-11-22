@@ -1,7 +1,7 @@
 ---
 date: '2020-02-14'
 draft: 'false'
-id: d2020-02-14-e295
+id: e295
 summary: "Dr. David Benatar is professor of philosophy at the University of Cape Town\
   \ in Cape Town, South Africa. He is best known for his advocacy of anti-natalism\
   \ in his book Better Never to Have Been: The Harm of Coming into Existence, in which\

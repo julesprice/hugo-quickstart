@@ -1,7 +1,7 @@
 ---
 date: '2021-12-20'
 draft: 'false'
-id: d2021-12-20-e563
+id: e563
 summary: "Dr. Robert Brooks is Professor of Evolution at the University of New South\
   \ Wales in Sydney, Australia. He studies the evolution of mate choice, the costs\
   \ of being attractive, sexual conflict, the reason animals age and the links between\

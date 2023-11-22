@@ -1,7 +1,7 @@
 ---
 date: '2019-05-01'
 draft: 'false'
-id: d2019-05-01-e64
+id: e64
 summary: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her\
   \ contributions to neurophilosophy and the philosophy of mind. She is UC President's\
   \ Professor of Philosophy Emerita at the University of California, San Diego (UCSD).\

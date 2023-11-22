@@ -1,7 +1,7 @@
 ---
 date: '2019-04-22'
 draft: 'false'
-id: d2019-04-22-e167
+id: e167
 summary: "Dr. Rani Lill Anjum is Research Fellow in Philosophy at the Norwegian University\
   \ of Life Sciences (NMBU) School of Economics and Business, and Leader of the CAPS\
   \ \u2013 Center for Applied Philosophy of Science since 2018. She spent two years\

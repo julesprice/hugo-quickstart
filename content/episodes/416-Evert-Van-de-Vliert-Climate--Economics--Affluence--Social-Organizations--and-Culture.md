@@ -1,7 +1,7 @@
 ---
 date: '2021-01-11'
 draft: 'false'
-id: d2021-01-11-e416
+id: e416
 summary: "Dr. Evert Van de Vliert received his PhD from the Free University in Amsterdam\
   \ in 1973 and held teacher and researcher positions at the same university, at the\
   \ University of St. Andrews in Scotland, and at the Royal Military Academy in the\

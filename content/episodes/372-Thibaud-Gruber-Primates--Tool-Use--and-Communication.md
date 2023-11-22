@@ -1,7 +1,7 @@
 ---
 date: '2020-10-01'
 draft: 'false'
-id: d2020-10-01-e372
+id: e372
 summary: In this episode, we focus on tool use and vocalizations from chimpanzees,
   bonobos and orangutans. We start with toll use, and go through some general topics,
   like how transmission of cultural knowledge occurs in these species, if they have

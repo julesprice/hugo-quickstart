@@ -1,7 +1,7 @@
 ---
 date: '2021-10-21'
 draft: 'false'
-id: d2021-10-21-e537
+id: e537
 summary: Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow at
   the Institute for Policy Research at Northwestern University. He uses principles
   from anthropology and evolutionary biology to gain insights into the biological

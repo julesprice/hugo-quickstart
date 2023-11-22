@@ -1,7 +1,7 @@
 ---
 date: '2021-11-19'
 draft: 'false'
-id: d2021-11-19-e550
+id: e550
 summary: 'Dr. Jonathan Zimmerman is a Professor of History of Education at the University
   of Pennsylvania Graduate School of Education. Dr. Zimmerman is one of the foremost
   education historians working today. His work examines how education practices and

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-15'
 draft: 'false'
-id: d2022-09-15-e678
+id: e678
 summary: Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and Anthropology
   and a Founder of the Department of Sexuality Studies and the National Sexuality
   Resource Center at San Francisco State University. He founded the Summer Institute

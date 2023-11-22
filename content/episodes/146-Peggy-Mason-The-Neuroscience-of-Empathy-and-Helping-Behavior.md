@@ -1,7 +1,7 @@
 ---
 date: '2019-03-04'
 draft: 'false'
-id: d2019-03-04-e146
+id: e146
 summary: Dr. Peggy Mason is a Professor in the Department of Neurobiology at the University
   of Chicago. She received both her BA in Biology and her Phd in Neuroscience from
   Harvard. Professor Mason has been on the faculty of University of Chicago since

@@ -1,7 +1,7 @@
 ---
 date: '2020-09-04'
 draft: 'false'
-id: d2020-09-04-e361
+id: e361
 summary: "In this episode, we focus on Dr. Henrich\u2019s new book, The WEIRDest People\
   \ in the World. We first talk about innate anchors, how societies evolved in complexity,\
   \ the role that agriculture played, and the various aspects of WEIRD psychology.\

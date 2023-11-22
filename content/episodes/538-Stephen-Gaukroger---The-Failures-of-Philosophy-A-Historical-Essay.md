@@ -1,7 +1,7 @@
 ---
 date: '2021-10-22'
 draft: 'false'
-id: d2021-10-22-e538
+id: e538
 summary: "Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy and\
   \ History of Science at the University of Sydney. Dr. Gaukroger has completed a\
   \ long-term project on the emergence and consolidation of a scientific culture in\

@@ -1,7 +1,7 @@
 ---
 date: '2019-09-13'
 draft: 'false'
-id: d2019-09-13-e229
+id: e229
 summary: 'Dr. Steven C. Hayes is Nevada Foundation Professor in the Behavior Analysis
   program at the Department of Psychology at the University of Nevada. An author of
   44 books and nearly 600 scientific articles, his career has focused on an analysis

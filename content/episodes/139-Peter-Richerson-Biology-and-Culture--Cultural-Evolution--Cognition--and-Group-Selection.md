@@ -1,7 +1,7 @@
 ---
 date: '2019-02-15'
 draft: 'false'
-id: d2019-02-15-e139
+id: e139
 summary: SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK.
   HOPE YOU ENJOY IT.
 title: '#139 Peter Richerson: Biology and Culture, Cultural Evolution, Cognition,

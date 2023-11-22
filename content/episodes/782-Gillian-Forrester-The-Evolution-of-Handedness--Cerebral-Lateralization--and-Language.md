@@ -1,7 +1,7 @@
 ---
 date: '2023-05-15'
 draft: 'false'
-id: d2023-05-15-e782
+id: e782
 summary: Dr. Gillian Forrester is a Professor of Comparative Cognition in the School
   of Psychology at the University of Sussex. She is the director of the Comparative
   Cognition Group investigating the behaviors and brain organization of children,

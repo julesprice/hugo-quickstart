@@ -1,7 +1,7 @@
 ---
 date: '2021-05-14'
 draft: 'false'
-id: d2021-05-14-e469
+id: e469
 summary: Dr. Tim Maudlin is Professor of Philosophy at New York University. Her has
   interests primarily focused in the foundations of physics, metaphysics, and logic.
   His books include Quantum Non-Locality and Relativity, Truth and Paradox and The

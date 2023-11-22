@@ -1,7 +1,7 @@
 ---
 date: '2019-12-16'
 draft: 'false'
-id: d2019-12-16-e269
+id: e269
 summary: Dr. Colin Allen is Distinguished Professor, and Director of Graduate Admissions
   in the Department of History and Philosophy of at the University of Pittsburgh.
   Dr. Allen's main areas of research concern the philosophical foundations of cognitive

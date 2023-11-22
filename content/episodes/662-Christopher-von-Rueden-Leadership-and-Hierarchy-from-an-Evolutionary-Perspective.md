@@ -1,7 +1,7 @@
 ---
 date: '2022-08-08'
 draft: 'false'
-id: d2022-08-08-e662
+id: e662
 summary: Dr. Christopher von Rueden is Associate Professor of Leadership Studies at
   the University of Richmond. An anthropologist with expertise in traditional human
   societies, his research focuses on how humans form status hierarchies, why we evolved

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-01'
 draft: 'false'
-id: d2022-07-01-e646
+id: e646
 summary: 'Dr. Russ Shafer-Landau is Professor of Philosophy at the University of Wisconsin-Madison.
   His primary interest is in ethics. He is the author of Moral Realism: A Defence
   (Oxford 2003), Whatever Happened to Good and Evil? (Oxford 2004), and The Fundamentals

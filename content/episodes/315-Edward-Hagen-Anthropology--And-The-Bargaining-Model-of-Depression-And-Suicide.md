@@ -1,7 +1,7 @@
 ---
 date: '2020-04-02'
 draft: 'false'
-id: d2020-04-02-e315
+id: e315
 summary: Dr. Edward Hagen is Professor of Evolutionary Anthropology at Washington
   State University. His research takes an evolutionary approach to non-infectious
   diseases, with a focus on mental health. He investigates tobacco use in the larger

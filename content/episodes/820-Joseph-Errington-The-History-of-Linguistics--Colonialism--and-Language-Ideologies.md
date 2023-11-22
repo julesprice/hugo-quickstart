@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 draft: 'false'
-id: d2023-08-11-e820
+id: e820
 summary: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. He
   studies language change as a source of insight into the ways languages constitute
   intimate parts of our everyday lives, and at the same time are foundational for

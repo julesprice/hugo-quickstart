@@ -1,7 +1,7 @@
 ---
 date: '2023-02-09'
 draft: 'false'
-id: d2023-02-09-e741
+id: e741
 summary: 'Dr. Marya Schechtman is an LAS Distinguished Professor of Philosophy, as
   well as a member of the Laboratory of Integrative Neuroscience at the University
   of Illinois Chicago. Her main areas of interest are personal identity, practical

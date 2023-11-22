@@ -1,7 +1,7 @@
 ---
 date: '2020-04-30'
 draft: 'false'
-id: d2020-04-30-e327
+id: e327
 summary: "Dr. Sarah Garfinkel is Professor of neuroscience and psychiatry based at\
   \ the University of Sussex and the Brighton and Sussex Medical School. Her research\
   \ is focused on the link between interoception and emotion and memory. In 2018,\

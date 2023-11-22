@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 draft: 'false'
-id: d2023-11-16-e861
+id: e861
 summary: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive social\
   \ sciences at \xC9cole Normale Sup\xE9rieure in Paris (Department of Cognitive Science).\
   \ He is part of the Evolution and Social Cognition team of the Institut Jean-Nicod.\

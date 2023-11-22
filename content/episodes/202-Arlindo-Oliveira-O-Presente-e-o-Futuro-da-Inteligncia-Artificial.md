@@ -1,7 +1,7 @@
 ---
 date: '2019-07-12'
 draft: 'false'
-id: d2019-07-12-e202
+id: e202
 summary: "O Dr. Arlindo Oliveira \xE9 Presidente do Instituto Superior T\xE9cnico\
   \ e Professor do Departamento de Engenharia Inform\xE1tica, onde tem desenvolvido\
   \ trabalho no contexto de sistemas digitais, s\xEDntese l\xF3gica, algoritmia, aprendizagem\

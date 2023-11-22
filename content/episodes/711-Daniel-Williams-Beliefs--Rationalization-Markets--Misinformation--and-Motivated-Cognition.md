@@ -1,7 +1,7 @@
 ---
 date: '2022-12-01'
 draft: 'false'
-id: d2022-12-01-e711
+id: e711
 summary: Dr. Daniel Williams is a Research Fellow at Corpus Christi College, University
   of Cambridge, and an Associate Fellow at the Leverhulme Centre for the Future of
   Intelligence (CFI). He works mostly in the philosophy of mind and psychology. His

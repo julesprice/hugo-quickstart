@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 draft: 'false'
-id: d2023-09-25-e839
+id: e839
 summary: "Dr. Michael Muthukrishna is an Associate Professor of Economic Psychology\
   \ at the London School of Economics. His other affiliations include Affiliate of\
   \ the Developmental Economics Group at STICERD, Affiliate of the Data Science Institute,\

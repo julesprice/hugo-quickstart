@@ -1,7 +1,7 @@
 ---
 date: '2020-01-23'
 draft: 'false'
-id: d2020-01-23-e285
+id: e285
 summary: "Dr. Nicholas Christakis is Sterling Professor of Social &amp; Natural Science,\
   \ and Professor of Internal Medicine and General Medicine at Yale University. He\u2019\
   s a sociologist and physician known for his research on social networks and on the\

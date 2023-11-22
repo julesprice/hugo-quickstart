@@ -1,7 +1,7 @@
 ---
 date: '2023-01-27'
 draft: 'false'
-id: d2023-01-27-e736
+id: e736
 summary: "Dr. Todd Kashdan is Professor of Psychology at George Mason University.\
   \ He is the author of The Upside of Your Dark Side: Why being your whole self -\
   \ not just your \u201Cgood\u201D self - drives success and fulfillment, Curious?\

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 draft: 'false'
-id: d2023-09-15-e835
+id: e835
 summary: "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumitomo\
   \ Professor Emeritus of Japanese Studies at Yale University. A noted authority on\
   \ the social and historical anthropology of Japan, Dr. Kelly focused much of his\

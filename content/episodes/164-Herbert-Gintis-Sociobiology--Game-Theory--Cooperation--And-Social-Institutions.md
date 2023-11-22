@@ -1,7 +1,7 @@
 ---
 date: '2019-04-15'
 draft: 'false'
-id: d2019-04-15-e164
+id: e164
 summary: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and
   Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project
   that models such behaviors as empathy, reciprocity, insider/outsider behavior, vengefulness,

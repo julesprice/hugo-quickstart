@@ -1,7 +1,7 @@
 ---
 date: '2019-06-13'
 draft: 'false'
-id: d2019-06-13-e94
+id: e94
 summary: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department at
   Arizona State University, co-Director of the Human Generosity Project and Director
   of Human and Social Evolution, and co-founder of the Center for Evolution and Cancer

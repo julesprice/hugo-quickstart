@@ -1,7 +1,7 @@
 ---
 date: '2019-08-10'
 draft: 'false'
-id: d2019-08-10-e131
+id: e131
 summary: 'Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with the
   Future, a Keynote Speaker, Futurist, Strategic Adviser, popular Blogger and Podcast
   host, also known as Socrates in the Singularity community. In 1998, he moved to

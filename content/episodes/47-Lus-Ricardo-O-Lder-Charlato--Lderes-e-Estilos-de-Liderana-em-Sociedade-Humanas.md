@@ -1,7 +1,7 @@
 ---
 date: '2019-04-03'
 draft: 'false'
-id: d2019-04-03-e47
+id: e47
 summary: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem experi\xEA\
   ncia como professor e como respons\xE1vel t\xE9cnico/comercial em empresas. Publicou\
   \ v\xE1rios artigos sobre lideran\xE7a e \xE9 autor dos livros \u201CO L\xEDder\

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-22'
 draft: 'false'
-id: d2022-07-22-e655
+id: e655
 summary: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington State
   University. Her research interests include long-distance relationships and resource
   management, long-distance relationships and the downsides of climate change, and

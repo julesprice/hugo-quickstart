@@ -1,7 +1,7 @@
 ---
 date: '2021-10-14'
 draft: 'false'
-id: d2021-10-14-e534
+id: e534
 summary: Dr. Michael Huemer is a professor of philosophy at the University of Colorado.
   He is the author of more than seventy academic articles in epistemology, ethics,
   metaethics, metaphysics, and political philosophy, as well as several books, like

@@ -1,7 +1,7 @@
 ---
 date: '2020-03-09'
 draft: 'false'
-id: d2020-03-09-e305
+id: e305
 summary: 'Dr. Steven Pinker is a Johnstone Family Professor in the Department of Psychology
   at Harvard University. He conducts research on language and cognition, writes for
   publications such as the New York Times, Time and The Atlantic, and is the author

@@ -1,7 +1,7 @@
 ---
 date: '2021-06-14'
 draft: 'false'
-id: d2021-06-14-e482
+id: e482
 summary: David Pearce is a prominent figure within the transhumanism movement and
   one of the co-founders of the World Transhumanist Association, currently rebranded
   and incorporated as Humanity+. His self-published internet manifesto, The Hedonistic

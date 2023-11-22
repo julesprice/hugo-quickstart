@@ -1,7 +1,7 @@
 ---
 date: '2023-08-10'
 draft: 'false'
-id: d2023-08-10-e819
+id: e819
 summary: 'Dr. Geoffrey West is Shannan Distinguished Professor at the Santa Fe Institute.
   He is a theoretical physicist whose primary interests have been in fundamental questions
   in physics, especially those concerning the elementary particles, their interactions

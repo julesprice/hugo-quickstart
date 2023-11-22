@@ -1,7 +1,7 @@
 ---
 date: '2019-07-10'
 draft: 'false'
-id: d2019-07-10-e112
+id: e112
 summary: "Dr. Diane Halpern is Dean Emerita of Social Sciences at Minerva Schools\
   \ at Keck Graduate Institute and former Emerita Professor of Psychology at Claremont\
   \ McKenna College. She has won many awards for her teaching and research, including\

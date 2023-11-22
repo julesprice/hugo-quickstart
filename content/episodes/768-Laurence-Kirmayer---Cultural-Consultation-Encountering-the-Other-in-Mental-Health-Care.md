@@ -1,7 +1,7 @@
 ---
 date: '2023-04-13'
 draft: 'false'
-id: d2023-04-13-e768
+id: e768
 summary: 'Dr. Laurence Kirmayer is James McGill Professor and Director of the Division
   of Social and Transcultural Psychiatry at McGill University. He directs the Culture
   &amp; Mental Health Research Unit at the Jewish General Hospital where he conducts

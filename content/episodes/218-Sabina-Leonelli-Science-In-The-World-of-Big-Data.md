@@ -1,7 +1,7 @@
 ---
 date: '2019-08-19'
 draft: 'false'
-id: d2019-08-19-e218
+id: e218
 summary: "Dr. Sabina Leonelli is Professor of Philosophy and History of Science at\
   \ the University of Exeter. She pursues an approach to philosophy of science that\
   \ is grounded on the empirical study of scientific practices, as informed by historical\

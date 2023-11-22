@@ -1,7 +1,7 @@
 ---
 date: '2019-02-23'
 draft: 'false'
-id: d2019-02-23-e16
+id: e16
 summary: "Jon Entine is an American author and journalist, and the Executive Director\
   \ of the Genetic Literacy Project. He\u2019s also a senior research fellow at the\
   \ Institute for Food and Agricultural Literacy at the University of California,\

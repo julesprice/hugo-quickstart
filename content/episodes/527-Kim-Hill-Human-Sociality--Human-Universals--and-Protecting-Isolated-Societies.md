@@ -1,7 +1,7 @@
 ---
 date: '2021-09-27'
 draft: 'false'
-id: d2021-09-27-e527
+id: e527
 summary: Dr. Kim Hill is a professor in the Anthropology department at Arizona State
   University.
 title: '#527 Kim Hill: Human Sociality, Human Universals, and Protecting Isolated

@@ -1,7 +1,7 @@
 ---
 date: '2020-12-28'
 draft: 'false'
-id: d2020-12-28-e410
+id: e410
 summary: "In this episode, we focus on Mortal Republic. We go through the several\
   \ different political organizations that Rome had \u2013 the kingdom, the republic,\
   \ and the empire -, and some of their major players, like the patricians, the Gracchi\

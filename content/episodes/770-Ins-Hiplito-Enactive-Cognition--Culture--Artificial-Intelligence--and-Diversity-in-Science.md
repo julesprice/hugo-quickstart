@@ -1,7 +1,7 @@
 ---
 date: '2023-04-17'
 draft: 'false'
-id: d2023-04-17-e770
+id: e770
 summary: "Dr. In\xEAs Hip\xF3lito is a Lecturer at the Berlin School of Mind and Brain\
   \ at Humboldt-Universit\xE4t zu Berlin, where she investigates the reciprocal relationship\
   \ between the representational structures, basic cognition, and the nervous system.\

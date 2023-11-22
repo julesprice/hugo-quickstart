@@ -1,7 +1,7 @@
 ---
 date: '2020-06-08'
 draft: 'false'
-id: d2020-06-08-e342
+id: e342
 summary: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, and\
   \ the Director of the Center for Behavior, Evolution and Culture at UCLA. He is\
   \ a biological anthropologist specializing in evolutionary psychology, the study\

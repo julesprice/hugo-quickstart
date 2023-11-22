@@ -1,7 +1,7 @@
 ---
 date: '2021-05-21'
 draft: 'false'
-id: d2021-05-21-e472
+id: e472
 summary: Dr. Aiyana Koka Willard is a Lecturer in the Centre for Culture and Evolution
   at Brunel University London. Her research focuses around the culture and cognitive
   origins of supernatural and religious beliefs. She is particularly interested in

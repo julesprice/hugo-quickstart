@@ -1,7 +1,7 @@
 ---
 date: '2021-10-18'
 draft: 'false'
-id: d2021-10-18-e536
+id: e536
 summary: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts
   and Professor of Psychology. He and his students are exploring natural language
   use, group dynamics, and personality in both laboratory and real-world settings.

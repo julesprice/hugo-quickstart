@@ -1,7 +1,7 @@
 ---
 date: '2021-01-21'
 draft: 'false'
-id: d2021-01-21-e420
+id: e420
 summary: "Dr. Stephen Stearns is Edward P Bass Professor of Ecology and Evolutionary\
   \ Biology, and Director of Undergraduate Studies at Yale University. Dr. Stearns\
   \ specializes in life history evolution, which links the fields of ecology and evolutionary\

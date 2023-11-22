@@ -1,7 +1,7 @@
 ---
 date: '2021-07-15'
 draft: 'false'
-id: d2021-07-15-e495
+id: e495
 summary: Dr. Robin Huw Crompton is professor of musculoskeletal biology at the University
   of Liverpool in the Institute of Ageing and Chronic Disease. He has developed the
   Fossil Footprint Archive jointly with Matthew Bennett of Bournemouth University.

@@ -1,7 +1,7 @@
 ---
 date: '2019-03-26'
 draft: 'false'
-id: d2019-03-26-e40
+id: e40
 summary: Dr. Frans de Waal is a Dutch primatologist and ethologist. He is the Charles
   Howard Candler professor of Primate Behavior at the Emory University psychology
   department in Atlanta, Georgia, US, the director of the Living Links Center at the

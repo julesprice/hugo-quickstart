@@ -1,7 +1,7 @@
 ---
 date: '2019-03-15'
 draft: 'false'
-id: d2019-03-15-e151
+id: e151
 summary: 'Dr. Richard Wrangham is Ruth B. Moore Professor of Biological Anthropology
   in the Department of Human Evolutionary Biology at Harvard University and founded
   the Kibale Chimpanzee Project in 1987. He has conducted extensive research on primate

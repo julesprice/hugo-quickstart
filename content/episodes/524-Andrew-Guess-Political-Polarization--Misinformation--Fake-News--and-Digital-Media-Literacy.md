@@ -1,7 +1,7 @@
 ---
 date: '2021-09-20'
 draft: 'false'
-id: d2021-09-20-e524
+id: e524
 summary: Dr. Andrew Guess is an assistant professor of politics and public affairs
   at Princeton University. His research and teaching interests lie at the intersection
   of political communication, public opinion, and political behavior. Via a combination

@@ -1,7 +1,7 @@
 ---
 date: '2019-11-28'
 draft: 'false'
-id: d2019-11-28-e261
+id: e261
 summary: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist,
   historian, political activist, and social critic. Sometimes called "the father of
   modern linguistics", Dr. Chomsky is also a major figure in analytic philosophy and

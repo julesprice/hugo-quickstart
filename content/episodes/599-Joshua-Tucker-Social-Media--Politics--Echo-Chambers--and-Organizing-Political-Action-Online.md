@@ -1,7 +1,7 @@
 ---
 date: '2022-03-14'
 draft: 'false'
-id: d2022-03-14-e599
+id: e599
 summary: "Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor of\
   \ Russian and Slavic Studies, and an affiliated Professor of Data Science at New\
   \ York University. He is the Director of NYU\u2019s Jordan Center for Advanced Study\

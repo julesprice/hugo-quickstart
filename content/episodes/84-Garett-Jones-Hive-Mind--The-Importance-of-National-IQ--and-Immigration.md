@@ -1,7 +1,7 @@
 ---
 date: '2019-05-29'
 draft: 'false'
-id: d2019-05-29-e84
+id: e84
 summary: 'Dr. Garett Jones is Associate Professor of Economics and BB&amp;T Professor
   for the Study of Capitalism at the Mercatus Center, at George Mason University.
   His research interests include macroeconomics, monetary economics, and the microfoundations

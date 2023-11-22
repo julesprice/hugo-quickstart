@@ -1,7 +1,7 @@
 ---
 date: '2022-11-17'
 draft: 'false'
-id: d2022-11-17-e705
+id: e705
 summary: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
   \ Forest University. His research is primarily in contemporary ethics and philosophy\
   \ of religion. He\u2019s the author of several books, the most recent one being\

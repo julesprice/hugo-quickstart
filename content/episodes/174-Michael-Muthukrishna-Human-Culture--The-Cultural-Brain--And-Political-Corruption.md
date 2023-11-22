@@ -1,7 +1,7 @@
 ---
 date: '2019-05-09'
 draft: 'false'
-id: d2019-05-09-e174
+id: e174
 summary: "Dr. Michael Muthukrishna is an Assistant Professor of Economic Psychology\
   \ at the London School of Economics. His other affiliations include Research Associate\
   \ of the Department of Human Evolutionary Biology at Harvard University, Affiliate\

@@ -1,7 +1,7 @@
 ---
 date: '2020-04-16'
 draft: 'false'
-id: d2020-04-16-e321
+id: e321
 summary: "Dr. Dick Swaab is an internationally renowned researcher in neuroscience,\
   \ who received numerous awards and published over 540 scientific papers. He earned\
   \ his medical and doctoral degrees at the University of Amsterdam and served as\

@@ -1,7 +1,7 @@
 ---
 date: '2019-12-19'
 draft: 'false'
-id: d2019-12-19-e270
+id: e270
 summary: "Dr. Christopher Stringer is a British physical anthropologist noted for\
   \ his work on human evolution. He is a Research Leader in Human Origins at the Natural\
   \ History Museum. His early research was on the relationship of Neanderthals and\

@@ -1,7 +1,7 @@
 ---
 date: '2019-05-04'
 draft: 'false'
-id: d2019-05-04-e65
+id: e65
 summary: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center
   for Cognitive Neuroscience, at Duke University. He was elected to the National Academy
   of Sciences in 1989 for his work on neural development and synaptic plasticity.

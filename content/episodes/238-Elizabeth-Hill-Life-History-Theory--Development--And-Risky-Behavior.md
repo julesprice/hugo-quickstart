@@ -1,7 +1,7 @@
 ---
 date: '2019-10-04'
 draft: 'false'
-id: d2019-10-04-e238
+id: e238
 summary: Dr. Elizabeth Hill is Professor of Psychology at the University of Detroit
   Mercy. Dr. Hill received her Ph.D. in Experimental Psychology from Tulane University.
   She teaches courses in research methods, statistics, biopsychology, and gender differences.

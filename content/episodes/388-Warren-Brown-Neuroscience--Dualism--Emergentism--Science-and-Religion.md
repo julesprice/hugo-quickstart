@@ -1,7 +1,7 @@
 ---
 date: '2020-11-06'
 draft: 'false'
-id: d2020-11-06-e388
+id: e388
 summary: "Dr. Warren Brown is Director of the Lee Edwards Travis Research Institute\
   \ and Professor of Psychology in the Department of Doctoral Psychology at Fuller\
   \ Theological Seminary. Currently, he is most actively involved in neuroscience\

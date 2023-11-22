@@ -1,7 +1,7 @@
 ---
 date: '2019-03-22'
 draft: 'false'
-id: d2019-03-22-e154
+id: e154
 summary: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of
   Philosophy at the Center for Mind, Brain, and Culture, at Emory University. Dr.
   McCauley is a professor of philosophy, psychology, religion, and anthropology who

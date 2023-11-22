@@ -1,7 +1,7 @@
 ---
 date: '2019-05-27'
 draft: 'false'
-id: d2019-05-27-e182
+id: e182
 summary: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlantic\
   \ University where he teaches graduate and undergraduate courses in developmental\
   \ and evolutionary psychology. He served as Associate Editor of Child Development\

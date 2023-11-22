@@ -1,7 +1,7 @@
 ---
 date: '2019-03-21'
 draft: 'false'
-id: d2019-03-21-e153
+id: e153
 summary: 'Dr. Jessica Pierce is an American bioethicist, philosopher, and writer.
   She currently has a loose affiliation with the Center for Bioethics and Humanities,
   University of Colorado Denver, but considers herself mostly independent. She has

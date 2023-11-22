@@ -1,7 +1,7 @@
 ---
 date: '2019-02-25'
 draft: 'false'
-id: d2019-02-25-e143
+id: e143
 summary: "Dr. William von Hippel is Professor of Psychology at the University of Queensland,\
   \ Australia. &nbsp;He has published more than a hundred articles, chapters, and\
   \ edited books in social psychology, and his research has been featured in The New\

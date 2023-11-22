@@ -1,7 +1,7 @@
 ---
 date: '2019-12-26'
 draft: 'false'
-id: d2019-12-26-e273
+id: e273
 summary: Dr. David Puts is Associate Professor of Anthropology at Pennsylvania State
   University. Dr. Puts studies the neuroendocrine and evolutionary bases of human
   sexuality and sex differences, with special focus on behavior and psychology. His

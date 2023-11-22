@@ -1,7 +1,7 @@
 ---
 date: '2020-12-17'
 draft: 'false'
-id: d2020-12-17-e405
+id: e405
 summary: In this episode, we talk about aggression, and the evolution of yawning.
   We first tackle the evolutionary bases of aggression, and the social functions that
   it serves, and how we can apply this knowledge to combat bullying. We mention sex

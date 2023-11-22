@@ -1,7 +1,7 @@
 ---
 date: '2022-12-08'
 draft: 'false'
-id: d2022-12-08-e714
+id: e714
 summary: 'Dr. Robert Cialdini is Professor Emeritus of Psychology at Arizona State
   University. He has spent his entire career researching the science of influence,
   earning him an international reputation as an expert in the fields of persuasion,

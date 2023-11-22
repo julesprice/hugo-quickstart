@@ -1,7 +1,7 @@
 ---
 date: '2020-12-14'
 draft: 'false'
-id: d2020-12-14-e404
+id: e404
 summary: In this episode, we tackle lots of approaches, challenges and arguments in
   (meta)ethics. We basically go through some of the biggest questions that ethics
   and moral philosophy try to answer. We deal with the relationship between science

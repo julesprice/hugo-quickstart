@@ -1,7 +1,7 @@
 ---
 date: '2021-05-06'
 draft: 'false'
-id: d2021-05-06-e465
+id: e465
 summary: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology
   at the College of Charleston. Her research has been federally funded by the National
   Institutes of Health and she has published her research in numerous scientific journals

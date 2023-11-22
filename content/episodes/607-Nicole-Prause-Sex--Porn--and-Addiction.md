@@ -1,7 +1,7 @@
 ---
 date: '2022-04-01'
 draft: 'false'
-id: d2022-04-01-e607
+id: e607
 summary: Dr. Nicole Prause is a neuroscientist researching human sexual behavior,
   addiction, and the physiology of sexual response. She is also the founder of Liberos
   LLC, an independent research institute.

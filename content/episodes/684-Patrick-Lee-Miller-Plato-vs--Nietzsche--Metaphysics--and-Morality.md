@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 draft: 'false'
-id: d2022-09-29-e684
+id: e684
 summary: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
   University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure
   Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory

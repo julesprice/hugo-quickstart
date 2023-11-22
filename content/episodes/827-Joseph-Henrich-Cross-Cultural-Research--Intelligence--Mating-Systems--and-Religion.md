@@ -1,7 +1,7 @@
 ---
 date: '2023-08-28'
 draft: 'false'
-id: d2023-08-28-e827
+id: e827
 summary: 'Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary
   Biology at Harvard University. He is interested in the question of how humans evolved
   from &quot;being a relatively unremarkable primate a few million years ago to the

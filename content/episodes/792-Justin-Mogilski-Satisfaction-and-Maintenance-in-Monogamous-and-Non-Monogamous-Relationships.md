@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 draft: 'false'
-id: d2023-06-08-e792
+id: e792
 summary: 'Dr. Justin Mogilski is Assistant Professor at the University of South Carolina
   Salkehatchie. His current program of research examines: 1) conflict resolution within
   consensually non-monogamous (CNM) romantic relationships, 2) how evolution has shaped

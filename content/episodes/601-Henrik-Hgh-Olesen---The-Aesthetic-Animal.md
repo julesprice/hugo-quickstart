@@ -1,7 +1,7 @@
 ---
 date: '2022-03-18'
 draft: 'false'
-id: d2022-03-18-e601
+id: e601
 summary: "Dr. Henrik H\xF8gh-Olesen is Professor of Psychology at Aarhus University.\
   \ His research interests include Evolutionary psychology, Comparative psychology/Ethology,\
   \ Primatology, Aesthetics, Psychology of religion, and History of psychology. He\

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-01'
 draft: 'false'
-id: d2023-05-01-e776
+id: e776
 summary: Dr. Adina Roskies is The Helman Family Distinguished Professor and Chair
   of the Cognitive Science Program at Dartmouth College. Dr. Roskies&#39; philosophical
   research interests lie at the intersection of philosophy and neuroscience, and include

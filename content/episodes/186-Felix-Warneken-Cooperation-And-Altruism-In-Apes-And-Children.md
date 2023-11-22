@@ -1,7 +1,7 @@
 ---
 date: '2019-06-06'
 draft: 'false'
-id: d2019-06-06-e186
+id: e186
 summary: "Dr. Felix Warneken is Associate Professor in the Department of Psychology\
   \ at the University of Michigan. He\u2019s interested in Developmental Psychology;\
   \ Culture; Cognition; and Comparative Animal Behavior. His research group addresses\

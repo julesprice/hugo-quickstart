@@ -1,7 +1,7 @@
 ---
 date: '2022-09-26'
 draft: 'false'
-id: d2022-09-26-e683
+id: e683
 summary: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of
   Philosophy at Duke University, and Laureate Professor of Philosophy at the University
   of Arizona. He has written six books covering such topics as applied ethics (especially

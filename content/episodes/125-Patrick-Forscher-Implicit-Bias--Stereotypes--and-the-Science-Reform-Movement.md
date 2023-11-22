@@ -1,7 +1,7 @@
 ---
 date: '2019-07-30'
 draft: 'false'
-id: d2019-07-30-e125
+id: e125
 summary: Dr. Patrick Forscher is Assistant Professor of Psychology at the J. William
   Fulbright College of Arts &amp; Sciences at the University of Arkansas. He studies
   social disparities and what to do about them. He also has a strong interest in research

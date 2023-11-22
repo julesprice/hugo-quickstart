@@ -1,7 +1,7 @@
 ---
 date: '2019-05-28'
 draft: 'false'
-id: d2019-05-28-e83
+id: e83
 summary: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the\
   \ University of Nottingham, having retired in 2008. He is also Honorary Professor\
   \ of Epidemiology and Public Health at University College London and Visiting Professor\

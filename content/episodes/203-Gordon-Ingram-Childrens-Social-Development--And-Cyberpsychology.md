@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 draft: 'false'
-id: d2019-07-15-e203
+id: e203
 summary: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad de\
   \ los Andes, Colombia. &nbsp;He teaches undergraduate courses in Developmental Psychology,\
   \ Cyberpsychology, and Psychology of Language, and a graduate course in Cognition\

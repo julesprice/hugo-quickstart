@@ -1,7 +1,7 @@
 ---
 date: '2019-03-09'
 draft: 'false'
-id: d2019-03-09-e28
+id: e28
 summary: "Dr. Edward Slingerland is a Professor of Asian Studies at the University\
   \ of British Columbia, Vancouver, Canada. He\u2019s the Director of the Cultural\
   \ Evolution of Religion Research Consortium (CERC), the Director of the Database\

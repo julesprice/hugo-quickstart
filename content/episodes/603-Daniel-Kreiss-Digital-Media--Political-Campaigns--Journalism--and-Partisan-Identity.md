@@ -1,7 +1,7 @@
 ---
 date: '2022-03-24'
 draft: 'false'
-id: d2022-03-24-e603
+id: e603
 summary: "Dr. Daniel Kreiss is Professor at the University of North Carolina at Chapel\
   \ Hill\u2019s Hussman School of Journalism and Media. Dr. Kreiss\u2019 research\
   \ explores the impact of technological change on the public sphere and political\

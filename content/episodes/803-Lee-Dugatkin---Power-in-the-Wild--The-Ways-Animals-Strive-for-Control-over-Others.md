@@ -1,7 +1,7 @@
 ---
 date: '2023-07-03'
 draft: 'false'
-id: d2023-07-03-e803
+id: e803
 summary: "Dr. Lee Dugatkin is a Professor of Biology and Distinguished Arts and Sciences\
   \ Scholar in the Department of Biology at the University of Louisville. He is a\
   \ behavioral ecologist and historian of science and his main area of research interest\

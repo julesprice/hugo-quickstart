@@ -1,7 +1,7 @@
 ---
 date: '2019-04-29'
 draft: 'false'
-id: d2019-04-29-e62
+id: e62
 summary: Dr. Lewis Goldberg is an American personality psychologist and a Professor
   Emeritus at the University of Oregon. He is closely associated with the lexical
   hypothesis, that says that any culturally important personality characteristic will

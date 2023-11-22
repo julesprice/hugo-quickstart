@@ -1,7 +1,7 @@
 ---
 date: '2020-06-15'
 draft: 'false'
-id: d2020-06-15-e343
+id: e343
 summary: "Dr. Marco Del Giudice is Associate Professor in the Department of Psychology\
   \ at the University of New Mexico. In his work he explores a wide range of topics\
   \ at the intersection of human behavior, evolution, and development. His approach\

@@ -1,7 +1,7 @@
 ---
 date: '2019-11-18'
 draft: 'false'
-id: d2019-11-18-e257
+id: e257
 summary: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the\
   \ Kinsey Institute. She received her PhD in Social Psychology from Florida State\
   \ University under Dr. Roy Baumeister and Dr. Jon Maner. Her research examines how\

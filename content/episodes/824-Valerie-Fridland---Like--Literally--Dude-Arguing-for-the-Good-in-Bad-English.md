@@ -1,7 +1,7 @@
 ---
 date: '2023-08-21'
 draft: 'false'
-id: d2023-08-21-e824
+id: e824
 summary: "Dr. Valerie Fridland is Professor and former Director of Graduate Studies\
   \ in the Department of English at the University of Nevada in Reno. She is an expert\
   \ on the relationship between language and society. Dr. Fridland also speaks and\

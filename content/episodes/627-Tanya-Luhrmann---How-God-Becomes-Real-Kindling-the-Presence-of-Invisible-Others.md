@@ -1,7 +1,7 @@
 ---
 date: '2022-05-19'
 draft: 'false'
-id: d2022-05-19-e627
+id: e627
 summary: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford
   Anthropology Department. She is a medical and psychological anthropologist, and
   also an anthropologist of religion. More recently she describes her work as an anthropology

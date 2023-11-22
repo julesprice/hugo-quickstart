@@ -1,7 +1,7 @@
 ---
 date: '2020-11-09'
 draft: 'false'
-id: d2020-11-09-e389
+id: e389
 summary: "Dr. Robert Atkinson is a Canadian-American economist. He is president of\
   \ the Information Technology and Innovation Foundation (ITIF), a public policy think\
   \ tank based in Washington, D.C., that promotes policies based on innovation economics.\

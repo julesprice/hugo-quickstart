@@ -1,7 +1,7 @@
 ---
 date: '2022-08-15'
 draft: 'false'
-id: d2022-08-15-e665
+id: e665
 summary: 'Dr. Scott Grafton is Distinguished Professor of Psychology at the University
   of California Santa Barbara. Dr. Grafton is interested in how people organize movement
   into goal-oriented action. The emphasis is on elucidating the cognitive architecture

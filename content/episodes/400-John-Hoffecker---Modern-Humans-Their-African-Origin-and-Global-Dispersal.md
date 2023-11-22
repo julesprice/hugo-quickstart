@@ -1,7 +1,7 @@
 ---
 date: '2020-12-04'
 draft: 'false'
-id: d2020-12-04-e400
+id: e400
 summary: "In this episode, we focus on Dr. Hoffecker\u2019s book. We cover some of\
   \ the major topics of the book, including: the importance of the human hand and\
   \ the vocal tract in our evolution, and particularly for the development of culture;\

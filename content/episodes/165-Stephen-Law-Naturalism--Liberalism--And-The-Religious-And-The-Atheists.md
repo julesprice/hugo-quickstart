@@ -1,7 +1,7 @@
 ---
 date: '2019-04-18'
 draft: 'false'
-id: d2019-04-18-e165
+id: e165
 summary: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, and\
   \ before that Research Fellow at The Queen\u2019s College Oxford. He is currently\
   \ editor of the Royal Institute of Philosophy journal THINK. He has published several\

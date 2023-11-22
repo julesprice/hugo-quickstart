@@ -1,7 +1,7 @@
 ---
 date: '2020-09-14'
 draft: 'false'
-id: d2020-09-14-e365
+id: e365
 summary: "Dr. Dan P. McAdams is the Henry Wade Rogers Professor of Psychology and\
   \ professor of human development and social policy at Northwestern University. Dr.\
   \ McAdams is most well-known for formulating a life-story theory of human identity,\

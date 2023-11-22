@@ -1,7 +1,7 @@
 ---
 date: '2019-06-10'
 draft: 'false'
-id: d2019-06-10-e91
+id: e91
 summary: Dr. Lee Jussim is Distinguished Professor, Chair and Graduate Director of
   the Department of Psychology at Rutgers University. He also runs the Social Perception
   Lab there. The lab studies how people perceive, think about, and judge others. He

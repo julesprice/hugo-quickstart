@@ -1,7 +1,7 @@
 ---
 date: '2020-10-16'
 draft: 'false'
-id: d2020-10-16-e379
+id: e379
 summary: "Dr. Paul Eastwick is Professor of Psychology at the University of California,\
   \ Davis. Dr. Eastwick\u2019s research investigates how people initiate romantic\
   \ relationships and the psychological mechanisms that help romantic partners to\

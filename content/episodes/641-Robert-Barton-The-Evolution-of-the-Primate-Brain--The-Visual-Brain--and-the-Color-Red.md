@@ -1,7 +1,7 @@
 ---
 date: '2022-06-20'
 draft: 'false'
-id: d2022-06-20-e641
+id: e641
 summary: Dr. Robert Barton is Professor in the Department of Anthropology, Member
   of the Durham Cultural Evolution Research Centre at Durham University, UK. He is
   an evolutionary biologist/anthropologist interested in brains, behavior and cognition,

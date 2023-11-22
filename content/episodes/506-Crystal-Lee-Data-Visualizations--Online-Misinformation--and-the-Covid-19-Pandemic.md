@@ -1,7 +1,7 @@
 ---
 date: '2021-08-09'
 draft: 'false'
-id: d2021-08-09-e506
+id: e506
 summary: "Crystal Lee is a PhD candidate at the History / Anthropology / Science,\
   \ Technology, and Society (HASTS) program at MIT, a researcher at the Visualization\
   \ Group in the Computer Science and Artificial Intelligence Laboratory (CSAIL),\

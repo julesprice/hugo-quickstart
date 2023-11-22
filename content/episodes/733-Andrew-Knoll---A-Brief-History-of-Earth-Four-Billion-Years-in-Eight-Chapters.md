@@ -1,7 +1,7 @@
 ---
 date: '2023-01-20'
 draft: 'false'
-id: d2023-01-20-e733
+id: e733
 summary: "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard University.\
   \ Professor Knoll\u2019s honors include the Walcott Medal and the Mary Clark Thompson\
   \ Medal of the National Academy of Sciences, the Moore Medal of the Society for\

@@ -1,7 +1,7 @@
 ---
 date: '2019-04-26'
 draft: 'false'
-id: d2019-04-26-e169
+id: e169
 summary: "Dr. Bo Winegard is Assistant Professor of Psychology at Marietta College.\
   \ He generally approaches psychological puzzles from an evolutionary perspective,\
   \ applying Darwin's theory of natural selection to the human mind. He focuses mostly\

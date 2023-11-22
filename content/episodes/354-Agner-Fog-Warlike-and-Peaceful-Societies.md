@@ -1,7 +1,7 @@
 ---
 date: '2020-08-13'
 draft: 'false'
-id: d2020-08-13-e354
+id: e354
 summary: "Dr. Agner Fog is associate professor of computer science at Technical University\
   \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
   \ Social systems and Computer Science. His current project is 'Theory of cultural\

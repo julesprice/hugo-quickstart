@@ -1,7 +1,7 @@
 ---
 date: '2021-10-15'
 draft: 'false'
-id: d2021-10-15-e535
+id: e535
 summary: 'Dr. Glenn Geher is Professor of Psychology at the State University of New
   York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence
   for both Teaching and Research. His most recent book is Positive Evolutionary Psychology:

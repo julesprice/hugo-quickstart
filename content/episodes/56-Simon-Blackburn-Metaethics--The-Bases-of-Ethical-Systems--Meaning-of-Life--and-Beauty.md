@@ -1,7 +1,7 @@
 ---
 date: '2019-04-19'
 draft: 'false'
-id: d2019-04-19-e56
+id: e56
 summary: Dr. Simon Blackburn taught Philosophy at the University of Cambridge. He
   is a distinguished research professor of philosophy at the University of North Carolina
   at Chapel Hill. He is also a Fellow of Trinity College, and a member of the professoriate

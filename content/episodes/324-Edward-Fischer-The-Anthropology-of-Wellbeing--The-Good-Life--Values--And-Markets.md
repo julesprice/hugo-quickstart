@@ -1,7 +1,7 @@
 ---
 date: '2020-04-23'
 draft: 'false'
-id: d2020-04-23-e324
+id: e324
 summary: "Dr. Edward Fischer is the Cornelius Vanderbilt Professor of Anthropology\
   \ and Director of the Center for Latin American Studies at Vanderbilt University.\
   \ He is also the founder of Man\xED+, an award-winning social enterprise in Guatemala\

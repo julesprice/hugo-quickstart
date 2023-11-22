@@ -1,7 +1,7 @@
 ---
 date: '2020-05-15'
 draft: 'false'
-id: d2020-05-15-e334
+id: e334
 summary: Dr. Brian Hayden is Retired Professor in the Department of Archaeology at
   Simon Fraser University, and he also holds a research position at the University
   of British Columbia. His research topics include Cultural ecology and political

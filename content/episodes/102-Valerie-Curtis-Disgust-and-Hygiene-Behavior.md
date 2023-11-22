@@ -1,7 +1,7 @@
 ---
 date: '2019-06-22'
 draft: 'false'
-id: d2019-06-22-e102
+id: e102
 summary: "Dr. Valerie Curtis is Director of the Environmental Health Group, a multidisciplinary\
   \ group researching hygiene, sanitation and water (WASH), at the London School Hygiene\
   \ and Tropical Medicine. She is trained in engineering, epidemiology and anthropology\

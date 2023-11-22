@@ -1,7 +1,7 @@
 ---
 date: '2020-12-21'
 draft: 'false'
-id: d2020-12-21-e407
+id: e407
 summary: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Professor\
   \ of Neural Science, Professor of Psychiatry, and Professor of Child and Adolescent\
   \ Psychiatry at New York University. His work is focused on the brain mechanisms\

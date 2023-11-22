@@ -1,7 +1,7 @@
 ---
 date: '2019-08-06'
 draft: 'false'
-id: d2019-08-06-e129
+id: e129
 summary: "Dr. Igor Grossmann is Associate Professor of Psychology at the University\
   \ of Waterloo, Canada. He\u2019s been the recipient of several awards, including\
   \ the 2015 \"Rising Star\" Award, by the Association for Psychological Science;\

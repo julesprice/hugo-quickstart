@@ -1,7 +1,7 @@
 ---
 date: '2019-07-26'
 draft: 'false'
-id: d2019-07-26-e124
+id: e124
 summary: "Dr. Robert Plomin is Professor of Behavioural Genetics at the Social Genetic\
   \ &amp; Developmental Psychiatry Center at King\u2019s College London, and Research\
   \ Professor at the Medical Research Council (MRC). He\u2019s one of the leading\

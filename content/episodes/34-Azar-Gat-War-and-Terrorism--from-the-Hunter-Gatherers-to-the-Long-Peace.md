@@ -1,7 +1,7 @@
 ---
 date: '2019-03-16'
 draft: 'false'
-id: d2019-03-16-e34
+id: e34
 summary: "Dr. Azar Gat is the Ezer Weizman Professor of National Security and Chair\
   \ of the Department of Political Science at Tel Aviv University, in Israel. He is\
   \ the founder and head of the University's Executive Master\u2019s Program in Diplomacy\

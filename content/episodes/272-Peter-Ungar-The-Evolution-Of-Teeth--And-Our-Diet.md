@@ -1,7 +1,7 @@
 ---
 date: '2019-12-23'
 draft: 'false'
-id: d2019-12-23-e272
+id: e272
 summary: "Dr. Peter S. Ungar is Distinguished Professor of Anthropology and Director\
   \ of Environmental Dynamics at the University of Arkansas. His research focuses\
   \ on paleoecology and teeth. He\u2019s the author of books like Mammal Teeth, Evolution\u2019\

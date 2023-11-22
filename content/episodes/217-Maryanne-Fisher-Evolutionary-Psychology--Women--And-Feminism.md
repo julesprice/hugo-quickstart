@@ -1,7 +1,7 @@
 ---
 date: '2019-08-16'
 draft: 'false'
-id: d2019-08-16-e217
+id: e217
 summary: "Dr. Maryanne Fisher is a Professor in the Department of Psychology, and\
   \ a member of the Women and Gender Studies Program, at Saint Mary's University in\
   \ Halifax, Canada. Her research on how women compete for men has received international\

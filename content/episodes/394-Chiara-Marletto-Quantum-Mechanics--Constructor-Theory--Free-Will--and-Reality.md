@@ -1,7 +1,7 @@
 ---
 date: '2020-11-20'
 draft: 'false'
-id: d2020-11-20-e394
+id: e394
 summary: In this episode, we talk about quantum mechanics, information theory, the
   universal computer, constructor theory, quantum biology, causality and free will,
   and reality.

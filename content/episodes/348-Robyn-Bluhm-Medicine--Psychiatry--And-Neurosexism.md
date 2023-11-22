@@ -1,7 +1,7 @@
 ---
 date: '2020-07-13'
 draft: 'false'
-id: d2020-07-13-e348
+id: e348
 summary: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the
   Department of Philosophy and Lyman Briggs College at Michigan State University.
   Her research examines philosophical issues in neuroscience and in medicine, with

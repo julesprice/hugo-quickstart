@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 draft: 'false'
-id: d2023-05-25-e786
+id: e786
 summary: Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University
   of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural
   psychology, moral psychology, and psychology of positive emotions.

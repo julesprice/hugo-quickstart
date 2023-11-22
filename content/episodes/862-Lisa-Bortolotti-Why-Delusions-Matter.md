@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 draft: 'false'
-id: d2023-11-17-e862
+id: e862
 summary: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,
   affiliated with the Philosophy Department in the School of Philosophy, Theology,
   and Religion; and with the Institute for Mental Health in the School of Psychology.

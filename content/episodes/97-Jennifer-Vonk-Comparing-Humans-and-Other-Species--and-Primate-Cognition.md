@@ -1,7 +1,7 @@
 ---
 date: '2019-06-17'
 draft: 'false'
-id: d2019-06-17-e97
+id: e97
 summary: 'Dr. Jennifer Vonk is Professor of comparative/cognitive psychology at Oakland
   University. Her primary research interests are in two overlapping areas: animal
   cognition, and cognitive development. The underlying goal of her work is to examine

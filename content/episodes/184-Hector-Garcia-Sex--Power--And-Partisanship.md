@@ -1,7 +1,7 @@
 ---
 date: '2019-05-31'
 draft: 'false'
-id: d2019-05-31-e184
+id: e184
 summary: "Dr. Hector A. Garcia is a clinical psychologist specializing in the treatment\
   \ of combat-related post-traumatic stress disorder (PTSD). He\u2019s Assistant Professor\
   \ at the Department of Psychiatry at the University of Texas Health Science Center\

@@ -1,7 +1,7 @@
 ---
 date: '2022-12-09'
 draft: 'false'
-id: d2022-12-09-e715
+id: e715
 summary: 'Dr. Lee Edelman is Fletcher Professor of English Literature at Tufts University.
   Dr. Edelman began his academic career as a scholar of twentieth-century American
   poetry. He has since become a central figure in the development, dissemination,

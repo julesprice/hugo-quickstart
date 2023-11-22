@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 draft: 'false'
-id: d2022-10-13-e690
+id: e690
 summary: Dr. Catherine Molho is an assistant professor of social psychology at VU
   Amsterdam. Dr. Molho is a psychologist studying human cooperation, morality, and
   the role of emotions in decision-making. She draws upon insights from social and

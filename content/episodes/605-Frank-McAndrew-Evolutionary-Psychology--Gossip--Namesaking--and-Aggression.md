@@ -1,7 +1,7 @@
 ---
 date: '2022-03-28'
 draft: 'false'
-id: d2022-03-28-e605
+id: e605
 summary: 'Dr. Francis McAndrew is the Cornelia H. Dudley Professor of Psychology at
   Knox College. He studies human social behavior from an evolutionary perspective.
   He is especially interested in understanding the psychology of everyday life. Why

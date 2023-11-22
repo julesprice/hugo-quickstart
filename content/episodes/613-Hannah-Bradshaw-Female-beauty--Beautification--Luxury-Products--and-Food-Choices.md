@@ -1,7 +1,7 @@
 ---
 date: '2022-04-15'
 draft: 'false'
-id: d2022-04-15-e613
+id: e613
 summary: "Dr. Hannah K. Bradshaw is an assistant professor in the Department of Psychology\
   \ at Washington and Jefferson College. Her research program explores how interpersonal\
   \ and ecological cues might affect our perceptions and decisions in the broader\

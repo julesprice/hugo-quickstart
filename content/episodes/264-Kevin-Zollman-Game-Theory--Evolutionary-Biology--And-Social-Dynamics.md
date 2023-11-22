@@ -1,7 +1,7 @@
 ---
 date: '2019-12-05'
 draft: 'false'
-id: d2019-12-05-e264
+id: e264
 summary: "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy\
   \ at Carnegie Mellon University. In addition to his primary appointment at Carnegie\
   \ Mellon, he is an associate fellow at the Center for Philosophy of Science at the\

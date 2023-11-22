@@ -1,7 +1,7 @@
 ---
 date: '2020-05-14'
 draft: 'false'
-id: d2020-05-14-e333
+id: e333
 summary: "Dr. Bernard Wood is University Professor of Human Origins at the Center\
   \ for the Advanced Study of Human Paleobiology at the Columbian College of Arts\
   \ &amp; Sciences at George Washington University. He is a medically trained paleoanthropologist.\

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-17'
 draft: 'false'
-id: d2022-10-17-e692
+id: e692
 summary: "Annie Duke is an author, speaker, and consultant in the decision-making\
   \ space, as well as Special Partner focused on Decision Science at First Round Capital\
   \ Partners, a seed stage venture fund. As a former professional poker player, she\

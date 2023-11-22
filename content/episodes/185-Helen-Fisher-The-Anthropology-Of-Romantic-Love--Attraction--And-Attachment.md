@@ -1,7 +1,7 @@
 ---
 date: '2019-06-03'
 draft: 'false'
-id: d2019-06-03-e185
+id: e185
 summary: "Dr. Helen Fisher is a biological anthropologist, and a Senior Research Fellow\
   \ at The Kinsey Institute, Indiana University. She has written six books on the\
   \ evolution, biology, and psychology of human sexuality, monogamy, adultery and\

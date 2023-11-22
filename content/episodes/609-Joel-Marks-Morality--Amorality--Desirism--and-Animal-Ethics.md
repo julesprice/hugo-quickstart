@@ -1,7 +1,7 @@
 ---
 date: '2022-04-07'
 draft: 'false'
-id: d2022-04-07-e609
+id: e609
 summary: 'Dr. Joel Marks is professor emeritus of philosophy at the University of
   New Haven and a Bioethics Center Scholar at Yale University. His main areas of scholarly
   interest have been theoretical and applied ethics, both having come together in

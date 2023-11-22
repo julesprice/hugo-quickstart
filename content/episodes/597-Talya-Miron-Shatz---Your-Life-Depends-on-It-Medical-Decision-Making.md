@@ -1,7 +1,7 @@
 ---
 date: '2022-03-10'
 draft: 'false'
-id: d2022-03-10-e597
+id: e597
 summary: 'Dr. Talya Miron-Shatz is an author, consultant, speaker, and researcher,
   who studies medical decision-making in a humanistic way, aiming to guarantee that
   people understand, and are genuinely part of, their care. She has a Ph.D. in psychology

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-24'
 draft: 'false'
-id: d2022-11-24-e708
+id: e708
 summary: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development Center
   at Central European University. He is a cognitive scientist broadly interested in
   the evolution and development of social cognition. His research focuses on how the

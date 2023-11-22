@@ -1,7 +1,7 @@
 ---
 date: '2019-05-15'
 draft: 'false'
-id: d2019-05-15-e74
+id: e74
 summary: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare
   system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study
   in Toulouse, France. He has taught at Union College and Harvard University. He received

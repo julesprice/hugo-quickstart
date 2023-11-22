@@ -1,7 +1,7 @@
 ---
 date: '2021-04-22'
 draft: 'false'
-id: d2021-04-22-e459
+id: e459
 summary: "Dr. Bear F. Braumoeller is a Professor in the Department of Political Science\
   \ at Ohio State University. He previously held faculty positions at Harvard University\
   \ and the University of Illinois at Urbana-Champaign. Dr. Braumoeller\u2019s research\

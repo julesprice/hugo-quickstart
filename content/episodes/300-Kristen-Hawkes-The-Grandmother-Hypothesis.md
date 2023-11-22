@@ -1,7 +1,7 @@
 ---
 date: '2020-02-27'
 draft: 'false'
-id: d2020-02-27-e300
+id: e300
 summary: "Dr. Kristen Hawkes is Distinguished Professor of Anthropology at the University\
   \ of Utah. Dr. Hawkes, an expert in human evolution and sociobiology, is the author\
   \ of several studies on the \u201Cgrandmother hypothesis,\u201D which asserts that\

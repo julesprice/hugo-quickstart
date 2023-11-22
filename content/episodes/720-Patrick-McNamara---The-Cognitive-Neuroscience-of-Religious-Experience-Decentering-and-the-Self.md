@@ -1,7 +1,7 @@
 ---
 date: '2022-12-22'
 draft: 'false'
-id: d2022-12-22-e720
+id: e720
 summary: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Department
   of Neurology at the BU School of Medicine and Professor of Psychology at National
   University, and Director of the Cognitive Neuroscience of Religion Project, along

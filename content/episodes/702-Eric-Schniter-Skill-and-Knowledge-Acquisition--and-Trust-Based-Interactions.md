@@ -1,7 +1,7 @@
 ---
 date: '2022-11-10'
 draft: 'false'
-id: d2022-11-10-e702
+id: e702
 summary: Dr. Eric Schniter is a Lecturer in Anthropology at California State University,
   Fullerton, and a Visiting Research Associate at the Economic Science Institute at
   Chapman University. He has been examining the development of skill, knowledge and

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 draft: 'false'
-id: d2022-09-23-e682
+id: e682
 summary: 'Dr. Daniel Willingham is Professor of Psychology at the University of Virginia.
   Until about 2000, his research focused solely on the brain basis of learning and
   memory. Today, all of his research concerns the application of cognitive psychology

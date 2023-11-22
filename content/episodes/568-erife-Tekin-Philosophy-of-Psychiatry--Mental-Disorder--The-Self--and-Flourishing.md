@@ -1,7 +1,7 @@
 ---
 date: '2021-12-31'
 draft: 'false'
-id: d2021-12-31-e568
+id: e568
 summary: "Dr. \u015Eerife Tekin is an Associate Professor of Philosophy and Director\
   \ of the Medical Humanities program at the University of Texas at San Antonio (UTSA).\
   \ Her work is in philosophy of science/medicine, philosophy of mind/cognitive science\

@@ -1,7 +1,7 @@
 ---
 date: '2019-03-25'
 draft: 'false'
-id: d2019-03-25-e155
+id: e155
 summary: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
   \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\
   \ for both Teaching and Research. In addition to teaching various courses and directing\

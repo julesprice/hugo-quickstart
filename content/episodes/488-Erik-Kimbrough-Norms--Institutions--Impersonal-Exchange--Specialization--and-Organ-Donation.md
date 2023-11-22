@@ -1,7 +1,7 @@
 ---
 date: '2021-06-28'
 draft: 'false'
-id: d2021-06-28-e488
+id: e488
 summary: Dr. Erik Kimbrough is an associate professor of economics at the Smith Institute
   for Political Economy and Philosophy in the Argyros School of Business and Economics
   at Chapman University. His research uses experiments to explore the underpinnings

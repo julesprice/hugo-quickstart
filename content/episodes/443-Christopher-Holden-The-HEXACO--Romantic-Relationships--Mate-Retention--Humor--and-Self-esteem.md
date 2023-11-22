@@ -1,7 +1,7 @@
 ---
 date: '2021-03-15'
 draft: 'false'
-id: d2021-03-15-e443
+id: e443
 summary: Dr. Christopher Holden is Professor of Psychology and Principal Investigator
   of the Personality and Romantic Relationships Lab at Appalachian State University.
   His research focuses on topics like personality and evolutionary psychology, romantic

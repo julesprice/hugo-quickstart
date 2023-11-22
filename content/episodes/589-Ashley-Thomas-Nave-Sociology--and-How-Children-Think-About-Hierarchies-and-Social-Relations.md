@@ -1,7 +1,7 @@
 ---
 date: '2022-02-18'
 draft: 'false'
-id: d2022-02-18-e589
+id: e589
 summary: Dr. Ashley Thomas is a postdoctoral fellow at the center for research on
   open and equitable scholarship at MIT. She is interested in humans as a social species.
   She investigates what infants, toddlers, and children think about social relationships

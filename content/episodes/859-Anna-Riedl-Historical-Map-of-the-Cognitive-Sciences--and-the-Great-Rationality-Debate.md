@@ -1,7 +1,7 @@
 ---
 date: '2023-11-10'
 draft: 'false'
-id: d2023-11-10-e859
+id: e859
 summary: Anna Riedl is a cognitive scientist, specialized in rational decision-making.
   She is an active public speaker and science communicator. She was a researcher at
   the Viennese Institute for Artificial Intelligence and Decision Support. Anna is

@@ -1,7 +1,7 @@
 ---
 date: '2019-05-07'
 draft: 'false'
-id: d2019-05-07-e67
+id: e67
 summary: "Dr. Martin Schaefer is a former Professor of Evolutionary Biology and Animal\
   \ Ecology of the University of Freiburg, Germany. Now, he\u2019s leading a conservation\
   \ NGO, Fundaci\xF3n Jocotoco (www.fjocotoco.org), based in Ecuador.&nbsp;"

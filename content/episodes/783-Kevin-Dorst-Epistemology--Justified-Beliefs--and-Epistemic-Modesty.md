@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 draft: 'false'
-id: d2023-05-18-e783
+id: e783
 summary: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguistics\
   \ and Philosophy at MIT. He works on epistemology, logic, language, and their intersections.\
   \ In epistemology he\u2019s interested in what we should think (the belief-credence\

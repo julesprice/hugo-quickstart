@@ -1,7 +1,7 @@
 ---
 date: '2019-05-20'
 draft: 'false'
-id: d2019-05-20-e78
+id: e78
 summary: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the University\
   \ of York. She holds degrees in Philosophy from Yale, Oxford and Princeton and has\
   \ taught in the USA, Canada, and Germany. Dr. Wilson teaches and writes in the history\

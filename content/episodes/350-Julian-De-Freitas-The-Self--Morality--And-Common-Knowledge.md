@@ -1,7 +1,7 @@
 ---
 date: '2020-07-27'
 draft: 'false'
-id: d2020-07-27-e350
+id: e350
 summary: Julian De Freitas is a cognitive scientist in the Department of Psychology
   at Harvard University. He studies social intelligence, with a focus on the self,
   strategic thinking, and ethics.

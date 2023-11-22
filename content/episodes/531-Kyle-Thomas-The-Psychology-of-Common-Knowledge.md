@@ -1,7 +1,7 @@
 ---
 date: '2021-10-07'
 draft: 'false'
-id: d2021-10-07-e531
+id: e531
 summary: "Dr. Kyle Thomas recently received his Ph.D. in experimental psychology from\
   \ Harvard University, where he developed his research program on the psychology\
   \ of common knowledge under his advisor, Steven Pinker. He is currently the Chief\

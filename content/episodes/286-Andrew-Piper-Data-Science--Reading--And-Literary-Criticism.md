@@ -1,7 +1,7 @@
 ---
 date: '2020-01-24'
 draft: 'false'
-id: d2020-01-24-e286
+id: e286
 summary: "Dr. Andrew Piper is Professor in the Department of Languages, Literatures,\
   \ and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural\
   \ analytics at McGill, and is also an editor of the Journal of Cultural Analytics.\

@@ -1,7 +1,7 @@
 ---
 date: '2020-05-11'
 draft: 'false'
-id: d2020-05-11-e332
+id: e332
 summary: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philosophy\
   \ of Science at the University of California, Irvine. His current research involves\
   \ two general topics. First, he is interested in attempts to resolve the measurement\

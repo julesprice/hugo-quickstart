@@ -1,7 +1,7 @@
 ---
 date: '2019-08-30'
 draft: 'false'
-id: d2019-08-30-e223
+id: e223
 summary: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collective\
   \ Memory in the Departments of Psychology and Anthropology at Washington University\
   \ in St. Louis. He was a Guggenheim Fellow and a visiting professor at the University\

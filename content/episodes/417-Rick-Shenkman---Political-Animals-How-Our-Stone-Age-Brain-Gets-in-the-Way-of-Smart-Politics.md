@@ -1,7 +1,7 @@
 ---
 date: '2021-01-14'
 draft: 'false'
-id: d2021-01-14-e417
+id: e417
 summary: In this episode, we talk about Political Animals. We go through topics like
   evolutionary mismatch; how good we really are at reading politicians, and if it
   is easy for them to lie to us; self-deception in politics; the role the media play

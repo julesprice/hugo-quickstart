@@ -1,7 +1,7 @@
 ---
 date: '2019-08-26'
 draft: 'false'
-id: d2019-08-26-e221
+id: e221
 summary: Dr. Peter DeScioli is Assistant Professor in the Department of Political
   Science at Stony Brook University. His research investigates how the human mind
   uses principles of strategy to solve problems in the social world. Much of his work

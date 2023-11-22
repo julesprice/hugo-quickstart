@@ -1,7 +1,7 @@
 ---
 date: '2021-07-02'
 draft: 'false'
-id: d2021-07-02-e490
+id: e490
 summary: Dr. Mark Stoneking directs the Human Population History Group in the Department
   of Evolutionary Genetics at the Max Planck Institute for Evolutionary Anthropology
   in Leipzig, Germany. He is also Honorary Professor of Biological Anthropology at

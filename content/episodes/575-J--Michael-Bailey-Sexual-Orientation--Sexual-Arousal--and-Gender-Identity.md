@@ -1,7 +1,7 @@
 ---
 date: '2022-01-17'
 draft: 'false'
-id: d2022-01-17-e575
+id: e575
 summary: Dr. J. Michael Bailey is an American psychologist, behavioral geneticist,
   and professor at Northwestern University. His interests include sexual orientation,
   gender nonconformity, sexual arousal, behavior genetics, and evolutionary psychology.

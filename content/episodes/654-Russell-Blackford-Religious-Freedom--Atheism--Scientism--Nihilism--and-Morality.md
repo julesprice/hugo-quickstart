@@ -1,7 +1,7 @@
 ---
 date: '2022-07-21'
 draft: 'false'
-id: d2022-07-21-e654
+id: e654
 summary: 'Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emerging
   Technologies, and a Laureate of the International Academy of Humanism. He holds
   an honorary appointment as Conjoint Senior Lecturer in Philosophy at the University

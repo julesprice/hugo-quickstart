@@ -1,7 +1,7 @@
 ---
 date: '2019-02-19'
 draft: 'false'
-id: d2019-02-19-e12
+id: e12
 summary: "Jacob Little is currently a PhD candidate in Creative Nonfiction at Ohio\
   \ University, and obtained his MFA in Poetry at Minnesota State University. He is\
   \ the Managing Editor of Brevity, and a co-founder and Consulting Editor of Profane.\

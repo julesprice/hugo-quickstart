@@ -1,7 +1,7 @@
 ---
 date: '2021-05-17'
 draft: 'false'
-id: d2021-05-17-e470
+id: e470
 summary: 'Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer,
   educator and consultant specializing in strategy, strategic decision making and
   the organization of decision processes. His research interests center on the effect

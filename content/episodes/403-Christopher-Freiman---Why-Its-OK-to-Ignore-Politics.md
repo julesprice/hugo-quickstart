@@ -1,7 +1,7 @@
 ---
 date: '2020-12-11'
 draft: 'false'
-id: d2020-12-11-e403
+id: e403
 summary: "Dr. Christopher Freiman is Associate Professor of Philosophy at the College\
   \ of William &amp; Mary. His research interests include democratic theory, distributive\
   \ justice, and immigration. He\u2019s the author of two books, Unequivocal Justice,\

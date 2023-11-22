@@ -1,7 +1,7 @@
 ---
 date: '2020-03-30'
 draft: 'false'
-id: d2020-03-30-e314
+id: e314
 summary: Dr. Zanna Clay is Associate Professor in the Department of Psychology at
   Durham University. She is a comparative and developmental psychologist with expertise
   in primatology. She studies and compares great apes and young children in order

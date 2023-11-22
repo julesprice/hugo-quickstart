@@ -1,7 +1,7 @@
 ---
 date: '2021-10-11'
 draft: 'false'
-id: d2021-10-11-e533
+id: e533
 summary: "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor of\
   \ Philosophy at Duke University. He has held fellowships from the National Science\
   \ Foundation, the American Council of Learned Societies, and the John Simon Guggenheim\

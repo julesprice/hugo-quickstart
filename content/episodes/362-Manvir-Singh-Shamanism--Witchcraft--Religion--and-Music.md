@@ -1,7 +1,7 @@
 ---
 date: '2020-09-07'
 draft: 'false'
-id: d2020-09-07-e362
+id: e362
 summary: Dr. Manvir Singh just graduated with a PhD in human evolutionary biology
   from Harvard University, with a focus on cognitive and evolutionary anthropology.
   His research program aims to explain why societies develop complex, recurrent traditions

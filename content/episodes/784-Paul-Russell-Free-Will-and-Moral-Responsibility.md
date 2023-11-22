@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 draft: 'false'
-id: d2023-05-19-e784
+id: e784
 summary: Dr. Paul Russell is Professor of Philosophy at Lund University (half-time
   appointment since 2018). He also serves as Director of the Lund|Gothenburg Responsibility
   Project (LGRP). Dr. Russell&#39;s interests cover the areas of free will and moral

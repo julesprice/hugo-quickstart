@@ -1,7 +1,7 @@
 ---
 date: '2023-07-17'
 draft: 'false'
-id: d2023-07-17-e809
+id: e809
 summary: Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center
   and Professor of Cognitive Science at Yale University. His research concerns primarily
   Digital Ethics, the Philosophy of Information, and the Philosophy of Technology.

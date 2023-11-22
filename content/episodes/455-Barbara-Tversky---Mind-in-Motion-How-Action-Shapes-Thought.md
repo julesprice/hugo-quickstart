@@ -1,7 +1,7 @@
 ---
 date: '2021-04-12'
 draft: 'false'
-id: d2021-04-12-e455
+id: e455
 summary: "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford University\
   \ and a Professor of Psychology and Education at Teachers College, Columbia University.\
   \ Dr. Tversky specializes in cognitive psychology. She is an authority in the areas\

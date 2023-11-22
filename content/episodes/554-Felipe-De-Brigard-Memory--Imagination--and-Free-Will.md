@@ -1,7 +1,7 @@
 ---
 date: '2021-11-29'
 draft: 'false'
-id: d2021-11-29-e554
+id: e554
 summary: Dr. Felipe De Brigard is Fuchsberg-Levine Family Associate Professor at Duke
   University. Most of his research focuses on the way in which memory and imagination
   interact. So far, he has explored ways in which episodic memory both guides and

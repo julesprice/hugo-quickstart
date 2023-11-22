@@ -1,7 +1,7 @@
 ---
 date: '2019-12-02'
 draft: 'false'
-id: d2019-12-02-e263
+id: e263
 summary: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University\
   \ of Technology and the Australian Catholic University. Dr. Alfano uses tools and\
   \ methods from philosophy and the sciences to explore topics in moral psychology,\

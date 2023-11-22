@@ -1,7 +1,7 @@
 ---
 date: '2022-03-11'
 draft: 'false'
-id: d2022-03-11-e598
+id: e598
 summary: Dr. Chris Letheby is Lecturer in Philosophy at the University of Western
   Australia, and a postdoctoral researcher at the University of Adelaide. Dr. Letheby
   is a philosopher of mind and cognitive science, working on issues arising from the

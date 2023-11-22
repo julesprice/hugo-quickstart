@@ -1,7 +1,7 @@
 ---
 date: '2020-10-26'
 draft: 'false'
-id: d2020-10-26-e383
+id: e383
 summary: Dr. Daniel Kruger is Research Investigator in the Population Studies Center
   at the University of Michigan. He applies evolutionary principles to advance the
   understanding of a wide range of human psychology and behavior. Much of his work

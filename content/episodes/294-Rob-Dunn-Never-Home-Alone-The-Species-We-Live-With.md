@@ -1,7 +1,7 @@
 ---
 date: '2020-02-13'
 draft: 'false'
-id: d2020-02-13-e294
+id: e294
 summary: "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in the\
   \ Department of Applied Ecology at North Carolina State University. He is known\
   \ for efforts to involve the public as citizen scientists in arthropod surveys and\

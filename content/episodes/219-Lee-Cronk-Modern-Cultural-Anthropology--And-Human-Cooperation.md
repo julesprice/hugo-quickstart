@@ -1,7 +1,7 @@
 ---
 date: '2019-08-22'
 draft: 'false'
-id: d2019-08-22-e219
+id: e219
 summary: 'Dr. Lee Cronk is Professor in the Department of Anthropology at the School
   of Arts and Sciences at Rutgers University. His research and teaching interests
   include human evolutionary ecology, including behavioral ecology, cultural ecology,

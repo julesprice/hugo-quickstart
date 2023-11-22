@@ -1,7 +1,7 @@
 ---
 date: '2020-09-25'
 draft: 'false'
-id: d2020-09-25-e370
+id: e370
 summary: "Dr. Martie Haselton is Professor in the Departments of Psychology and Communication\
   \ as well as the ISG (Institute for Society and Genetics) at UCLA. Her research\
   \ focuses on evolution and human behavior, social psychology, interpersonal communication,\

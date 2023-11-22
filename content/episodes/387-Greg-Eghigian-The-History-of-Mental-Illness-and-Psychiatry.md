@@ -1,7 +1,7 @@
 ---
 date: '2020-11-05'
 draft: 'false'
-id: d2020-11-05-e387
+id: e387
 summary: In this episode, we talk about the history of mental illness and psychiatry.
   We discuss how to properly address the history of mental illness, and the cultural
   and political elements of mental illness. We address the questions of how mentally

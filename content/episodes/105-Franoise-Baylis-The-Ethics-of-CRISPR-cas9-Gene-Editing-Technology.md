@@ -1,7 +1,7 @@
 ---
 date: '2019-06-28'
 draft: 'false'
-id: d2019-06-28-e105
+id: e105
 summary: "Dr. Fran\xE7oise Baylis is University Research Professor at Dalhousie University,\
   \ Canada. She is a frequent guest on CBC and Radio Canada. The focus of her research\
   \ is on issues of women's health and assisted reproductive technologies, but her\

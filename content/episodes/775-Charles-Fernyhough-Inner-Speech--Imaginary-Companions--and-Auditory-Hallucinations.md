@@ -1,7 +1,7 @@
 ---
 date: '2023-04-28'
 draft: 'false'
-id: d2023-04-28-e775
+id: e775
 summary: Dr. Charles Fernyhough is a Professor of Psychology at Durham University,
   and Director of the Centre for Research into Inner Experience. He has contributed
   to the understanding of how language and thought are related in child development

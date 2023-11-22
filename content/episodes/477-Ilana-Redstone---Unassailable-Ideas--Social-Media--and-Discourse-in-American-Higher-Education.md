@@ -1,7 +1,7 @@
 ---
 date: '2021-06-03'
 draft: 'false'
-id: d2021-06-03-e477
+id: e477
 summary: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the University
   of Illinois at Urbana-Champaign. Dr. Redstone''s work has focused on legal permanent
   residents to the United States. Using a quantitative analytic approach, she has

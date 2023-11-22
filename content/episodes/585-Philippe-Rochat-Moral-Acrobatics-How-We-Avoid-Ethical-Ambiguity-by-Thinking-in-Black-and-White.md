@@ -1,7 +1,7 @@
 ---
 date: '2022-02-10'
 draft: 'false'
-id: d2022-02-10-e585
+id: e585
 summary: 'Dr. Philippe Rochat is Professor of Psychology at Emory University. What
   is the nature and origins of human self-conscious psychology? Driven by this question,
   the main focus of Dr. Rochat''s research in the Emory Infant and Child Lab is on

@@ -1,7 +1,7 @@
 ---
 date: '2019-10-11'
 draft: 'false'
-id: d2019-10-11-e241
+id: e241
 summary: "Dr. Marianne Brandon is a clinical psychologist and Diplomate in sex therapy.\
   \ Dr. Brandon is the author of Monogamy: The Untold Story, the ebook Unlocking the\
   \ Sexy in Surrender: Using the Neuroscience of Power to Recharge Your Sex Life,\

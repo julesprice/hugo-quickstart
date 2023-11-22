@@ -1,7 +1,7 @@
 ---
 date: '2020-03-06'
 draft: 'false'
-id: d2020-03-06-e304
+id: e304
 summary: "Bryony Cole is the host of sex tech podcast Future of Sex and works as a\
   \ researcher and strategist in future human and technology fields. She is the world\u2019\
   s leading authority on sextech. Since launching the top-rated podcast, Future of\

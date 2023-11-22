@@ -1,7 +1,7 @@
 ---
 date: '2020-12-03'
 draft: 'false'
-id: d2020-12-03-e399
+id: e399
 summary: In this episode, we focus on animal personality. We discuss the relationship
   between ecology and evolutionary biology, the evolution of behavioral traits, and
   behavioral plasticity. We then get into personality, and go through its behavioral

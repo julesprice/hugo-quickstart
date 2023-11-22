@@ -1,7 +1,7 @@
 ---
 date: '2021-12-13'
 draft: 'false'
-id: d2021-12-13-e560
+id: e560
 summary: Dr. Jayashri Kulkarni is a Professor of Psychiatry at the Monash University
   who works in the area of women's mental health. She has written about Premenstrual
   syndrome. She has used hormones to treat schizophrenia, bipolar disorder and depression

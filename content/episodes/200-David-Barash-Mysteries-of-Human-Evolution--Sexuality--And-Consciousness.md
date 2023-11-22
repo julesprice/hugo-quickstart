@@ -1,7 +1,7 @@
 ---
 date: '2019-07-08'
 draft: 'false'
-id: d2019-07-08-e200
+id: e200
 summary: "Dr. David P. Barash is Professor of Psychology Emeritus at the University\
   \ of Washington. He has written, edited or co-authored 40 books, including ones\
   \ on human aggression, peace studies, and the sexual behavior of animals and people.\

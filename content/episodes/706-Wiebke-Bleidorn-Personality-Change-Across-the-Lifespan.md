@@ -1,7 +1,7 @@
 ---
 date: '2022-11-18'
 draft: 'false'
-id: d2022-11-18-e706
+id: e706
 summary: Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Zurich.
   Dr. Bleidorn examines the conditions, mechanisms, and consequences of personality
   change. Personality change is an emerging subfield that straddles the areas of personality,

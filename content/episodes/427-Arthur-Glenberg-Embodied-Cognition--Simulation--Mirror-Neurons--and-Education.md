@@ -1,7 +1,7 @@
 ---
 date: '2021-02-05'
 draft: 'false'
-id: d2021-02-05-e427
+id: e427
 summary: Dr. Arthur Glenberg is Professor in the Department of Psychology at Arizona
   State University, an emeritus professor at the University of Wisconsin-Madison,
   and a member of INICO at the Univeridad de Salamanca. He does basic research in

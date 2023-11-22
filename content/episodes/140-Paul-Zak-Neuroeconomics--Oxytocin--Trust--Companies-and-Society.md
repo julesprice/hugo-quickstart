@@ -1,7 +1,7 @@
 ---
 date: '2019-02-18'
 draft: 'false'
-id: d2019-02-18-e140
+id: e140
 summary: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponent\
   \ of the field. His current work applies neuroscience to build high performance\
   \ organizations and to understand and guide consumer decisions. Dr. Zak is the founding\

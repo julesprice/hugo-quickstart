@@ -1,7 +1,7 @@
 ---
 date: '2021-09-16'
 draft: 'false'
-id: d2021-09-16-e522
+id: e522
 summary: Dr. Jaimie Krems is Assistant Professor of Psychology at Oklahoma State University.
   Dr. Krems is a social psychologist with interdisciplinary training. Her research
   draws on theoretical perspectives from social psychology, behavioral ecology, evolutionary

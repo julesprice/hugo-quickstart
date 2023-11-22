@@ -1,7 +1,7 @@
 ---
 date: '2020-09-24'
 draft: 'false'
-id: d2020-09-24-e369
+id: e369
 summary: 'Dr. Alberto Acerbi is a Lecturer in Psychology in the Centre for Culture
   and Evolution at Brunel University London. He is a cognitive/evolutionary anthropologist
   with a particular interest in computational science. The main question that drives

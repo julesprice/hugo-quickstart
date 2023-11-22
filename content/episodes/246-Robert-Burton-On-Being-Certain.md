@@ -1,7 +1,7 @@
 ---
 date: '2019-10-24'
 draft: 'false'
-id: d2019-10-24-e246
+id: e246
 summary: 'Dr. Robert A. Burton graduated from Yale University and the University of
   California at San Francisco medical school, where he also completed his neurology
   residency. At age thirty-three, he was appointed chief of the Division of Neurology

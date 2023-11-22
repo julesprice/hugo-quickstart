@@ -1,7 +1,7 @@
 ---
 date: '2022-06-13'
 draft: 'false'
-id: d2022-06-13-e638
+id: e638
 summary: "Dr. Henkjan Honing is professor in Music Cognition at both the Faculty of\
   \ Humanities and the Faculty of Science of the University of Amsterdam (UvA). He\
   \ conducts his research under the auspices of the Institute for Logic, Language\

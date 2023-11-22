@@ -1,7 +1,7 @@
 ---
 date: '2020-02-06'
 draft: 'false'
-id: d2020-02-06-e291
+id: e291
 summary: "Dr. Nicholas Stang is Associate Professor in the Philosophy Department of\
   \ the University of Toronto, and also a Humboldt Research Fellow at the Humboldt\
   \ University in Berlin. His primary research interests are metaphysics and its history\

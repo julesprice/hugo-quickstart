@@ -1,7 +1,7 @@
 ---
 date: '2019-12-20'
 draft: 'false'
-id: d2019-12-20-e271
+id: e271
 summary: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management\
   \ and Organizations at Northwestern University. She currently holds the James Padilla\
   \ Chair for Arts and Sciences and a Faculty Fellowship for the Institute of Policy\

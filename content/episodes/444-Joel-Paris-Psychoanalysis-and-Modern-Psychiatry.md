@@ -1,7 +1,7 @@
 ---
 date: '2021-03-18'
 draft: 'false'
-id: d2021-03-18-e444
+id: e444
 summary: "Dr. Joel Paris is Professor and Chair of the Department of Psychiatry at\
   \ McGill University, and Research Associate in the Department of Psychiatry at Sir\
   \ Mortimer B. Davis-Jewish General Hospital. His research interests include developmental\

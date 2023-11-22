@@ -1,7 +1,7 @@
 ---
 date: '2022-02-04'
 draft: 'false'
-id: d2022-02-04-e583
+id: e583
 summary: "Dr. Peter Ditto is Professor of Psychological Science at UC Irvine School\
   \ of Social Ecology. His research examines the role of motivation, emotion and intuition\
   \ in social, political, moral, medical, and legal judgment. Most generally, he has\

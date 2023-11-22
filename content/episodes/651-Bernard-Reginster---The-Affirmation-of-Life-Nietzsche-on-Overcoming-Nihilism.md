@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 draft: 'false'
-id: d2022-07-14-e651
+id: e651
 summary: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr.
   Reginster''s research has focused mostly on issues in ethics, metaethics, and moral
   psychology in 19th century German philosophy. His new research interests include

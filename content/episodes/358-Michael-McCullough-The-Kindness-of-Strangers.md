@@ -1,7 +1,7 @@
 ---
 date: '2020-08-27'
 draft: 'false'
-id: d2020-08-27-e358
+id: e358
 summary: "Dr. Michael McCullough is a professor of psychology at the University of\
   \ California San Diego, where he directs the Evolution and Human Behavior Laboratory.\
   \ Most of the research they conduct in the lab is focused on extending an evolutionary\

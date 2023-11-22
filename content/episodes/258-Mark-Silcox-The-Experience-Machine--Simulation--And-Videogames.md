@@ -1,7 +1,7 @@
 ---
 date: '2019-11-21'
 draft: 'false'
-id: d2019-11-21-e258
+id: e258
 summary: "In this episode, we go through a number of topics in the philosophy of videogames\
   \ and simulated reality. We first discuss the Robert Nozick\u2019s experience machine\
   \ thought experiment, and several of its philosophical implications, including the\

@@ -1,7 +1,7 @@
 ---
 date: '2019-07-26'
 draft: 'false'
-id: d2019-07-26-e208
+id: e208
 summary: "Dr. David Wootton is Anniversary Professor of History at the University\
   \ of York. He works on the intellectual and cultural history of the English-speaking\
   \ countries, Italy, and France, from the 17th to the 19th centuries. His most recent\

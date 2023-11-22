@@ -1,7 +1,7 @@
 ---
 date: '2021-02-22'
 draft: 'false'
-id: d2021-02-22-e434
+id: e434
 summary: 'Thomas Coleman III is PhD student at Coventry University, and a Postdoctoral
   Researcher at the University of Bialystok as part of the Society and Cognition Unit.
   He draws on multiple approaches from across the sciences and humanities, to study

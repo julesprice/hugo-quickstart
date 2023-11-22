@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 draft: 'false'
-id: d2022-11-03-e699
+id: e699
 summary: Dr. Kyle Fischer has just finished his PhD in evolutionary political psychology
   at the University of Auckland.
 title: '#699 Kyle Fischer: Dual Evolutionary Foundations of Political Ideology'

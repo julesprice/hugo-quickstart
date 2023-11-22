@@ -1,7 +1,7 @@
 ---
 date: '2019-02-08'
 draft: 'false'
-id: d2019-02-08-e136
+id: e136
 summary: "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of English,\
   \ and the Institute for Brain and Cognitive Sciences, at the University of Connecticut,\
   \ US. His specialties are: literary theory, cognitive and affective science of literature,\

@@ -1,7 +1,7 @@
 ---
 date: '2021-08-20'
 draft: 'false'
-id: d2021-08-20-e511
+id: e511
 summary: "Dr. C\xE9cile Sarabian is a Postdoctoral researcher in Cognitive Ecology\
   \ at Kyoto University. She investigates parasite avoidance behaviors and their effectiveness\
   \ in non-human primates and other animals via field and lab experimentation/observations.\

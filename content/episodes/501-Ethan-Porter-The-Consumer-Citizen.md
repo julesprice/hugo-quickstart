@@ -1,7 +1,7 @@
 ---
 date: '2021-07-29'
 draft: 'false'
-id: d2021-07-29-e501
+id: e501
 summary: 'Dr. Ethan Porter is an assistant professor at the George Washington University
   School of Media and Public Affairs. His research has appeared or is forthcoming
   in Political Communication, Journal of Politics, Political Behavior, Journal of

@@ -1,7 +1,7 @@
 ---
 date: '2019-03-22'
 draft: 'false'
-id: d2019-03-22-e37
+id: e37
 summary: 'Dr. David F. Lancy is Emeritus Professor of Anthropology at Utah State University.
   He is the author/editor of several books on childhood and culture, including Cross-Cultural
   Studies in Cognition and Mathematics (1983), Studying Children and Schools (2001),

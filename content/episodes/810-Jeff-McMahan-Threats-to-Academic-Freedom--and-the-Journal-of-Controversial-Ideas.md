@@ -1,7 +1,7 @@
 ---
 date: '2023-07-20'
 draft: 'false'
-id: d2023-07-20-e810
+id: e810
 summary: "Dr. Jeff McMahan is Sekyra and White\u2019s Professor of Moral Philosophy\
   \ at the University of Oxford. He specializes in Practical Ethics, Political Philosophy,\
   \ and Ethics. He is editor of the Journal of Controversial Ideas. He\u2019s the\

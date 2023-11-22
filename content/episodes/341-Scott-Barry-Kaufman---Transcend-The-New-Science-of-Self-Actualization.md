@@ -1,7 +1,7 @@
 ---
 date: '2020-06-01'
 draft: 'false'
-id: d2020-06-01-e341
+id: e341
 summary: "Dr. Scott Barry Kaufman is a humanistic psychologist exploring the depths\
   \ of human potential. He is interested in using his research to help all kinds of\
   \ minds live a creative, fulfilling, and self-actualized life. He likes to share\

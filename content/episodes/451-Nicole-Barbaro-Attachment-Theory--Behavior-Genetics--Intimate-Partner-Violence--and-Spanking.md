@@ -1,7 +1,7 @@
 ---
 date: '2021-04-02'
 draft: 'false'
-id: d2021-04-02-e451
+id: e451
 summary: Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an Adjunct
   Professor at Utah Valley University, and the Communications Officer for the Human
   Behavior and Evolution Society. Her interests are in human sexual psychology and

@@ -1,7 +1,7 @@
 ---
 date: '2019-12-27'
 draft: 'false'
-id: d2019-12-27-e274
+id: e274
 summary: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at\
   \ Trinity College Dublin. He is interested in the development of connectivity in\
   \ the brain, specifically in how this process is controlled by genes and how mutations\

@@ -1,7 +1,7 @@
 ---
 date: '2019-06-08'
 draft: 'false'
-id: d2019-06-08-e90
+id: e90
 summary: "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia\
   \ University. He\u2019s a theoretical sociologist who seeks to develop general explanations\
   \ of human behavior, his work focuses primarily on conflict and social control,\

@@ -1,7 +1,7 @@
 ---
 date: '2021-03-25'
 draft: 'false'
-id: d2021-03-25-e447
+id: e447
 summary: "Dr. William Keith Campbell is a professor in the Department of Psychology\
   \ in the University of Georgia's Franklin College of Arts and Sciences. He has published\
   \ over 120 peer-reviewed papers and a number of books, including The Handbook of\

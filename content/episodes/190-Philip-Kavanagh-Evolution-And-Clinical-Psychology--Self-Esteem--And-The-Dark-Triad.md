@@ -1,7 +1,7 @@
 ---
 date: '2019-06-14'
 draft: 'false'
-id: d2019-06-14-e190
+id: e190
 summary: In this episode, we talk about the relationship between evolutionary psychology
   and clinical psychology, and the discipline of evolutionary clinical psychology.
   We go through some major issues, like how to properly classify something as a mental

@@ -1,7 +1,7 @@
 ---
 date: '2021-08-12'
 draft: 'false'
-id: d2021-08-12-e507
+id: e507
 summary: Dr. Jessica Thompson is Assistant Professor of Anthropology at Yale University.
   Dr. Thompson specializes in human evolution, and especially those aspects that can
   be revealed through the analysis of ancient animal bones found at archaeological

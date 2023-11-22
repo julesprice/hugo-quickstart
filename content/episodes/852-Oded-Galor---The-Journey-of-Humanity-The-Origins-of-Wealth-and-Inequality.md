@@ -1,7 +1,7 @@
 ---
 date: '2023-10-26'
 draft: 'false'
-id: d2023-10-26-e852
+id: e852
 summary: 'Dr. Oded Galor is Herbert H. Goldberger Professor of Economics at Brown
   University. Dr. Galor has advanced the field of Unified Growth Theory. He has contributed
   to the understanding of the relationship between inequality and growth, human evolution,

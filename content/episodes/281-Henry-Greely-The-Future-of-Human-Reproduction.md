@@ -1,7 +1,7 @@
 ---
 date: '2020-01-13'
 draft: 'false'
-id: d2020-01-13-e281
+id: e281
 summary: "Dr. Henry Greely is currently the Deane F. and Kate Edelman Johnson Professor\
   \ of Law and Professor by courtesy of Genetics at Stanford University, and also\
   \ an Elected Fellow of the American Association for the Advancement of Science.\

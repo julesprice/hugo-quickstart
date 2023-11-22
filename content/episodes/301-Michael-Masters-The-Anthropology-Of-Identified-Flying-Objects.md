@@ -1,7 +1,7 @@
 ---
 date: '2020-02-28'
 draft: 'false'
-id: d2020-02-28-e301
+id: e301
 summary: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research
   centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial
   morphology, and how competition among these features may act to constrain the eye

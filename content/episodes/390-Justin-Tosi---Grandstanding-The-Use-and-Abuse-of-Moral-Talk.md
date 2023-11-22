@@ -1,7 +1,7 @@
 ---
 date: '2020-11-12'
 draft: 'false'
-id: d2020-11-12-e390
+id: e390
 summary: "Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech University.\
   \ He works in social, political, legal, and moral philosophy, and especially on\
   \ state legitimacy, special obligations, and social morality. He\u2019s the author\

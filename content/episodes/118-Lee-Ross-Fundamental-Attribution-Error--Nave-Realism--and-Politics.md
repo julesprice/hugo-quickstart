@@ -1,7 +1,7 @@
 ---
 date: '2019-07-17'
 draft: 'false'
-id: d2019-07-17-e118
+id: e118
 summary: "Dr. Lee Ross is a Professor of Psychology at Stanford University and co-founder\
   \ of the Stanford Center on Conflict and Negotiation. He\u2019s been the recipient\
   \ of several awards. The author of three influential books, Human Inference and\

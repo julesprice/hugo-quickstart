@@ -1,7 +1,7 @@
 ---
 date: '2019-07-04'
 draft: 'false'
-id: d2019-07-04-e198
+id: e198
 summary: "Dr. Stephen K. Sanderson is an American sociologist. He was a professor\
   \ of sociology at Indiana University of Pennsylvania. Since 2007 he has been a visiting\
   \ scholar at the Institute for Research on World-Systems at the University of California,\

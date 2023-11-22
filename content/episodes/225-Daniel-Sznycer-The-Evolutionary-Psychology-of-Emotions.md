@@ -1,7 +1,7 @@
 ---
 date: '2019-09-05'
 draft: 'false'
-id: d2019-09-05-e225
+id: e225
 summary: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology at\
   \ the University of Montreal, Canada. He is an evolutionary social psychologist\
   \ conducting research on emotion and cooperation. He has multiple lines of cross-cultural\

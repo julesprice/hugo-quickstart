@@ -1,7 +1,7 @@
 ---
 date: '2021-03-01'
 draft: 'false'
-id: d2021-03-01-e437
+id: e437
 summary: "Dr. Allan Horwitz is Board of Governors Professor in the Department of Sociology\
   \ and Institute for Health, Health Care Policy, and Aging Research at Rutgers University.\
   \ He has also chaired the Mental Health and Medical Sociology Sections of the American\

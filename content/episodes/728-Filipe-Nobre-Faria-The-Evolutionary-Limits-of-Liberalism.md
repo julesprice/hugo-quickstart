@@ -1,7 +1,7 @@
 ---
 date: '2023-01-09'
 draft: 'false'
-id: d2023-01-09-e728
+id: e728
 summary: 'Dr. Filipe Nobre Faria currently works as a researcher in ethics and political
   philosophy at the Institute for Philosophy of the Nova University of Lisbon. He
   applies the insights of the behavioral and evolutionary sciences to issues in social

@@ -1,7 +1,7 @@
 ---
 date: '2019-06-29'
 draft: 'false'
-id: d2019-06-29-e106
+id: e106
 summary: "Dr. Michelle Scalise Sugiyama is Senior Instructor at the University of\
   \ Oregon Institute of Cognitive and Decision Sciences, and an affiliate of the University\
   \ of Oregon Anthropology Department. She is an evolutionary psychologist/anthropologist\

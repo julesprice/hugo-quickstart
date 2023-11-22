@@ -1,7 +1,7 @@
 ---
 date: '2019-06-13'
 draft: 'false'
-id: d2019-06-13-e189
+id: e189
 summary: Dr. Viviana Weekes-Shackelford received her Ph.D. in evolutionary developmental
   psychology in 2011 from Florida Atlantic University. She is currently Visiting Assistant
   Professor in Sociology and Criminal Justice at Oakland University and Co-Director

@@ -1,7 +1,7 @@
 ---
 date: '2019-09-19'
 draft: 'false'
-id: d2019-09-19-e231
+id: e231
 summary: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College
   of Community, Innovation and Education at the University of Central Florida. Dr.
   Patrick studies the psychology of legal decision-making, often from an evolutionary

@@ -1,7 +1,7 @@
 ---
 date: '2021-01-08'
 draft: 'false'
-id: d2021-01-08-e415
+id: e415
 summary: In this episode, we talk about philosophy of medicine. We first discuss what
   is philosophy of medicine, and then go through some of the major questions asked
   by philosophers of the discipline, like what is evidence, what is effectiveness,

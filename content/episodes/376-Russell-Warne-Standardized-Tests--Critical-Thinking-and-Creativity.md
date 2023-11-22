@@ -1,7 +1,7 @@
 ---
 date: '2020-10-09'
 draft: 'false'
-id: d2020-10-09-e376
+id: e376
 summary: In this episode, we talk about standardized testing. We first talk about
   gifted students, and the Advanced Placement program in the US and Canada. We then
   discuss standardized tests, test bias, and the predictive validity of IQ tests.

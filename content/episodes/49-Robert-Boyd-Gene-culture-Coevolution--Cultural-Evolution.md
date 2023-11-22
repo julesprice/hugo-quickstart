@@ -1,7 +1,7 @@
 ---
 date: '2019-04-05'
 draft: 'false'
-id: d2019-04-05-e49
+id: e49
 summary: "Dr. Robert Boyd has a Ph.D. in Ecology, by the University of California-Davis.\
   \ He is Professor of the School of Human Evolution and Social Change (SHESC) at\
   \ Arizona State University (ASU). He\u2019s also the author of several books including\

@@ -1,7 +1,7 @@
 ---
 date: '2021-05-24'
 draft: 'false'
-id: d2021-05-24-e473
+id: e473
 summary: Dr. George Yancey is a Professor of Sociology at the Baylor University. He
   has published several research articles on the topics of institutional racial diversity,
   racial identity, academic bias, progressive Christians and anti-Christian hostility.

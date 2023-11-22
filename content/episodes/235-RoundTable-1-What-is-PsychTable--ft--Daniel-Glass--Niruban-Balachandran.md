@@ -1,7 +1,7 @@
 ---
 date: '2019-09-27'
 draft: 'false'
-id: d2019-09-27-e235
+id: e235
 summary: "Dr. Daniel Glass is a clinician and researcher in the disciplines of evolutionary\
   \ and clinical psychology. He has published sixteen peer-reviewed scholarly articles\
   \ in the fields of psychology, medicine, and evolutionary studies, on subjects ranging\

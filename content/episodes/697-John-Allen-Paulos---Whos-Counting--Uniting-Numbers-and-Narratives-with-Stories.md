@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 draft: 'false'
-id: d2022-10-28-e697
+id: e697
 summary: "Dr. John Allen Paulos is a Professor of Mathematics at Temple University.\
   \ In 2003, he received the American Association for the Advancement of Science award\
   \ for promoting public understanding of science, and in 2013 the Mathematics Communication\

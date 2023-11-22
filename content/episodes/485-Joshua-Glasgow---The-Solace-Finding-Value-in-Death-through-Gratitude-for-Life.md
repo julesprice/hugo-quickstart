@@ -1,7 +1,7 @@
 ---
 date: '2021-06-21'
 draft: 'false'
-id: d2021-06-21-e485
+id: e485
 summary: "Dr. Joshua Glasgow is Associate Professor in (and Chair of) the Philosophy\
   \ Department at Sonoma State University. Dr. Glasgow works on a variety of topics\
   \ in moral, political, and legal philosophy. His publications have covered a variety\

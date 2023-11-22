@@ -1,7 +1,7 @@
 ---
 date: '2019-04-27'
 draft: 'false'
-id: d2019-04-27-e61
+id: e61
 summary: Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cognitive
   and Evolutionary Anthropology, at the University of Oxford. He received his PhD
   from the London School of Economics in 2005. In addition to his research, which

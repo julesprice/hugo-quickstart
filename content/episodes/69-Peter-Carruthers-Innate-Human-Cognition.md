@@ -1,7 +1,7 @@
 ---
 date: '2019-05-09'
 draft: 'false'
-id: d2019-05-09-e69
+id: e69
 summary: "Dr. Peter Carruthers is a British-American philosopher and cognitive scientist\
   \ working primarily in the area of philosophy of mind, though he has also made contributions\
   \ to philosophy of language and ethics. He is Professor of Philosophy at the University\

@@ -1,7 +1,7 @@
 ---
 date: '2019-09-26'
 draft: 'false'
-id: d2019-09-26-e234
+id: e234
 summary: 'Dr. Samir Okasha is a Professor of Philosophy of Science at the University
   of Bristol. He is a winner of the Lakatos Award for his book Evolution and the Levels
   of Selection. He was appointed a Fellow of the British Academy in 2018, and he is

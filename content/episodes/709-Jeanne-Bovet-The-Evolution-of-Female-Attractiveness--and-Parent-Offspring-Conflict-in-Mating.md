@@ -1,7 +1,7 @@
 ---
 date: '2022-11-25'
 draft: 'false'
-id: d2022-11-25-e709
+id: e709
 summary: Dr. Jeanne Bovet is an Assistant Professor at the Department of Psychology
   at Northumbria University. Broadly, she tries to understand how evolution shaped
   our preferences, and what its consequences are in our contemporary lives.

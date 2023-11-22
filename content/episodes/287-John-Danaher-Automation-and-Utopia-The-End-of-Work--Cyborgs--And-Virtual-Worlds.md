@@ -1,7 +1,7 @@
 ---
 date: '2020-01-27'
 draft: 'false'
-id: d2020-01-27-e287
+id: e287
 summary: "Dr. John Danaher is a senior lecturer in the Law School at the National\
   \ University of Ireland, Galway. He holds a BCL from University College Cork (2006);\
   \ an LLM from Trinity College Dublin (2007); and a PhD from University College Cork\

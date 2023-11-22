@@ -1,7 +1,7 @@
 ---
 date: '2021-03-19'
 draft: 'false'
-id: d2021-03-19-e445
+id: e445
 summary: "Kate\u0159ina Lochmanov\xE1 is currently finishing her postgraduate studies\
   \ of philosophy at the University of Ostrava, where she graduated with a diploma\
   \ thesis entitled Iracionality of a Wager on Life in the Context of Benatar\u2019\

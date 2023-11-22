@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 draft: 'false'
-id: d2022-05-12-e624
+id: e624
 summary: 'Dr. David Leiser is a professor of economic and social psychology at Ben-Gurion
   University of the Negev. Dr. Leiser has served as President of the Economic Psychology
   division of the International Association of Applied Psychology (IAAP) since 2014.

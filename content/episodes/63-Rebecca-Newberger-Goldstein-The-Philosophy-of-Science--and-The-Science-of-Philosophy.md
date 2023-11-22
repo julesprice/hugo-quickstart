@@ -1,7 +1,7 @@
 ---
 date: '2019-04-30'
 draft: 'false'
-id: d2019-04-30-e63
+id: e63
 summary: "Dr. Rebecca Newberger Goldstein is an American philosopher, novelist and\
   \ public intellectual. She is a MacArthur Fellow and has received the National Humanities\
   \ Medal of the US, the National Jewish Book Award, and numerous other honors. She\u2019\

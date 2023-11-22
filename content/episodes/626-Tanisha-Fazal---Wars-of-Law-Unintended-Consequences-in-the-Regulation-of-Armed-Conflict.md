@@ -1,7 +1,7 @@
 ---
 date: '2022-05-16'
 draft: 'false'
-id: d2022-05-16-e626
+id: e626
 summary: "Dr. Tanisha Fazal is a Professor of Political Science at the University\
   \ of Minnesota. Her research and teaching focus on sovereignty, international law,\
   \ medical care in conflict zones, and armed conflict. From 2021\u20132023, she is\

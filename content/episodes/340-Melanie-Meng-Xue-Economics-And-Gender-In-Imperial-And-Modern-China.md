@@ -1,7 +1,7 @@
 ---
 date: '2020-05-29'
 draft: 'false'
-id: d2020-05-29-e340
+id: e340
 summary: "Dr. Melanie Meng Xue is assistant professor in the Social Science Division\
   \ at New York University in Abu Dhabi. Her research lies at the intersection of\
   \ economic history and political economy. She has studied the rise of gender-equitable\

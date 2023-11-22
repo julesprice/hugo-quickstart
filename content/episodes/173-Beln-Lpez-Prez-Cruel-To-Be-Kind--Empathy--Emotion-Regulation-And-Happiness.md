@@ -1,7 +1,7 @@
 ---
 date: '2019-05-06'
 draft: 'false'
-id: d2019-05-06-e173
+id: e173
 summary: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at Liverpool\
   \ Hope University in the UK, where she also directs the ChildLab. She concluded\
   \ her PhD in Social psychology at Universidad Autonoma de Madrid in 2012, and her\

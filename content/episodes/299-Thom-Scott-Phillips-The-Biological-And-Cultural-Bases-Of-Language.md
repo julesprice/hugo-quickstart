@@ -1,7 +1,7 @@
 ---
 date: '2020-02-24'
 draft: 'false'
-id: d2020-02-24-e299
+id: e299
 summary: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind\
   \ Center and the Department of Cognitive Science, at Central European University,\
   \ Budapest. In particular he studies communication, and how it makes us human. His\

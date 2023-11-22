@@ -1,7 +1,7 @@
 ---
 date: '2021-01-04'
 draft: 'false'
-id: d2021-01-04-e413
+id: e413
 summary: "In this episode, we talk neuroscience and cognitive science. We start with\
   \ the evolution of the brain, and what is the best way to understand it, and go\
   \ through the modularity approach, the idea of functional localization, and the\

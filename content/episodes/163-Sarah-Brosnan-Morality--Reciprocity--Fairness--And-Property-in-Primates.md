@@ -1,7 +1,7 @@
 ---
 date: '2019-04-12'
 draft: 'false'
-id: d2019-04-12-e163
+id: e163
 summary: Dr. Sarah Brosnan is a Professor in the departments of psychology and philosophy
   and the Neuroscience Institute at Georgia State University. She is also a member
   of the Brains &amp; Behavior program and the Center for Behavioral Neuroscience.

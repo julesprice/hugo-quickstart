@@ -1,7 +1,7 @@
 ---
 date: '2019-12-09'
 draft: 'false'
-id: d2019-12-09-e266
+id: e266
 summary: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School\
   \ of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies\
   \ Institute, at University of the Witwatersrand, South Africa. She directs a Wits-recognized\

@@ -1,7 +1,7 @@
 ---
 date: '2020-10-08'
 draft: 'false'
-id: d2020-10-08-e375
+id: e375
 summary: "Dr. Karenleigh A. Overmann is an associate professor of anthropology (adjunct)\
   \ at the University of Colorado, Colorado Springs (UCCS) Center for Cognitive Archaeology.\
   \ She recently completed two years of postdoctoral research at the University of\

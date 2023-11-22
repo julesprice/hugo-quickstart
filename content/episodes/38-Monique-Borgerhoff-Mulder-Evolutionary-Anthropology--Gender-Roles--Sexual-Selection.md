@@ -1,7 +1,7 @@
 ---
 date: '2019-03-23'
 draft: 'false'
-id: d2019-03-23-e38
+id: e38
 summary: Here, we talk about what is Evolutionary Anthropology; the conciliation between
   Evolutionary Psychology and Human Behavioral Ecology; the role of biology and culture
   in determining gender roles; how the studies done with the Pimbwe add nuance to

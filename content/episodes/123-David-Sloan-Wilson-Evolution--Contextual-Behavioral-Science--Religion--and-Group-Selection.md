@@ -1,7 +1,7 @@
 ---
 date: '2019-07-25'
 draft: 'false'
-id: d2019-07-25-e123
+id: e123
 summary: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and Anthropology\
   \ at Binghamton University. He applies evolutionary theory to all aspects of humanity\
   \ in addition to the rest of life, both in his own research and as director of the\

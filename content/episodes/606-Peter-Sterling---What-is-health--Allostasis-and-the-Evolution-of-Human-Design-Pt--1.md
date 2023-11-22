@@ -1,7 +1,7 @@
 ---
 date: '2022-03-31'
 draft: 'false'
-id: d2022-03-31-e606
+id: e606
 summary: "Dr. Peter Sterling is Professor of Neuroscience in the Perelman School of\
   \ Medicine at the University of Pennsylvania. His broad goal has been to learn how\
   \ the brain is designed \u2013 to understand its functional architecture. He is\

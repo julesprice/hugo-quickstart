@@ -1,7 +1,7 @@
 ---
 date: '2022-05-23'
 draft: 'false'
-id: d2022-05-23-e629
+id: e629
 summary: 'Dr. Robert Pennock is University Distinguished Professor at Michigan State
   University, where he is on the faculty of Lyman Briggs College, the Departments
   of Philosophy and Computer Science &amp; Engineering, and the Ecology, Evolution

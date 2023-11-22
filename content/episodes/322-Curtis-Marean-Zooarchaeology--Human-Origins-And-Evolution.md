@@ -1,7 +1,7 @@
 ---
 date: '2020-04-17'
 draft: 'false'
-id: d2020-04-17-e322
+id: e322
 summary: "Dr. Curtis Marean is Foundation Professor and Associate Director at the\
   \ Institute of Human Origins at Arizona State University. Dr. Marean\u2019s research\
   \ interests focus on the origins of modern humans, the prehistory of Africa, the\

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-13'
 draft: 'false'
-id: d2023-10-13-e847
+id: e847
 summary: 'Dr. Lydia Moland is a Professor of Philosophy at Colby College in Waterville,
   Maine, where she teaches courses on moral philosophy, aesthetics, and the history
   of modern philosophy. For most of her career, she has written on nineteenth-century

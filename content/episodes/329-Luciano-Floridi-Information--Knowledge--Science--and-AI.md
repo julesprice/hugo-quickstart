@@ -1,7 +1,7 @@
 ---
 date: '2020-05-04'
 draft: 'false'
-id: d2020-05-04-e329
+id: e329
 summary: "Dr. Luciano Floridi is the OII\u2018s Professor of Philosophy and Ethics\
   \ of Information at the University of Oxford, where he is also the Director of the\
   \ Digital Ethics Lab of the Oxford Internet Institute, and Professorial Fellow of\

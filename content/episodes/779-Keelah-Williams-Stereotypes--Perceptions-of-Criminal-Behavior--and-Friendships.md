@@ -1,7 +1,7 @@
 ---
 date: '2023-05-08'
 draft: 'false'
-id: d2023-05-08-e779
+id: e779
 summary: Dr. Keelah Williams is an Assistant Professor of Psychology and Director
   of Jurisprudence of Law and Justice Studies at Hamilton College. Her current research
   explores how the perception of threats and opportunities in the environment may

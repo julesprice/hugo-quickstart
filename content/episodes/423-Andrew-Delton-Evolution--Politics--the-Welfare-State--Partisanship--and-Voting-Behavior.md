@@ -1,7 +1,7 @@
 ---
 date: '2021-01-28'
 draft: 'false'
-id: d2021-01-28-e423
+id: e423
 summary: In this episode, we talk about political science through an evolutionary
   lens. We go through topics like welfare tradeoffs from an evolutionary perspective;
   the welfare state, and when people are for and against it; the emotion of compassion,

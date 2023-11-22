@@ -1,7 +1,7 @@
 ---
 date: '2022-01-28'
 draft: 'false'
-id: d2022-01-28-e580
+id: e580
 summary: "Emily Kubin is a PhD student in the Political Psychology &amp; Communication\
   \ Lab at the University of Koblenz-Landau (at Landau). She studies political communication.\
   \ Specifically, she focuses on how political opponents view and interact with one\

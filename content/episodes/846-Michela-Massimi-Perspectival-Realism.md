@@ -1,7 +1,7 @@
 ---
 date: '2023-10-12'
 draft: 'false'
-id: d2023-10-12-e846
+id: e846
 summary: "Dr. Michela Massimi is Professor of Philosophy of Science in the Department\
   \ of Philosophy at the University of Edinburgh, affiliated with the Higgs Centre\
   \ for Theoretical Physics. She works in the area of history and philosophy of science\

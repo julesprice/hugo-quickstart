@@ -1,7 +1,7 @@
 ---
 date: '2022-08-29'
 draft: 'false'
-id: d2022-08-29-e671
+id: e671
 summary: 'Dr. Victor Kumar is Assistant Professor of Philosophy at Boston University.
   He is director of the Mind and Morality Lab. His primary philosophical interests
   are in ethics, cognitive science, and evolutionary theory. He is the author (with

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 draft: 'false'
-id: d2022-10-24-e695
+id: e695
 summary: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Logic,\
   \ History and Philosophy of Science at Universidad Nacional de Educaci\xF3n a Distancia.\
   \ She was the recipient of the Lise Meitner FWF Austrian Science Fund. Her work\

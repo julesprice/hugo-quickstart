@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01'
 draft: 'false'
-id: d2019-08-01-e210
+id: e210
 summary: "Dr. Dwight Read is Distinguished Professor Emeritus of Anthropology at UCLA\
   \ (University of California, Los Angeles). His research interests include mathematical\
   \ anthropology, the structural logic of kinship terminologies, theory of social\

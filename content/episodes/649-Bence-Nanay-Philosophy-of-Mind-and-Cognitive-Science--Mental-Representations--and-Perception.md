@@ -1,7 +1,7 @@
 ---
 date: '2022-07-08'
 draft: 'false'
-id: d2022-07-08-e649
+id: e649
 summary: Dr. Bence Nanay is Professor of Philosophy and BOF Research Professor at
   the University of Antwerp and has worked as a film critic. He is co-director of
   the Centre for Philosophical Psychology at the University of Antwerp. He is a cognitive

@@ -1,7 +1,7 @@
 ---
 date: '2022-01-14'
 draft: 'false'
-id: d2022-01-14-e574
+id: e574
 summary: 'Dr. Andreas Jungherr is Professor for Political Science with a focus on
   the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University
   Bamberg. He examines the impact of digital media on politics and society. He has

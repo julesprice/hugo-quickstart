@@ -1,7 +1,7 @@
 ---
 date: '2019-10-18'
 draft: 'false'
-id: d2019-10-18-e244
+id: e244
 summary: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social Neuroscience\
   \ at the Interdisciplinary Center (IDC) Herzlia with joint appointment at Yale Child\
   \ Study Center. With degrees in music composition (summa cum-laude), neuroscience\

@@ -1,7 +1,7 @@
 ---
 date: '2019-04-16'
 draft: 'false'
-id: d2019-04-16-e55
+id: e55
 summary: "Dr. Bradley Campbell is an Associate Professor of Sociology at California\
   \ State University. He\u2019s also the author of books like The Geometry of Genocide,\
   \ and, more recently, The Rise of Victimhood Culture."

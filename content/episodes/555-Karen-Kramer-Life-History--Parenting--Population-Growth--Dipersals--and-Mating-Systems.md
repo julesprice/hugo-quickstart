@@ -1,7 +1,7 @@
 ---
 date: '2021-12-02'
 draft: 'false'
-id: d2021-12-02-e555
+id: e555
 summary: Dr. Karen Kramer is Professor of Anthropology at the University of Utah.
   Her research interests span behavioral ecology, demography, comparative life history
   and reproductive ecology, the evolution of juvenility, cooperative breeding, intergenerational

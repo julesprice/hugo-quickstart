@@ -1,7 +1,7 @@
 ---
 date: '2020-01-09'
 draft: 'false'
-id: d2020-01-09-e279
+id: e279
 summary: "Dr. Daniel Lieberman is Edwin M. Lerner II Professor of Biological Sciences,\
   \ Professor of Human Evolutionary Biology at Harvard University. He studies and\
   \ teaches how and why the human body looks and functions the way it does. He started\

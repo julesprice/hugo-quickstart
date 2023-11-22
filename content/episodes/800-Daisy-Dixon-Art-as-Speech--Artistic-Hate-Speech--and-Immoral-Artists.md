@@ -1,7 +1,7 @@
 ---
 date: '2023-06-26'
 draft: 'false'
-id: d2023-06-26-e800
+id: e800
 summary: "Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer in\
   \ Philosophy at Cardiff University. Her research falls at the intersection of philosophy\
   \ of art, philosophy of language, and political philosophy. She explores how visual\

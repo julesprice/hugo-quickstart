@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 draft: 'false'
-id: d2022-10-21-e694
+id: e694
 summary: Dr. Patrick Savage is Associate Professor in the Faculty of Environment and
   Information Studies at Keio SFC, where he directs the CompMusic Lab for comparative
   and computational musicology. He has academic degrees in music composition (BA),

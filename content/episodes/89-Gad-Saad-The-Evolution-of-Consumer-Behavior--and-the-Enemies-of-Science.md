@@ -1,7 +1,7 @@
 ---
 date: '2019-06-05'
 draft: 'false'
-id: d2019-06-05-e89
+id: e89
 summary: "Dr. Gad Saad is Professor of Marketing at Concordia University, holder of\
   \ the Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption.\
   \ He\u2019s the founder of the field of Darwinian Consumption. He was an Associate\

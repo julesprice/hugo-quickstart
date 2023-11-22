@@ -1,7 +1,7 @@
 ---
 date: '2021-05-07'
 draft: 'false'
-id: d2021-05-07-e466
+id: e466
 summary: 'Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics and
   Law at Chapman University. He is a founding member of the Economic Science Institute
   and founding member and Director of the Smith Institute for Political Economy and

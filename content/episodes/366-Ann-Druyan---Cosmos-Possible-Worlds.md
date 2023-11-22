@@ -1,7 +1,7 @@
 ---
 date: '2020-09-17'
 draft: 'false'
-id: d2020-09-17-e366
+id: e366
 summary: "Ann Druyan was the creative director of NASA\u2019s Voyager Interstellar\
   \ Message Project and program director of the first solar sail deep space mission,\
   \ launched on a Russian ICBM in 2005. With her late husband, Carl Sagan, she co-authored\

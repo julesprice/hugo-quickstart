@@ -1,7 +1,7 @@
 ---
 date: '2019-06-10'
 draft: 'false'
-id: d2019-06-10-e188
+id: e188
 summary: "Dr. Gustavo Carlo is Millsap Professor of Diversity in the Department of\
   \ Human Development and Family Science at the University of Missouri. His research\
   \ areas and interests include: Prosocial and moral development among children and\

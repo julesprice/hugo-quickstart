@@ -1,7 +1,7 @@
 ---
 date: '2023-03-17'
 draft: 'false'
-id: d2023-03-17-e757
+id: e757
 summary: Dr. Quentin Atkinson is a Professor in Psychology at the University of Auckland,
   where he runs the Language, Cognition and Culture Lab, and co-Director of the University
   of Auckland Behavioural Insights Exchange (UoABIX). He uses lab and field experiments,

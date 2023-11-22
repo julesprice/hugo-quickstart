@@ -1,7 +1,7 @@
 ---
 date: '2022-04-08'
 draft: 'false'
-id: d2022-04-08-e610
+id: e610
 summary: "Dr. Dorothea Debus is Professor of Theoretical Philosophy at Konstanz University,\
   \ with a special focus on the philosophy of language and the philosophy of mind.\
   \ Her main area of research is the Philosophy of Mind. A substantial part of her\

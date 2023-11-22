@@ -1,7 +1,7 @@
 ---
 date: '2022-06-10'
 draft: 'false'
-id: d2022-06-10-e637
+id: e637
 summary: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping University,\
   \ and Director at National Centre for Priorities in Health, in Sweden. His research\
   \ area is organizational ethics in healthcare, focusing on priority setting and\

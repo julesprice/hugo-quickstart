@@ -1,7 +1,7 @@
 ---
 date: '2022-08-19'
 draft: 'false'
-id: d2022-08-19-e667
+id: e667
 summary: 'Dr. Justin Gregg is a Senior Research Associate with the Dolphin Communication
   Project and an Adjunct Professor at St. Francis Xavier University, where he lectures
   on animal behavior and cognition. Originally from Vermont, Dr. Gregg studied the

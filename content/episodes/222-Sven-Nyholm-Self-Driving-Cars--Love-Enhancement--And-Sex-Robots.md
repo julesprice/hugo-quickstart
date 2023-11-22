@@ -1,7 +1,7 @@
 ---
 date: '2019-08-29'
 draft: 'false'
-id: d2019-08-29-e222
+id: e222
 summary: Dr. Sven Nyholm is an Assistant Professor of Philosophy and Ethics at Eindhoven
   University of Technology (TU/e). His main areas of research are applied ethics (especially
   the ethics of technology), ethical theory, and the history of ethics. More specifically,

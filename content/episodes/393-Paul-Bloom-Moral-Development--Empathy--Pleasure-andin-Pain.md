@@ -1,7 +1,7 @@
 ---
 date: '2020-11-19'
 draft: 'false'
-id: d2020-11-19-e393
+id: e393
 summary: In this episode, we talk about human nature and empathy. We start with a
   bit of developmental psychology, and discuss how we study babies, and how good they
   really are as models for human nature and the innateness of behavior. We also deal

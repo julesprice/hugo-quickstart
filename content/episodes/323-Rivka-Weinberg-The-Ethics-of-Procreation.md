@@ -1,7 +1,7 @@
 ---
 date: '2020-04-20'
 draft: 'false'
-id: d2020-04-20-e323
+id: e323
 summary: "Dr. Rivka Weinberg is a professor of philosophy at Scripps College in Claremont,\
   \ California. As a philosopher and bioethicist, Dr. Weinberg specializes in ethical\
   \ and metaphysical issues regarding birth, death, and meaning. She\u2019s the author\

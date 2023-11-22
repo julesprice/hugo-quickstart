@@ -1,7 +1,7 @@
 ---
 date: '2020-09-11'
 draft: 'false'
-id: d2020-09-11-e364
+id: e364
 summary: "In this episode, we talk about many questions that Psycholinguistics tries\
   \ to answer. We ask what why child development is so important for linguistics,\
   \ and if language is innate, including the poverty of the stimulus argument. We\

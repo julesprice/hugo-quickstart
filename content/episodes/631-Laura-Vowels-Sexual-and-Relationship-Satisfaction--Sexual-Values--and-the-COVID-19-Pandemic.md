@@ -1,7 +1,7 @@
 ---
 date: '2022-05-27'
 draft: 'false'
-id: d2022-05-27-e631
+id: e631
 summary: "Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) therapist\
   \ and a junior lecturer/postdoctoral researcher at University of Lausanne, Switzerland.\
   \ She has published extensively on topics pertaining to romantic relationships and\

@@ -1,7 +1,7 @@
 ---
 date: '2020-03-23'
 draft: 'false'
-id: d2020-03-23-e311
+id: e311
 summary: "Dr. Renee Magnan is Associate Professor and Director of Experimental Training\
   \ in the Department of Psychology at Washington State University. She applies social\
   \ psychological theory to address issues in preventive health behaviors and health\

@@ -1,7 +1,7 @@
 ---
 date: '2019-02-28'
 draft: 'false'
-id: d2019-02-28-e20
+id: e20
 summary: 'Dr. Stephen Hicks teaches at Rockford University, where he also directs
   the Center for Ethics and Entrepreneurship. He is the author of books like Explaining
   Postmodernism: Skepticism and Socialism from Rousseau to Foucault, and Nietzsche

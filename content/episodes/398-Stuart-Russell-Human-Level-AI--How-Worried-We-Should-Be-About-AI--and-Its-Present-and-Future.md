@@ -1,7 +1,7 @@
 ---
 date: '2020-11-30'
 draft: 'false'
-id: d2020-11-30-e398
+id: e398
 summary: In this episode, we talk about artificial intelligence. We start with what
   intelligence is, and what would human-level AI look like. We get into what is worrisome
   about advanced AI systems, and the issue with value alignment. We discuss different

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-14'
 draft: 'false'
-id: d2022-04-14-e612
+id: e612
 summary: 'Dr. Ralph Schroeder is Professor in Social Science of the Internet at the
   Oxford Internet Institute. &nbsp;Dr. Schroeder has interests in virtual environments,
   the social aspects of e-science, and the sociology of science and technology. He

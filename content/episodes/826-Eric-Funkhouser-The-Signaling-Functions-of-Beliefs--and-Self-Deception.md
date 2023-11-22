@@ -1,7 +1,7 @@
 ---
 date: '2023-08-25'
 draft: 'false'
-id: d2023-08-25-e826
+id: e826
 summary: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy at\
   \ the University of Arkansas. His main areas of research are in the philosophy of\
   \ psychology/mind and metaphysics. He is currently working on a series of papers\

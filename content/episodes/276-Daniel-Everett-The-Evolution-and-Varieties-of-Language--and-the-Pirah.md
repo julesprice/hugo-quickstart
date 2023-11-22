@@ -1,7 +1,7 @@
 ---
 date: '2020-01-02'
 draft: 'false'
-id: d2020-01-02-e276
+id: e276
 summary: "Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentley\
   \ University. He holds a ScD and a Masters of Linguistics from the Universidade\
   \ Estadual in Campinas (UNICAMP). He is well-known for his many years of field research\

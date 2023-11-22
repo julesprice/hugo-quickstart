@@ -1,7 +1,7 @@
 ---
 date: '2019-07-05'
 draft: 'false'
-id: d2019-07-05-e199
+id: e199
 summary: "Dr. Clark McCauley is a Research Professor of Psychology and co-director\
   \ of the Solomon Asch Center for the Study of Ethnopolitical Conflict at Bryn Mawr\
   \ College. His research interests include the psychology of group identification,\

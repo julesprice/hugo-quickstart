@@ -1,7 +1,7 @@
 ---
 date: '2021-07-22'
 draft: 'false'
-id: d2021-07-22-e498
+id: e498
 summary: Dr. Kristen Syme is research associate at the Faculty of Behavioral and Movement
   Sciences at Vrije Universiteit Amsterdam. She received her BA in anthropology from
   the University of Delaware where she developed an interest in using evolutionary

@@ -1,7 +1,7 @@
 ---
 date: '2021-09-09'
 draft: 'false'
-id: d2021-09-09-e519
+id: e519
 summary: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and\
   \ Conflict Studies at the University of North Carolina at Greensboro. He has written\
   \ extensively on aggression, conflict, and conflict resolution in his own books\

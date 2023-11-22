@@ -1,7 +1,7 @@
 ---
 date: '2021-12-30'
 draft: 'false'
-id: d2021-12-30-e567
+id: e567
 summary: "Dr. Chris Knight is Honorary Professor in the Department of Anthropology\
   \ at University College London. Over many years, he has been exploring the idea\
   \ that human language and culture emerged in our species not purely through gradual\

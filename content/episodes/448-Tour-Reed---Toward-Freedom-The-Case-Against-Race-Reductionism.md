@@ -1,7 +1,7 @@
 ---
 date: '2021-03-26'
 draft: 'false'
-id: d2021-03-26-e448
+id: e448
 summary: "Dr. Tour\xE9 Reed is a professor in the History department at Illinois State\
   \ University. Dr. Reed earned his BA in American Studies from Hampshire College\
   \ (Amherst, MA), and his PhD in History from Columbia University (New York, NY).\

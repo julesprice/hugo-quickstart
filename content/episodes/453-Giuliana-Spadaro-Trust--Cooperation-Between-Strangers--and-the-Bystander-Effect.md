@@ -1,7 +1,7 @@
 ---
 date: '2021-04-08'
 draft: 'false'
-id: d2021-04-08-e453
+id: e453
 summary: In this episode, we talk about trust and cooperation. We define trust, and
   talk about trust and cooperation among strangers. We discuss individual differences
   in trust, and trust on an individual and societal level. We explore why different

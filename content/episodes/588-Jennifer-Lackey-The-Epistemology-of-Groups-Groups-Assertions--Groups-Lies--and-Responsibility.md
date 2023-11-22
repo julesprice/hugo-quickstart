@@ -1,7 +1,7 @@
 ---
 date: '2022-02-17'
 draft: 'false'
-id: d2022-02-17-e588
+id: e588
 summary: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy
   at Northwestern University. Jennifer Lackey specializes in epistemology, with a
   particular emphasis on a broad range of issues in social epistemology. Her recent

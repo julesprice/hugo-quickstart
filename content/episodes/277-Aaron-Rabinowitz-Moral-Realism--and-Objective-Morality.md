@@ -1,7 +1,7 @@
 ---
 date: '2020-01-03'
 draft: 'false'
-id: d2020-01-03-e277
+id: e277
 summary: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy
   department and the Rutgers Honors College. He specializes in ethics, metaethics,
   and AI. His work focuses on developing a secular moral realism that is compatible

@@ -1,7 +1,7 @@
 ---
 date: '2019-08-12'
 draft: 'false'
-id: d2019-08-12-e215
+id: e215
 summary: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian University
   of Munich and at King's College London. He has written articles, monographs and
   edited books, mostly on philosophy in the Islamic world and ancient philosophy.

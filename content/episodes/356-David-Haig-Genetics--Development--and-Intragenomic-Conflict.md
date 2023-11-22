@@ -1,7 +1,7 @@
 ---
 date: '2020-08-20'
 draft: 'false'
-id: d2020-08-20-e356
+id: e356
 summary: "Dr. David Haig is an evolutionary biologist, geneticist, and professor in\
   \ Harvard University's Department of Organismic and Evolutionary Biology. He is\
   \ interested in intragenomic conflict, genomic imprinting and parent\u2013offspring\

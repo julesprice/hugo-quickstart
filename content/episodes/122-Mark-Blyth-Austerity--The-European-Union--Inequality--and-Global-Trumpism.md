@@ -1,7 +1,7 @@
 ---
 date: '2019-07-24'
 draft: 'false'
-id: d2019-07-24-e122
+id: e122
 summary: "Dr. Mark Blyth is William R. Roads Professor of International Economics\
   \ at Brown University. His research interests lie in the field of international\
   \ political economy. More specifically, his research trespasses several fields and\

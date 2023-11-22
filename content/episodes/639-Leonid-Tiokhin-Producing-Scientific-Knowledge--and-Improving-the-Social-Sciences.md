@@ -1,7 +1,7 @@
 ---
 date: '2022-06-16'
 draft: 'false'
-id: d2022-06-16-e639
+id: e639
 summary: Dr. Leonid Tiokhin is Research Fellow at the Institute for Advanced Study
   at the University of Amsterdam, and a postdoctoral researcher at the Eindhoven University
   of Technology. Dr. Tiokhin is a meta-scientist who studies the forces that shape

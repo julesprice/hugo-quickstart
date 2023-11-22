@@ -1,7 +1,7 @@
 ---
 date: '2019-11-11'
 draft: 'false'
-id: d2019-11-11-e254
+id: e254
 summary: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at the
   University of California, Santa Barbara, chair of the Integrative Anthropological
   Sciences Unit, and also head of the Evolutionary Anthropology and Biodemography

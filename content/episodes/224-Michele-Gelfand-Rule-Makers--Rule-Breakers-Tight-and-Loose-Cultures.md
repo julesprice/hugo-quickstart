@@ -1,7 +1,7 @@
 ---
 date: '2019-09-02'
 draft: 'false'
-id: d2019-09-02-e224
+id: e224
 summary: 'Dr. Michele Gelfand is a Distinguished University Professor at the University
   of Maryland, College Park. She uses field, experimental, computational, and neuroscience
   methods to understand the evolution of culture--as well as its multilevel consequences

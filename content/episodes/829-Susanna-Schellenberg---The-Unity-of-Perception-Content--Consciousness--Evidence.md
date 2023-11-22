@@ -1,7 +1,7 @@
 ---
 date: '2023-09-01'
 draft: 'false'
-id: d2023-09-01-e829
+id: e829
 summary: 'Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and Cognitive
   Science at Rutgers University, where she holds a secondary appointment at the Rutgers
   Center for Cognitive Science. She specializes in epistemology, philosophy of mind,

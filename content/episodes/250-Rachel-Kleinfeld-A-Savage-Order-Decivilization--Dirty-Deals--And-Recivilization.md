@@ -1,7 +1,7 @@
 ---
 date: '2019-11-01'
 draft: 'false'
-id: d2019-11-01-e250
+id: e250
 summary: "Dr. Rachel Kleinfeld is a senior fellow at the Carnegie Endowment for International\
   \ Peace. She\u2019s a leading expert on how democracies \u2013 including the United\
   \ States \u2013 can improve, with a particular focus on countries facing poor leadership,\

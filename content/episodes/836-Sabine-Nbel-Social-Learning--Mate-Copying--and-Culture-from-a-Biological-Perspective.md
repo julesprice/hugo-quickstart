@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 draft: 'false'
-id: d2023-09-18-e836
+id: e836
 summary: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle Wittenberg\
   \ in the group \u201CAnimal Ecology\u201C. Her background is in the behavioral ecology\
   \ of Poeciliids and Drosophila studying non-genetic inheritance of mating preferences\

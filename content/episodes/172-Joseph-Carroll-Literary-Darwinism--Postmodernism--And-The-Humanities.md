@@ -1,7 +1,7 @@
 ---
 date: '2019-05-03'
 draft: 'false'
-id: d2019-05-03-e172
+id: e172
 summary: "Dr. Joseph Carroll is a scholar in the field of literature and evolution.\
   \ He is currently Curators\u2019 Professor at the University of Missouri\u2013St.\
   \ Louis, where he has taught since 1985. Dr. Carroll's Evolution and Literary Theory\

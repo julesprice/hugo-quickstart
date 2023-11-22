@@ -1,7 +1,7 @@
 ---
 date: '2023-03-06'
 draft: 'false'
-id: d2023-03-06-e752
+id: e752
 summary: 'Dr. Paul Bloom is Professor of Psychology at the University of Toronto,
   and Brooks and Suzanne Ragen Professor Emeritus of Psychology at Yale University.
   Dr. Bloom studies how children and adults make sense of the world, with special

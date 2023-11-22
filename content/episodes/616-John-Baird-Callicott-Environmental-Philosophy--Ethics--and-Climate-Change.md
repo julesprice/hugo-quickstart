@@ -1,7 +1,7 @@
 ---
 date: '2022-04-22'
 draft: 'false'
-id: d2022-04-22-e616
+id: e616
 summary: 'Dr. John Baird Callicott is Distinguished Research Professor Emeritus and
   a member of the Department of Philosophy and Religion and the Institute of Applied
   Sciences at the University of North Texas. He is a philosopher whose work has been

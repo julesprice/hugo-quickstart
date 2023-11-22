@@ -1,7 +1,7 @@
 ---
 date: '2019-06-21'
 draft: 'false'
-id: d2019-06-21-e193
+id: e193
 summary: "Dr. Paul Slovic is a founder and President of Decision Research and Professor\
   \ of Psychology at the University of Oregon, where he studies human judgment, decision\
   \ making, and risk analysis. He and his colleagues worldwide have developed methods\

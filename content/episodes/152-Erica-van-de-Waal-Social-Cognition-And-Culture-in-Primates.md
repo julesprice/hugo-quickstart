@@ -1,7 +1,7 @@
 ---
 date: '2019-03-18'
 draft: 'false'
-id: d2019-03-18-e152
+id: e152
 summary: Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne,
   Switzerland. She is also Director of the Inkawu Vervet Project, at the Mawana Game
   Reserve, in South Africa, an experimental field site with a study population of

@@ -1,7 +1,7 @@
 ---
 date: '2019-06-21'
 draft: 'false'
-id: d2019-06-21-e101
+id: e101
 summary: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology
   at the University of Oakland, as well as the Co-Director of the Evolutionary Psychology
   Lab there. He is the editor in chief of the academic journals Evolutionary Psychology

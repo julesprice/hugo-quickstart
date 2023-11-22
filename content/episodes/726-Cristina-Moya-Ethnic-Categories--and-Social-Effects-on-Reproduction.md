@@ -1,7 +1,7 @@
 ---
 date: '2023-01-05'
 draft: 'false'
-id: d2023-01-05-e726
+id: e726
 summary: 'Dr. Cristina Moya is Assistant Professor of Anthropology at the University
   of California, Davis. She is an evolutionary anthropologist interested in how humans
   respond adaptively to culturally structured social worlds. Two main foci of her

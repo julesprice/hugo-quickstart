@@ -1,7 +1,7 @@
 ---
 date: '2021-05-27'
 draft: 'false'
-id: d2021-05-27-e474
+id: e474
 summary: 'Dr. Andrew Norman teaches philosophy at Carnegie Mellon University. He works
   on the conceptual and historical foundations of humanism. He has published widely
   on the nature of reason and the teaching of wisdom, and written books on critical

@@ -1,7 +1,7 @@
 ---
 date: '2021-12-23'
 draft: 'false'
-id: d2021-12-23-e564
+id: e564
 summary: 'Dr Hans-Georg Moeller is a professor in the Philosophy and Religious Studies
   Programme at the University of Macau. His research focuses on Chinese and Comparative
   Philosophy (specifically Daoism) and on Social and Political Thought (specifically

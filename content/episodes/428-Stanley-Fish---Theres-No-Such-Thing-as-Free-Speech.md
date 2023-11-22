@@ -1,7 +1,7 @@
 ---
 date: '2021-02-08'
 draft: 'false'
-id: d2021-02-08-e428
+id: e428
 summary: "Dr. Stanley Fish is Professor of Law at Florida International University\
   \ and Visiting Professor of Law at Cardoso Law School. In addition to being one\
   \ of the country\u2019s leading public intellectuals, Professor Fish is an extraordinarily\

@@ -1,7 +1,7 @@
 ---
 date: '2023-08-24'
 draft: 'false'
-id: d2023-08-24-e825
+id: e825
 summary: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology\
   \ at the Department of Philosophy at the University of Vienna. He is member of the\
   \ High Level Expert Group on Artificial Intelligence for the European Commission,\

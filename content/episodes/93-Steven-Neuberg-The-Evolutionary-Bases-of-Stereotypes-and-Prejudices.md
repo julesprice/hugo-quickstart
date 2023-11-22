@@ -1,7 +1,7 @@
 ---
 date: '2019-06-12'
 draft: 'false'
-id: d2019-06-12-e93
+id: e93
 summary: "Dr. Steven Neuberg is a Foundation Professor and chair of the Department\
   \ of Psychology at Arizona State University (ASU). He is the co-director of the\
   \ Kenrick-Neuberg Social Cognition Laboratory. He also founded the ASU Global Group\

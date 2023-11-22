@@ -1,7 +1,7 @@
 ---
 date: '2020-05-21'
 draft: 'false'
-id: d2020-05-21-e336
+id: e336
 summary: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of
   the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological
   research has revolutionized the understanding of animal domestication. She has conducted

@@ -1,7 +1,7 @@
 ---
 date: '2021-04-16'
 draft: 'false'
-id: d2021-04-16-e457
+id: e457
 summary: 'Dr. Michael Strevens is Professor of Philosophy at New York University.
   He works on the philosophy of science, where his interests include explanation,
   complex systems, probability, confirmation, the social structure of science, and

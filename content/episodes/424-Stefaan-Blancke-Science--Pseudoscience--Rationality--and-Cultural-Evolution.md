@@ -1,7 +1,7 @@
 ---
 date: '2021-01-29'
 draft: 'false'
-id: d2021-01-29-e424
+id: e424
 summary: In this episode, we talk about philosophy of science. We focus on the demarcation
   problem, the scientific method, and how to distinguish science from pseudoscience.
   We also talk about the evolutionary bases of pseudoscience, and how cultural attraction

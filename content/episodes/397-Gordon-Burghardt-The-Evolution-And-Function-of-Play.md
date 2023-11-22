@@ -1,7 +1,7 @@
 ---
 date: '2020-11-27'
 draft: 'false'
-id: d2020-11-27-e397
+id: e397
 summary: In this episode, we talk about the evolution of play. First, we define play
   from a biological perspective, including five different criteria for a particular
   behavior to be classified as play. We talk about the three different categories

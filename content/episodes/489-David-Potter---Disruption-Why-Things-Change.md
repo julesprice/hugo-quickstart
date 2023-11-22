@@ -1,7 +1,7 @@
 ---
 date: '2021-07-01'
 draft: 'false'
-id: d2021-07-01-e489
+id: e489
 summary: 'Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek and
   Roman History and Arthur F. Thurnau Professor at the University of Michigan. His
   books include The Origin of Empire: Rome from the Republic to Hadrian, Constantine

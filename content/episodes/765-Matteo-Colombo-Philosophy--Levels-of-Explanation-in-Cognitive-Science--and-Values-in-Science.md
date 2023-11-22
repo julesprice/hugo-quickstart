@@ -1,7 +1,7 @@
 ---
 date: '2023-04-06'
 draft: 'false'
-id: d2023-04-06-e765
+id: e765
 summary: Dr. Matteo Colombo is an Associate Professor in the Tilburg Center for Logic,
   Ethics, and Philosophy of Science, and in the Department of Philosophy at Tilburg
   University. Much of his work is in the foundations of computational neuroscience,

@@ -1,7 +1,7 @@
 ---
 date: '2019-06-18'
 draft: 'false'
-id: d2019-06-18-e98
+id: e98
 summary: Dr. Carin Perilloux is Assistant Professor of Psychology at Southwestern
   University, US. She uses cognitive science to study social phenomena from an evolutionary
   perspective. In particular, she applies an adaptationist lens to human mating. Her

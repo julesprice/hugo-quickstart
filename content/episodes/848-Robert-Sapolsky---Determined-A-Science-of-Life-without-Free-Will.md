@@ -1,7 +1,7 @@
 ---
 date: '2023-10-16'
 draft: 'false'
-id: d2023-10-16-e848
+id: e848
 summary: 'Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor and Professor
   of Biology, of Neurology and Neurological Sciences, and of Neurosurgery at Stanford
   University. Dr. Sapolsky is the author of several informative and comical books

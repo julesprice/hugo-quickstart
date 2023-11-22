@@ -1,7 +1,7 @@
 ---
 date: '2019-05-23'
 draft: 'false'
-id: d2019-05-23-e180
+id: e180
 summary: Dr. Joseph A. Bulbulia is a Professor in the School of Humanities, Faculty
   of Arts at the University of Auckland, where he was appointed the Maclaurin Goodfellow
   Chair in Theological and Religious Studies in 2018. Dr. Bulbulia is regarded as

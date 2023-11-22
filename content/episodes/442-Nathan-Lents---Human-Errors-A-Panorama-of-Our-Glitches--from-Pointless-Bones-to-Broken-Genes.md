@@ -1,7 +1,7 @@
 ---
 date: '2021-03-12'
 draft: 'false'
-id: d2021-03-12-e442
+id: e442
 summary: 'Dr. Nathan H. Lents is Professor of Biology and director of the honors program
   and the campus Macaulay Honors College program at John Jay College. Dr. Lents is
   noted for his work in cell biology, genetics, and forensic science, as well as his

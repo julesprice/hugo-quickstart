@@ -1,7 +1,7 @@
 ---
 date: '2019-07-22'
 draft: 'false'
-id: d2019-07-22-e206
+id: e206
 summary: Dr. Derek Leben is Associate Professor of Philosophy at the University of
   Pittsburgh, Johnstown. He works at the intersection of ethics, cognitive science,
   and emerging technologies. In his new book, Ethics for Robots, Dr. Leben argues

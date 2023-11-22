@@ -1,7 +1,7 @@
 ---
 date: '2022-05-26'
 draft: 'false'
-id: d2022-05-26-e630
+id: e630
 summary: Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University of
   London. Her research spans the areas of metametaphysics, the metaphysics of pregnancy,
   the epistemology of logic, and feminist and queer theory. She is the editor of 'Women

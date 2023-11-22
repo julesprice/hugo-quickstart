@@ -1,7 +1,7 @@
 ---
 date: '2020-03-12'
 draft: 'false'
-id: d2020-03-12-e306
+id: e306
 summary: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at
   INSEAD. His research focuses on the basic processes of judgment that affect how
   people make decisions, process information, and evaluate others and themselves.

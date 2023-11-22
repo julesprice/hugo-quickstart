@@ -1,7 +1,7 @@
 ---
 date: '2019-08-15'
 draft: 'false'
-id: d2019-08-15-e216
+id: e216
 summary: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution\
   \ and Social Change at Arizona State University. His background is in the evolution\
   \ of animal social behavior and cognition. He graduated from Cambridge with a bachelor's\

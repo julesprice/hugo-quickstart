@@ -1,7 +1,7 @@
 ---
 date: '2019-10-14'
 draft: 'false'
-id: d2019-10-14-e242
+id: e242
 summary: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London\
   \ School of Economics, Visiting Professor of Philosophy at the New College of the\
   \ Humanities, and Senior Member at Darwin College, Cambridge. Dr. Humphrey is a\

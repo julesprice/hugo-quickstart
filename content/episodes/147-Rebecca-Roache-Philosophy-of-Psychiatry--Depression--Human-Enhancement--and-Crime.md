@@ -1,7 +1,7 @@
 ---
 date: '2019-03-07'
 draft: 'false'
-id: d2019-03-07-e147
+id: e147
 summary: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University\
   \ of London. She teaches practical ethics, logic, philosophy of mind, philosophy\
   \ of psychiatry, philosophy of language, and early modern philosophy. She\u2019\

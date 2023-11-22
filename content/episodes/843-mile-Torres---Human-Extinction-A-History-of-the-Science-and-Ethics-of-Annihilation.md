@@ -1,7 +1,7 @@
 ---
 date: '2023-10-05'
 draft: 'false'
-id: d2023-10-05-e843
+id: e843
 summary: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover,\
   \ in Germany. Their work over the past decade has centered around a single theme:\
   \ eschatology, whether religious, secular, or scientific. Recently, their work has\

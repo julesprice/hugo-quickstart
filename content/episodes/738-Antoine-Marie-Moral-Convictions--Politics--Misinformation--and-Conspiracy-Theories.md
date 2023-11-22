@@ -1,7 +1,7 @@
 ---
 date: '2023-02-02'
 draft: 'false'
-id: d2023-02-02-e738
+id: e738
 summary: Dr. Antoine Marie is a Postdoctoral Researcher at the Department of Political
   Science at Aarhus University, Denmark. He conducts cross-cultural psychology experiments
   and develops evolutionary theory to better understand, and if possible, mitigate,

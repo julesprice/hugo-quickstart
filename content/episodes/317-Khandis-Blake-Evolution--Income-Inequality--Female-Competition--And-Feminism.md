@@ -1,7 +1,7 @@
 ---
 date: '2020-04-06'
 draft: 'false'
-id: d2020-04-06-e317
+id: e317
 summary: Dr. Khandis Blake is an evolutionary social psychologist at The University
   of Melbourne. She is an expert in gendered conflict. Her research considers how
   behavior, attitudes, and culture associated with gender are influenced by the interplay

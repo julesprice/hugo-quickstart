@@ -1,7 +1,7 @@
 ---
 date: '2019-07-11'
 draft: 'false'
-id: d2019-07-11-e201
+id: e201
 summary: Dr. Mark Leary is Professor of Psychology and Neuroscience at Duke University.
   Dr. Leary has taught at Denison University, the University of Texas at Austin, and
   Wake Forest University, where he also served as department chair. His research interests

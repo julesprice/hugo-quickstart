@@ -1,7 +1,7 @@
 ---
 date: '2019-05-06'
 draft: 'false'
-id: d2019-05-06-e66
+id: e66
 summary: "Dr. David Gorski is a surgical oncologist at the Barbara Ann Karmanos Cancer\
   \ Institute specializing in breast cancer surgery, where he also serves as the Medical\
   \ Director of the Alexander J. Walt Comprehensive Breast Center. He\u2019s also\

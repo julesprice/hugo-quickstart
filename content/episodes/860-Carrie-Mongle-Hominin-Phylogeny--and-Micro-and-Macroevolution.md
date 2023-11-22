@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 draft: 'false'
-id: d2023-11-13-e860
+id: e860
 summary: Dr. Carrie Mongle is Assistant Professor in the Department of Anthropology
   at Stony Brook University and the Turkana Basin Institute. She also heads the Mongle
   Lab. Her research aims to reconstruct the major trends and transitions that characterize

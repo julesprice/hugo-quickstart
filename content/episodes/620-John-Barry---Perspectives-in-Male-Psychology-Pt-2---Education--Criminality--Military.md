@@ -1,7 +1,7 @@
 ---
 date: '2022-05-02'
 draft: 'false'
-id: d2022-05-02-e620
+id: e620
 summary: "Dr. John Barry is a Chartered Psychologist and Associate Fellow of the British\
   \ Psychological Society (BPS), Honorary Lecturer in Psychology at University College\
   \ London, clinical hypnotherapist and author of around 70 peer-reviewed publications\

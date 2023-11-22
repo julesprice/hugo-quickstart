@@ -1,7 +1,7 @@
 ---
 date: '2019-03-01'
 draft: 'false'
-id: d2019-03-01-e21
+id: e21
 summary: "Dr. Norman Sandridge has a B.S. in Physics, with a minor in Mathematics\
   \ by the University of Alabama; a M.A. in Latin by Florida State University; a M.A.\
   \ in Greek by the University of North Carolina; and a Ph.D. in Classics also by\

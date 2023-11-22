@@ -1,7 +1,7 @@
 ---
 date: '2019-04-08'
 draft: 'false'
-id: d2019-04-08-e161
+id: e161
 summary: "Dr. Ian Gilligan is Honorary Associate Professor in the Department of Archaeology\
   \ of the University of Sydney. He graduated in psychology (UNSW) and medicine (Sydney\
   \ University) before studying prehistoric archaeology (Sydney University) and biological\

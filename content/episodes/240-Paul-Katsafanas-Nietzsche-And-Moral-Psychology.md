@@ -1,7 +1,7 @@
 ---
 date: '2019-10-10'
 draft: 'false'
-id: d2019-10-10-e240
+id: e240
 summary: "Dr. Paul Katsafanas is Associate Professor in the Department of Philosophy\
   \ at Boston University. He works on ethics, moral psychology, and nineteenth-century\
   \ philosophy. He\u2019s the author of the books Agency and the Foundations of Ethics:\

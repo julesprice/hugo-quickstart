@@ -1,7 +1,7 @@
 ---
 date: '2019-08-02'
 draft: 'false'
-id: d2019-08-02-e211
+id: e211
 summary: "Dr. Catherine Wilson was until recently Professor of Philosophy at the University\
   \ of York, and is now teaching part-time at the City University of New York, and\
   \ also a writer. She holds degrees in Philosophy from Yale, Oxford and Princeton\

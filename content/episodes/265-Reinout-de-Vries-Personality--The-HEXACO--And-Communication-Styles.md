@@ -1,7 +1,7 @@
 ---
 date: '2019-12-06'
 draft: 'false'
-id: d2019-12-06-e265
+id: e265
 summary: Dr. Reinout E. de Vries is Associate Professor at the VU University Amsterdam
   and Full Professor at the University of Twente. Together with researchers like Michael
   Ashton and Kibeom Lee, he has worked on the HEXACO model of personality, showing

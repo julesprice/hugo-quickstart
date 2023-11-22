@@ -1,7 +1,7 @@
 ---
 date: '2019-05-10'
 draft: 'false'
-id: d2019-05-10-e175
+id: e175
 summary: Nicole Barbaro is currently a PhD student in evolutionary psychology at Oakland
   University, studying under the advisement of Todd K. Shackelford. She serves as
   the Student Representative of the Executive Council for the Human Behavior and Evolution

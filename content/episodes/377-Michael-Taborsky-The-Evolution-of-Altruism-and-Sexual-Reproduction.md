@@ -1,7 +1,7 @@
 ---
 date: '2020-10-12'
 draft: 'false'
-id: d2020-10-12-e377
+id: e377
 summary: Dr. Michael Taborsky is the Director of the Behavioural Ecology Department
   and Co-director of the Institute of Ecology and Evolution at the University of Bern,
   Switzerland. His major research focus is the adaptive function of behavior, with

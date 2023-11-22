@@ -1,7 +1,7 @@
 ---
 date: '2022-07-25'
 draft: 'false'
-id: d2022-07-25-e656
+id: e656
 summary: Dr. Tereza Capelos is Associate Professor in Political Psychology at the
   University of Birmingham, Director of the Institute for Conflict Cooperation and
   Security, Director for the MSc in Political Psychology of International Relations,

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-06'
 draft: 'false'
-id: d2023-02-06-e740
+id: e740
 summary: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University of
   Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies
   in Maribor, and Researcher at the Research Center for Strategy and Governance at

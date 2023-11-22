@@ -1,7 +1,7 @@
 ---
 date: '2021-11-04'
 draft: 'false'
-id: d2021-11-04-e543
+id: e543
 summary: 'Dr. Orestis Palermos is Lecturer in the School of English, Communication
   and Philosophy at Cardiff University. He works at the intersection of philosophy
   of mind and cognitive science, epistemology, philosophy of science and philosophy

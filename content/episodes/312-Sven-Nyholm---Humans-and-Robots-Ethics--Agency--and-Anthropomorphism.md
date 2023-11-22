@@ -1,7 +1,7 @@
 ---
 date: '2020-03-26'
 draft: 'false'
-id: d2020-03-26-e312
+id: e312
 summary: 'Dr. Sven Nyholm is an Assistant Professor of Philosophical Ethics at Utrecht
   University. His main areas of research are applied ethics (especially the ethics
   of technology), ethical theory, and the history of ethics. More specifically, he

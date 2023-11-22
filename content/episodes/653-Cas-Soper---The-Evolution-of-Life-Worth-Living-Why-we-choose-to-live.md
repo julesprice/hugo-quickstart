@@ -1,7 +1,7 @@
 ---
 date: '2022-07-18'
 draft: 'false'
-id: d2022-07-18-e653
+id: e653
 summary: 'Dr. Cas Soper is a psychotherapist and psychologist in private practice.
   Dr. Soper has degrees from the University of Cambridge and the University of London,
   and is registered by the British Association for Counselling and Psychotherapy.

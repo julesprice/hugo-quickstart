@@ -1,7 +1,7 @@
 ---
 date: '2022-02-21'
 draft: 'false'
-id: d2022-02-21-e590
+id: e590
 summary: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality\
   \ traits, thinking styles, and worldviews give rise to maladaptive political attitudes\
   \ and behaviors, such as violence, extreme partisanship, and authoritarianism. Thomas\u2019\

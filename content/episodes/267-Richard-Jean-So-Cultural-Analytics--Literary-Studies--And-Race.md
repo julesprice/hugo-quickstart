@@ -1,7 +1,7 @@
 ---
 date: '2019-12-12'
 draft: 'false'
-id: d2019-12-12-e267
+id: e267
 summary: 'Dr. Richard Jean So is Assistant Professor of English and Cultural Analytics
   at McGill University in Montreal. Previously, he served as an assistant professor
   of English at the University of Chicago, where he co-founded the university''s first

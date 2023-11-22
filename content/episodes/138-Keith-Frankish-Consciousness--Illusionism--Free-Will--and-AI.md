@@ -1,7 +1,7 @@
 ---
 date: '2019-02-14'
 draft: 'false'
-id: d2019-02-14-e138
+id: e138
 summary: "Dr. Keith Frankish is a British philosopher and writer, currently living\
   \ in Crete, Greece. He\u2019s an Honorary Reader at the University of Sheffield,\
   \ UK, a Visiting Research Fellow with The Open University, UK, and an Adjunct Professor\

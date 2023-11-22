@@ -1,7 +1,7 @@
 ---
 date: '2023-03-30'
 draft: 'false'
-id: d2023-03-30-e762
+id: e762
 summary: Dr. Dean Buonomano is Professor of Neurobiology and Psychology at the University
   of California, Los Angeles. His research goal is to understand how neurons develop
   selective responses to temporal features such as duration, interval and order. He

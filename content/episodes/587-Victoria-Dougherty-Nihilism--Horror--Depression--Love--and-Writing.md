@@ -1,7 +1,7 @@
 ---
 date: '2022-02-14'
 draft: 'false'
-id: d2022-02-14-e587
+id: e587
 summary: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
   \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\
   \ killers, curses, and destinies. Her blog \u2013 COLD \u2013 features her short\

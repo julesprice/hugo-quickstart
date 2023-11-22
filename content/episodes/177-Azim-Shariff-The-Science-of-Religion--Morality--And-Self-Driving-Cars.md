@@ -1,7 +1,7 @@
 ---
 date: '2019-05-16'
 draft: 'false'
-id: d2019-05-16-e177
+id: e177
 summary: Dr. Azim Shariff is Associate Professor and Canada Research Chair at the
   University of British Columbia, Canada. He is a social psychologist whose research
   focuses on where morality intersects with religion, cultural attitudes and economics.

@@ -1,7 +1,7 @@
 ---
 date: '2019-05-08'
 draft: 'false'
-id: d2019-05-08-e68
+id: e68
 summary: "Dr. Jerry Muller is Ordinary Professor of History at the Catholic University\
   \ of America, where he teaches courses on historical and contemporary subjects,\
   \ including capitalism; nationalism; conservatism; the history of social, political,\

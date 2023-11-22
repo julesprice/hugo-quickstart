@@ -1,7 +1,7 @@
 ---
 date: '2019-10-21'
 draft: 'false'
-id: d2019-10-21-e245
+id: e245
 summary: Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Department
   of Psychological &amp; Brain Sciences at the University of California, Santa Barbara
   (UCSB). He uses an evolutionary perspective to understand how mate preferences are

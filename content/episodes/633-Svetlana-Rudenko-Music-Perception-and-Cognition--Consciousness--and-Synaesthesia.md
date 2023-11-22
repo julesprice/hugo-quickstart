@@ -1,7 +1,7 @@
 ---
 date: '2022-06-02'
 draft: 'false'
-id: d2022-06-02-e633
+id: e633
 summary: Dr. Svetlana Rudenko is a concert pianist and educator bringing a new feeling
   to the way in which sound, music, and art are perceived and experienced in new media.
   Dr. Rudenko was awarded Dr of Arts from University of Granada, Spain. In addition,

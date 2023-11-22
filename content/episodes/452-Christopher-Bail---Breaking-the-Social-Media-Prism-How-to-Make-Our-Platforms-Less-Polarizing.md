@@ -1,7 +1,7 @@
 ---
 date: '2021-04-05'
 draft: 'false'
-id: d2021-04-05-e452
+id: e452
 summary: "Dr. Christopher Bail is Professor of Sociology, Public Policy, and Data\
   \ Science at Duke University, where he directs the Polarization Lab. A leader in\
   \ the emerging field of computational social science, Dr. Bail\u2019s research examines\

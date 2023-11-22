@@ -1,7 +1,7 @@
 ---
 date: '2019-03-11'
 draft: 'false'
-id: d2019-03-11-e149
+id: e149
 summary: "Dr. Martin Daly is Professor Emeritus in the Department of Psychology, Neuroscience\
   \ &amp; Behaviour at McMaster University, Canada. His areas of interest are human\
   \ violence (especially homicide), family relations, and evolutionary psychology.\

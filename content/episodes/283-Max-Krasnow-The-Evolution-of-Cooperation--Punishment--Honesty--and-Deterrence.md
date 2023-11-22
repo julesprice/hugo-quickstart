@@ -1,7 +1,7 @@
 ---
 date: '2020-01-17'
 draft: 'false'
-id: d2020-01-17-e283
+id: e283
 summary: "Dr. Max Krasnow is Associate Professor in the Department of Psychology at\
   \ Harvard University. His research interests include: evolutionary psychology, evolution\
   \ of sociality, psychology of cooperation and punishment, ecological rationality,\

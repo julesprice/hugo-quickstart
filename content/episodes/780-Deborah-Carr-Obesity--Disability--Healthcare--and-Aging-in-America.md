@@ -1,7 +1,7 @@
 ---
 date: '2023-05-11'
 draft: 'false'
-id: d2023-05-11-e780
+id: e780
 summary: Dr. Deborah Carr is a Professor of Sociology and inaugural director of the
   Center of Innovation in Social Science at Boston University. Her research interests
   include aging and the life course, psychosocial factors influences on health over

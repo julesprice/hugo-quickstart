@@ -1,7 +1,7 @@
 ---
 date: '2021-02-18'
 draft: 'false'
-id: d2021-02-18-e432
+id: e432
 summary: Dr. Laith Al-Shawaf is an Assistant Professor of Psychology at the University
   of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent
   University in Turkey and a Visiting Fellow at the Institute for Advanced Study in

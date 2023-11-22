@@ -1,7 +1,7 @@
 ---
 date: '2019-04-11'
 draft: 'false'
-id: d2019-04-11-e162
+id: e162
 summary: "Dr. Philip Goff is a philosopher and consciousness researcher at Durham\
   \ University, UK. His main research focus is trying to explain how the brain produces\
   \ consciousness. He thinks we need to radically rethink our understanding of matter\

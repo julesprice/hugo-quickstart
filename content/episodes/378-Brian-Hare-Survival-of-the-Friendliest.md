@@ -1,7 +1,7 @@
 ---
 date: '2020-10-15'
 draft: 'false'
-id: d2020-10-15-e378
+id: e378
 summary: "Dr. Brian Hare is a professor of evolutionary anthropology at Duke University.\
   \ He researches the evolution of cognition by studying both humans, our close relatives\
   \ the primates (especially bonobos and chimpanzees), and species whose cognition\

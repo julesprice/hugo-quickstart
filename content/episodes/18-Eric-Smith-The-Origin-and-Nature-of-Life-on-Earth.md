@@ -1,7 +1,7 @@
 ---
 date: '2019-02-26'
 draft: 'false'
-id: d2019-02-26-e18
+id: e18
 summary: Dr. Eric Smith received the Bachelor of Science in Physics and Mathematics
   from the California Institute of Technology in 1987, and a Ph.D. in Physics from
   The University of Texas at Austin in 1993. He is External Professor at the Santa

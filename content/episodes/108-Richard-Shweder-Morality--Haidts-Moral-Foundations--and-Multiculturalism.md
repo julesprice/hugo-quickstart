@@ -1,7 +1,7 @@
 ---
 date: '2019-07-03'
 draft: 'false'
-id: d2019-07-03-e108
+id: e108
 summary: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift\
   \ Distinguished Service Professor of Human Development at the University of Chicago,\
   \ US. He\u2019s the author of Thinking Through Cultures: Expeditions in Cultural\

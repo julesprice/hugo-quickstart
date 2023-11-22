@@ -1,7 +1,7 @@
 ---
 date: '2019-08-02'
 draft: 'false'
-id: d2019-08-02-e128
+id: e128
 summary: "Dr. Randy Thornhill is an American entomologist and evolutionary biologist.\
   \ He is a professor of biology at the University of New Mexico, and was president\
   \ of the Human Behavior and Evolution Society from 2011 to 2013. He is known for\

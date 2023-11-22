@@ -1,7 +1,7 @@
 ---
 date: '2023-02-13'
 draft: 'false'
-id: d2023-02-13-e743
+id: e743
 summary: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how\
   \ nature and nurture combined create human behavior. She has a popular science blog\
   \ \u2013 Biosocial - where she comments on news, scientific findings and literature\

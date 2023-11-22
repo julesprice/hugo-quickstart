@@ -1,7 +1,7 @@
 ---
 date: '2020-11-23'
 draft: 'false'
-id: d2020-11-23-e395
+id: e395
 summary: "In this episode, we talk about The Epistemic Innocence of Irrational Beliefs.\
   \ We start with some basic concepts, like \u201Cirrational beliefs\u201D, \u201C\
   epistemic irrationality\u201D, \u201Cepistemics functionality\u201D, and \u201C\

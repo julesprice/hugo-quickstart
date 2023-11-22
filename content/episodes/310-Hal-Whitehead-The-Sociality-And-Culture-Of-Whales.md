@@ -1,7 +1,7 @@
 ---
 date: '2020-03-20'
 draft: 'false'
-id: d2020-03-20-e310
+id: e310
 summary: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhousie
   University. His work focuses mainly on the behavior, ecology, population biology
   and conservation of two species of deep-diving whale: the sperm and northern bottlenose.

@@ -1,7 +1,7 @@
 ---
 date: '2020-10-23'
 draft: 'false'
-id: d2020-10-23-e382
+id: e382
 summary: "In this episode, we talk about Dr. Howard\u2019s book, Ultimate Price. We\
   \ discuss how the monetary value of a human life is calculated, and how it applies\
   \ in several different instances, including the private and the public sector, the\

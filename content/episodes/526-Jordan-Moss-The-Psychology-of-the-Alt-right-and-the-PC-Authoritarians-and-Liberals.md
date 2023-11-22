@@ -1,7 +1,7 @@
 ---
 date: '2021-09-24'
 draft: 'false'
-id: d2021-09-24-e526
+id: e526
 summary: Jordan Moss is a psychology graduate and medical student at the University
   of Sydney. He has research interests in individual differences, with particular
   interest in personality theory and moral psychology.

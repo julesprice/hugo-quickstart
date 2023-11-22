@@ -1,7 +1,7 @@
 ---
 date: '2022-08-04'
 draft: 'false'
-id: d2022-08-04-e660
+id: e660
 summary: 'William Costello finished his MSc in Psychology: Culture and Evolution at
   Brunel University London in 2021. The topic of his thesis was incels. Later this
   year he will join Dr. David Buss''s Evolutionary Psychology lab at the University

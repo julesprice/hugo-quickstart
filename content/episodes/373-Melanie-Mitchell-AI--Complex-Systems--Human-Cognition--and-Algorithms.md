@@ -1,7 +1,7 @@
 ---
 date: '2020-10-02'
 draft: 'false'
-id: d2020-10-02-e373
+id: e373
 summary: In this episode, we talk about AI. First, we ask if we are close to human-level
   AI, and also if the Turing test is really that relevant. Dr. Mitchell explains deep
   learning and neural networks, evolutionary computation, complex systems, and genetic

@@ -1,7 +1,7 @@
 ---
 date: '2022-02-24'
 draft: 'false'
-id: d2022-02-24-e591
+id: e591
 summary: Dr. John Petrocelli is Professor of Psychology at Wake Forest University.
   He is a social psychologist and his research involves experimental social cognition
   and judgment and decision making. His specific research interests include attitude

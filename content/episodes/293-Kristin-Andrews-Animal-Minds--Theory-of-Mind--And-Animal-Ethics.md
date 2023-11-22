@@ -1,7 +1,7 @@
 ---
 date: '2020-02-10'
 draft: 'false'
-id: d2020-02-10-e293
+id: e293
 summary: Dr. Kristin Andrews is York Research Chair in Animal Minds and Professor
   of Philosophy at York University (Toronto), where she also helps coordinate the
   Cognitive Science program and the Toronto Area Animal Cognition Discussion Group.

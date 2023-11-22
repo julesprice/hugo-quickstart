@@ -1,7 +1,7 @@
 ---
 date: '2023-01-02'
 draft: 'false'
-id: d2023-01-02-e725
+id: e725
 summary: Dr. Sarah Mathew is Associate Professor in the School of Human Evolution
   and Social Change at Arizona State University. She studies the evolution of human
   ultra-sociality and the role of culture in enabling it. She is especially interested

@@ -1,7 +1,7 @@
 ---
 date: '2020-12-10'
 draft: 'false'
-id: d2020-12-10-e402
+id: e402
 summary: "Dr. David C. Geary is Curators\u2019 Professor and Thomas Jefferson Fellow\
   \ in the Department of Psychological Sciences and Interdisciplinary Neuroscience\
   \ Program at the University of Missouri in Columbia, Missouri. He\u2019s the author\

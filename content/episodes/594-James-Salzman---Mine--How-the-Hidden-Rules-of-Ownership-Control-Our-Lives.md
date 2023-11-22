@@ -1,7 +1,7 @@
 ---
 date: '2022-03-03'
 draft: 'false'
-id: d2022-03-03-e594
+id: e594
 summary: 'Dr. James Salzman is the Donald Bren Distinguished Professor of Environmental
   Law with joint appointments at the UCLA School of Law and at the Bren School of
   Environmental Science &amp; Management at UC Santa Barbara. In twelve books and

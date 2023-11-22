@@ -1,7 +1,7 @@
 ---
 date: '2021-02-25'
 draft: 'false'
-id: d2021-02-25-e435
+id: e435
 summary: "Dr. Christopher Kavanagh is an associate professor in the College of Contemporary\
   \ Psychology at Rikkyo University and a researcher in cognitive anthropology at\
   \ the Institute of Cognitive &amp; Evolutionary Anthropology (ICEA) at the University\

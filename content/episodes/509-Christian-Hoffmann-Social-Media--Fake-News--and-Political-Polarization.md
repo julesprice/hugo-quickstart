@@ -1,7 +1,7 @@
 ---
 date: '2021-08-16'
 draft: 'false'
-id: d2021-08-16-e509
+id: e509
 summary: "Dr. Christian Pieter Hoffmann is Professor of Communication Management and\
   \ Political Communication at the Institute of Communication and Media Studies at\
   \ the University of Leipzig, Germany. In addition, he is responsible for teaching\

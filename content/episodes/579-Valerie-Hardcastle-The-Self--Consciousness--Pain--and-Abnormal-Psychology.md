@@ -1,7 +1,7 @@
 ---
 date: '2022-01-27'
 draft: 'false'
-id: d2022-01-27-e579
+id: e579
 summary: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of
   the Institute for Health Innovation and Vice President for Health Innovation at
   Northern Kentucky University. Dr. Hardcastle specializes in philosophy of neuroscience/biology,

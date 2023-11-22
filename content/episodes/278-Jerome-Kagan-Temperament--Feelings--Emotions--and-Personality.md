@@ -1,7 +1,7 @@
 ---
 date: '2020-01-06'
 draft: 'false'
-id: d2020-01-06-e278
+id: e278
 summary: "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard University.\
   \ Professor Kagan's research, on the cognitive and emotional development of a child\
   \ during the first decade of life, focuses on the origins of temperament. He has\

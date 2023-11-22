@@ -1,7 +1,7 @@
 ---
 date: '2019-08-05'
 draft: 'false'
-id: d2019-08-05-e212
+id: e212
 summary: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Sciences
   at the University of California, Irvine. Dr. Hoffman studies consciousness, visual
   perception and evolutionary psychology using mathematical models and psychophysical

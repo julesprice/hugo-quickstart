@@ -1,7 +1,7 @@
 ---
 date: '2023-10-20'
 draft: 'false'
-id: d2023-10-20-e850
+id: e850
 summary: "Dr. James McCann is Professor Emeritus of History at Boston University.\
   \ Dr. McCann\u2019s research and teaching interests include agricultural and ecological\
   \ history of Africa, Ethiopia, and the Horn of Africa, field research methods in\

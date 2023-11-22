@@ -1,7 +1,7 @@
 ---
 date: '2021-08-13'
 draft: 'false'
-id: d2021-08-13-e508
+id: e508
 summary: "Dr. Scott A. Small is the Director of the Alzheimer\u2019s Disease Research\
   \ Center at Columbia University, where he is the Boris and Rose Katz Professor of\
   \ Neurology. He is appointed in the Departments of Neurology, Radiology, and Psychiatry.\

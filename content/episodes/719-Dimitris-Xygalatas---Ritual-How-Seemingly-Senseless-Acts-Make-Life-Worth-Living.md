@@ -1,7 +1,7 @@
 ---
 date: '2022-12-19'
 draft: 'false'
-id: d2022-12-19-e719
+id: e719
 summary: 'Dr. Dimitris Xygalatas is Associate Professor in Anthropology and Psychological
   Sciences and head of the Experimental Anthropology Lab at the University of Connecticut.
   He has also served as President of the International Association for the Cognitive

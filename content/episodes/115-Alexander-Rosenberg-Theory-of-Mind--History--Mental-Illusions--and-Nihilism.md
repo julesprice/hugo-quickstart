@@ -1,7 +1,7 @@
 ---
 date: '2019-07-13'
 draft: 'false'
-id: d2019-07-13-e115
+id: e115
 summary: "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy at\
   \ Duke University. He has been a visiting professor and fellow at the Center for\
   \ the Philosophy of Science, at the University of Minnesota, as well as the University\

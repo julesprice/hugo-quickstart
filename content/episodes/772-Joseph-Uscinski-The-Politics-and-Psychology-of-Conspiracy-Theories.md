@@ -1,7 +1,7 @@
 ---
 date: '2023-04-21'
 draft: 'false'
-id: d2023-04-21-e772
+id: e772
 summary: 'Dr. Joseph Uscinski is Professor of Political Science at the University
   of Miami. He studies public opinion and mass media, with a focus on conspiracy theories
   and related misinformation. He is co-author of American Conspiracy Theories (Oxford,

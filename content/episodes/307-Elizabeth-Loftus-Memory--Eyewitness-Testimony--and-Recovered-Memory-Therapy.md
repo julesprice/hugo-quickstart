@@ -1,7 +1,7 @@
 ---
 date: '2020-03-13'
 draft: 'false'
-id: d2020-03-13-e307
+id: e307
 summary: Dr. Elizabeth Loftus is a Distinguished Professor of Psychological Science
   and Law, and of Cognitive Science in the Departments of Psychological Science, and
   Criminology, Law, and Society at University of California, Irvine. She is also Fellow

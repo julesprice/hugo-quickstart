@@ -1,7 +1,7 @@
 ---
 date: '2021-09-30'
 draft: 'false'
-id: d2021-09-30-e528
+id: e528
 summary: Dr. Rebecca Owens is Lecturer in Psychology at the University of Sunderland.
   She is also a Chartered member of the British Psychological Society and a Senior
   Fellow of the Higher Education Academy. Her interests include mating behaviors,

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 draft: 'false'
-id: d2023-03-31-e763
+id: e763
 summary: "Dr. Mitch Brown is an instructor and researcher in Psychology at the University\
   \ of Arkansas. His work primarily considers (1) the tradeoffs people invoke to avoid\
   \ disease and belong to groups, (2) the prioritization of physical features and\

@@ -1,7 +1,7 @@
 ---
 date: '2020-09-21'
 draft: 'false'
-id: d2020-09-21-e368
+id: e368
 summary: In this episode, we talk about the study of the human fossil record, and
   several aspects of human evolution, with a focus on the genus Homo. We discuss how
   the Pleistocene conditions might have affected human evolution; the role of culture;
