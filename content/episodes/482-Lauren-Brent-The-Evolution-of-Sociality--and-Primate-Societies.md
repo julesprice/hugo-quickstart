@@ -1,7 +1,7 @@
 ---
 date: '2021-06-17'
 draft: 'false'
-id: d2021-06-17-e482
+id: e483
 summary: Dr. Lauren Brent is Associate Professor in the Centre for Research in Animal
   Behaviour at the University of Exeter. She is a biologist interested in the evolution
   of sociality. Her research asks why social relationships are formed and how they
