@@ -59,13 +59,13 @@ jobs:
           HUGO_ENVIRONMENT: development
           HUGO_ENV: development
         run: |
-          echo "DEBUG: REMOTE"
-          git remote -v
-          echo "DEBUG: PULL"
+          #echo "DEBUG: REMOTE"
+          #git remote -v
+          echo "In case the repo is cached, pull the latest changes"
           git pull
-          echo "DEBUG: LS"
-          if [ -f data/episode/d2023-11-20-e863.yaml ]; then echo "YES-YAML"; else echo "NO-YAML"; fi
-          if [ -f content/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry.md ]; then echo "YES-MD"; else echo "NO-MD"; fi
+          # echo "DEBUG: LS"
+          # if [ -f data/episode/d2023-11-20-e863.yaml ]; then echo "YES-YAML"; else echo "NO-YAML"; fi
+          # if [ -f content/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry.md ]; then echo "YES-MD"; else echo "NO-MD"; fi
           hugo \
             --gc \
             --minify \
