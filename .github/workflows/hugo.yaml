@@ -64,8 +64,8 @@ jobs:
           echo "DEBUG: PULL"
           git pull
           echo "DEBUG: LS"
-          ls git rm data/episode/d2023-11-20-e863.yaml
-          ls git rm content/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry.md
+          if [ -f data/episode/d2023-11-20-e863.yaml ]; then echo "YES-YAML"; else echo "NO-YAML"; fi
+          if [ -f content/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry.md ]; then echo "YES-MD"; else echo "NO-MD"; fi
           hugo \
             --gc \
             --minify \
