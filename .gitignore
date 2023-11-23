@@ -3,3 +3,5 @@ public/
 themes/ananke
 .venv
 script/*.xml
+#data/episode/*.yaml
+#content/episodes/*.md
