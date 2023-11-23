@@ -15,7 +15,7 @@ summary: "Dr. Rebecca Sear is Reader at the London School of Hygiene and Tropica
   \ varies between, as well as within, populations. In 2008, she co-founded the European\
   \ Human Behaviour and Evolution Association, and she\u2019s currently Honorary Secretary\
   \ of the British Society for Population Studies and a Board Member of the Evolutionary\
-  \ Anthropology Society."
+  \ Anthropology Society.  "
 title: '#135 Rebecca Sear: Human Behavioral Ecology, Mating, Parenting, Reproduction'
 ---
 {{< episode >}}

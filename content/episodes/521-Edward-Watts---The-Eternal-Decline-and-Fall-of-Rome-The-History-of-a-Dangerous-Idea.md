@@ -2,10 +2,7 @@
 date: '2021-09-13'
 draft: 'false'
 id: e521
-summary: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek
-  History at UC San Diego. His research interests center on the intellectual and religious
-  history of the Roman Empire and the early Byzantine Empire. His new book is The
-  Eternal Decline and Fall of Rome: The History of a Dangerous Idea.'
+summary: 'RECORDED ON AUGUST 5th 2021.  '
 title: '#521 Edward Watts - The Eternal Decline and Fall of Rome: The History of a
   Dangerous Idea'
 ---

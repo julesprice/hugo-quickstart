@@ -9,7 +9,7 @@ summary: "Dr. Jason Manning is an Associate Professor of Sociology at West Virgi
   \ offenses. Within this area he specializes in violent conflict, particularly in\
   \ self-destructive forms of violence such as protest suicide, homicide-suicide,\
   \ and suicide terrorism. His other interests include the sociology of science, sociology\
-  \ of religion, and neoDarwinian theories of culture.&nbsp;"
+  \ of religion, and neoDarwinian theories of culture.  "
 title: '#90 Jason Manning: Sociology of Suicide and Terrorism'
 ---
 {{< episode >}}

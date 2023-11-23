@@ -10,7 +10,7 @@ summary: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated hea
   genetics, and decision-making. His work has been published in leading journals including
   Science, Nature, PNAS, Psychological Science, Perception, and Cognitive Science.
   Chris is also co-author of the bestselling book The Invisible Gorilla: How Our Intuitions
-  Deceive Us, published in 20 languages.&nbsp;'
+  Deceive Us, published in 20 languages. '
 title: '#74 Christopher Chabris: The Invisible Gorilla, and Other Cognitive Illusions'
 ---
 {{< episode >}}

@@ -2,14 +2,7 @@
 date: '2023-01-13'
 draft: 'false'
 id: e730
-summary: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
-  \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\
-  \ killers, curses, and destinies. Her work has been published or profiled in the\
-  \ New York Times, USA Today, The International Herald Tribune, and elsewhere. Her\
-  \ blog \u2013 COLD \u2013 features her short essays on faith, family, love, and\
-  \ writing. WordPress, the blogging platform that hosts some 70 million blogs worldwide,\
-  \ has singled out COLD as one of the Top 50 Recommended Blogs by writers or about\
-  \ writing."
+summary: 'RECORDED ON AUGUST 26th 2022.  '
 title: '#730 Victoria Dougherty: Science and Literature, Character Development, Realism,
   and Free Speech'
 ---

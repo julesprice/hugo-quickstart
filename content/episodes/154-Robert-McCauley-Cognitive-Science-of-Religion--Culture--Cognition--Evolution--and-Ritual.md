@@ -9,7 +9,7 @@ summary: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor
   Religion Is Natural and Science Is Not and of Philosophical Foundations of the Cognitive
   Science of Religion as well as the co-author with E. Thomas Lawson of both Bringing
   Ritual to Mind: Psychological Foundations of Cultural Forms and Rethinking Religion:
-  Connecting Cognition and Culture. Dr. McCauley is also the editor of The Churchlands
+  Connecting Cognition and Culture.  Dr. McCauley is also the editor of The Churchlands
   and Their Critics and the co-editor with Harvey Whitehouse of Mind and Religion.'
 title: '#154 Robert McCauley: Cognitive Science of Religion, Culture, Cognition, Evolution,
   and Ritual'

@@ -9,7 +9,7 @@ summary: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at W
   \ Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute\
   \ of Art and Ideas, and Christianity Today. He\u2019s the author of three books,\
   \ including Moral Character: An Empirical Theory, Character and Moral Psychology,\
-  \ and the most recent one, The Character Gap: How Good Are We?.&nbsp;"
+  \ and the most recent one, The Character Gap: How Good Are We?.   "
 title: '#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Improve
   Them'
 ---

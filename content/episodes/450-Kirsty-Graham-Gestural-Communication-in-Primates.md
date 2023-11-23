@@ -2,9 +2,7 @@
 date: '2021-04-01'
 draft: 'false'
 id: e450
-summary: In this episode, we talk about gestural communication in primates. We discuss
-  what communication is from an evolutionary perspective. We then get into gestural
-  communication, focusing on bonobos, chimpanzees, and humans.
+summary: 'RECORDED ON JANUARY 20th 2021.  '
 title: '#450 Kirsty Graham: Gestural Communication in Primates'
 ---
 {{< episode >}}

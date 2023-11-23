@@ -11,7 +11,7 @@ summary: "Dr. Lee Ross is a Professor of Psychology at Stanford University and c
   \ a major impact in social psychology and the field of human inference, judgment\
   \ and decision-making. Among the phenomena he identified and has explored are the\
   \ fundamental attribution error, the false consensus effect, reactive devaluation,\
-  \ the hostile media phenomenon, and the convictions of na\xEFve realism.&nbsp;"
+  \ the hostile media phenomenon, and the convictions of na\xEFve realism.   "
 title: "#118 Lee Ross: Fundamental Attribution Error, Na\xEFve Realism, and Politics"
 ---
 {{< episode >}}

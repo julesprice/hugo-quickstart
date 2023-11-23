@@ -8,9 +8,9 @@ summary: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social N
   \ (with honors), clinical psychology (with honors), and developmental psychology\
   \ and psychopathology, her approach integrates perspectives from neuroscience, human\
   \ development, philosophy, clinical practice, and the arts within an interpersonal\
-  \ frame and a behavior-based approach. Her conceptual model on biobehavioral synchrony\
+  \ frame and a behavior-based approach.  Her conceptual model on biobehavioral synchrony\
   \ systematically describes how a lived experience within close relationships builds\
-  \ brains, creates relationships, confers resilience, and promotes creativity. Her\
+  \ brains, creates relationships, confers resilience, and promotes creativity.  Her\
   \ studies were the first to detail the role of oxytocin in the formation of human\
   \ social bonds. Her studies often follow children from infancy to adulthood, address\
   \ topics that are highly relevant to the general public, and receive substantial\

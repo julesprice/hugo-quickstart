@@ -14,7 +14,7 @@ summary: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolut
   \ social experiments called Dallinger. He joined the Adaptation, Behavior, Culture\
   \ and Society group at Arizona State Unviersity in August 2016. He\u2019s interested\
   \ in the psychological mechanisms that support culture and evolutionary explanations\
-  \ for how humans came to be.&nbsp;"
+  \ for how humans came to be. "
 title: '#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture'
 ---
 {{< episode >}}

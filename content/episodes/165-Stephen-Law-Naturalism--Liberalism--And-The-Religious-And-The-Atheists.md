@@ -7,7 +7,7 @@ summary: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, 
   \ editor of the Royal Institute of Philosophy journal THINK. He has published several\
   \ books, including The Philosophy Gym, A Very Short Introduction to Humanism, and\
   \ Believing Bullshit. He is a Fellow of The Royal Society of Arts and Commerce and\
-  \ in 2008 became the provost of the Centre for Inquiry UK.&nbsp;"
+  \ in 2008 became the provost of the Centre for Inquiry UK. "
 title: '#165 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists'
 ---
 {{< episode >}}

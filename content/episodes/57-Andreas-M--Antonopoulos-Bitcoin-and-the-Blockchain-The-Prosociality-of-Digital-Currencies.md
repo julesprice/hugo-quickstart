@@ -8,7 +8,7 @@ summary: "Andreas M. Antonopoulos is a critically-acclaimed best-selling author,
   \ Committee for the Bitcoin Reference Rate at the Chicago Mercantile Exchange. He\u2019\
   s also the author of three books, including Mastering Bitcoin, The Internet of Money,\
   \ and The Internet of Money Volume Two. His fourth book, Mastering Ethereum (O\u2019\
-  Reilly Media) will be available in the fall of 2018."
+  Reilly Media) will be available in the fall of 2018.  "
 title: '#57 Andreas M. Antonopoulos: Bitcoin and the Blockchain; The Prosociality
   of Digital Currencies'
 ---

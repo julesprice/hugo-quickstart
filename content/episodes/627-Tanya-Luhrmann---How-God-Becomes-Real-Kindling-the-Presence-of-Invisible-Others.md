@@ -2,11 +2,7 @@
 date: '2022-05-19'
 draft: 'false'
 id: e627
-summary: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford
-  Anthropology Department. She is a medical and psychological anthropologist, and
-  also an anthropologist of religion. More recently she describes her work as an anthropology
-  of mind. Her books include How God Becomes Real: Kindling the Presence of Invisible
-  Others.'
+summary: 'RECORDED ON FEBRUARY 15th 2022.  '
 title: '#627 Tanya Luhrmann - How God Becomes Real: Kindling the Presence of Invisible
   Others'
 ---

@@ -2,9 +2,7 @@
 date: '2021-06-24'
 draft: 'false'
 id: e486
-summary: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at\
-  \ Trinity College Dublin. He\u2019s the author of Innate: How the Wiring of Our\
-  \ Brains Shapes Who We Are."
+summary: 'RECORDED ON MARCH 23rd 2021.  '
 title: '#486 Kevin Mitchell: Psychological Epigenetics, and Other Fads in Neuroscience'
 ---
 {{< episode >}}

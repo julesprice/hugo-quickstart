@@ -11,8 +11,8 @@ summary: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He
   Action, and Individuality and Entanglement and also coeditor, with Joe Henrich,
   Robert Boyd, Samuel Bowles, Colin Camerer, and Ernst Fehr, of Foundations of Human
   Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-scale
-  Societies, and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments
-  and Material Interests: On the Foundations of Cooperation in Economic Life.&nbsp;'
+  Societies,  and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments
+  and Material Interests: On the Foundations of Cooperation in Economic Life. '
 title: '#237 Herbert Gintis: Altruism And Self-interest, As Revealed Through Game
   Theory'
 ---

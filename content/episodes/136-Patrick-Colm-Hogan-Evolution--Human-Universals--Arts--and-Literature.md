@@ -6,7 +6,8 @@ summary: "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of
   \ and the Institute for Brain and Cognitive Sciences, at the University of Connecticut,\
   \ US. His specialties are: literary theory, cognitive and affective science of literature,\
   \ and world literature. He\u2019s the author of several books, including The Mind\
-  \ and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity."
+  \ and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity.\
+  \  "
 title: '#136 Patrick Colm Hogan: Evolution, Human Universals, Arts, and Literature'
 ---
 {{< episode >}}

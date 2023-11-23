@@ -2,9 +2,7 @@
 date: '2019-02-13'
 draft: 'false'
 id: e7
-summary: "Sue Everatt is The Venus Project Point of Contact (POC) for Spain. She\u2019\
-  s on the admin team for TVP Support on a global level. And she coordinates the Spanish\
-  \ language team for the Linguistic Team International (LTI)."
+summary: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 title: '#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto
   Venus'
 ---

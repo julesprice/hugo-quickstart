@@ -2,9 +2,7 @@
 date: '2020-11-20'
 draft: 'false'
 id: e394
-summary: In this episode, we talk about quantum mechanics, information theory, the
-  universal computer, constructor theory, quantum biology, causality and free will,
-  and reality.
+summary: 'RECORDED ON SEPTEMBER 17th 2020.  '
 title: '#394 Chiara Marletto: Quantum Mechanics, Constructor Theory, Free Will, and
   Reality'
 ---

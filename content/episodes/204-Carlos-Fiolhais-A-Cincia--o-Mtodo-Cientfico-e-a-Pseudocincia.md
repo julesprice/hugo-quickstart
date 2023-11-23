@@ -11,7 +11,7 @@ summary: "O Dr. Carlos Fiolhais \xE9 Professor Catedr\xE1tico de F\xEDsica na Un
   \ o Globo de Ouro de M\xE9rito e Excel\xEAncia em Ci\xEAncia de 2004 atribu\xED\
   do pela televis\xE3o SIC e pela revista Caras em 2005. Em 2017, ganhou o Grande\
   \ Pr\xE9mio Ci\xEAncia Viva Montepio. Investiga F\xEDsica da Mat\xE9ria Condensada\
-  \ e Ensino e Hist\xF3ria das Ci\xEAncias.&nbsp;"
+  \ e Ensino e Hist\xF3ria das Ci\xEAncias. "
 title: "#204 Carlos Fiolhais: A Ci\xEAncia, o M\xE9todo Cient\xEDfico e a Pseudoci\xEA\
   ncia"
 ---

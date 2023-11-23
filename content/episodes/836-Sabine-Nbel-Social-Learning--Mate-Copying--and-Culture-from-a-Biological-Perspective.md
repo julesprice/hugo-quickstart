@@ -7,9 +7,10 @@ summary: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle
   \ of Poeciliids and Drosophila studying non-genetic inheritance of mating preferences\
   \ using mate-copying, by which females build mating preferences by observing and\
   \ copying conspecific females\u2019 mate-choice. She studies how new, socially learnt\
-  \ mating preferences can invade a population and persist across generations. Dr.\
-  \ N\xF6bel is the secretary of ESLR (Association of Early-career Social Learning\
-  \ Researchers) Society."
+  \ mating preferences can invade a population and persist across generations. Since\
+  \ May 2019, Dr. N\xF6bel is the secretary of ESLR (Association of Early-career Social\
+  \ Learning Researchers) Society, an early-career network for all things around social\
+  \ learning and cultural evolution."
 title: "#836 Sabine N\xF6bel: Social Learning, Mate Copying, and Culture from a Biological\
   \ Perspective"
 ---

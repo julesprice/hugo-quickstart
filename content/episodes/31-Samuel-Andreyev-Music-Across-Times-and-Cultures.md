@@ -2,7 +2,7 @@
 date: '2019-03-13'
 draft: 'false'
 id: e31
-summary: Samuel Andreyev is a Canadian composer and writer residing in France.
+summary: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 title: '#31 Samuel Andreyev: Music Across Times and Cultures'
 ---
 {{< episode >}}

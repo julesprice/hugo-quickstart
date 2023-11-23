@@ -2,12 +2,7 @@
 date: '2021-07-09'
 draft: 'false'
 id: e493
-summary: 'Dr. Tim Clutton-Brock is Professor in the Department of Zoology at Cambridge
-  University. He is known for his comparative studies of the behavioral ecology of
-  mammals, particularly red deer and meerkats. He currently works in three main areas:
-  The evolution of vertebrate breeding systems; Population regulation and the control
-  of population stability in large mammals; Natural and sexual selection in natural
-  populations.'
+summary: 'RECORDED ON MARCH 3rd 2021.  '
 title: '#493 Tim Clutton-Brock: The Evolution of Sociality, and Mammal Societies'
 ---
 {{< episode >}}

@@ -2,17 +2,11 @@
 date: '2019-09-06'
 draft: 'false'
 id: e226
-summary: "In this episode, we talk about the philosophy of the Black Mirror series,\
-  \ by Charlie Brooker. We go through some of the general themes we were able to identify\
-  \ running through the series, including: the individual and social aspects of life,\
-  \ and their interplay; the role that technology plays, and if it leaves space open\
-  \ for human agency; personhood, the self, copies, simulations, and how we should\
-  \ deal with them; what it is to be the \u201Ctrue\u201D person; the benefits of\
-  \ virtual reality, as well as its drawbacks; mortality, immortality, and the meaning\
-  \ of life; punishment and Nietzsche\u2019s Eternal Return; how we should deal with\
-  \ memory and knowledge, and what we should know. In the latter part of the discussion,\
-  \ we also talk about the usefulness of thought experiments, the relationship between\
-  \ philosophy and science, and the Platonic soul."
+summary: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
+  University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure
+  Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory
+  Readings in Ancient Greek and Roman Philosophy (Hackett, 2015). He also writes for
+  Quillette.'
 title: '#226 Patrick Lee Miller: The Philosophy of Black Mirror'
 ---
 {{< episode >}}

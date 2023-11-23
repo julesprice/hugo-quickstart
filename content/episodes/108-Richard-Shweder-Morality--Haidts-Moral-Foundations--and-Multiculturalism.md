@@ -11,8 +11,8 @@ summary: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swi
   \ of many awards, including a John Simon Guggenheim Fellowship (1985-86) and the\
   \ American Association for the Advancement of Science Socio-Psychological Prize\
   \ for his essay \u201CDoes the Concept of the Person Vary Cross-Culturally?\u201D\
-  . (\u2026) He is a Fellow of the American Academy of Arts and Sciences. He has served\
-  \ as President of the Society for Psychological Anthropology."
+  . He is a Fellow of the American Academy of Arts and Sciences. He has served as\
+  \ President of the Society for Psychological Anthropology.  "
 title: '#108 Richard Shweder: Morality, Haidt''s Moral Foundations, and Multiculturalism'
 ---
 {{< episode >}}

@@ -2,9 +2,7 @@
 date: '2020-04-13'
 draft: 'false'
 id: e320
-summary: "Max Beilby is a Management and Organizational Psychologist and author of\
-  \ the Darwinian Business blog. He\u2019s currently working as a practitioner in\
-  \ the banking industry."
+summary: 'RECORDED ON JANUARY 29th, 2020.  '
 title: '#320 Max Beilby: Evolutionary Organizational Psychology'
 ---
 {{< episode >}}

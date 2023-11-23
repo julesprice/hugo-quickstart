@@ -2,9 +2,7 @@
 date: '2022-11-25'
 draft: 'false'
 id: e709
-summary: Dr. Jeanne Bovet is an Assistant Professor at the Department of Psychology
-  at Northumbria University. Broadly, she tries to understand how evolution shaped
-  our preferences, and what its consequences are in our contemporary lives.
+summary: 'RECORDED ON SEPTEMBER 8th 2022.  '
 title: '#709 Jeanne Bovet: The Evolution of Female Attractiveness, and Parent-Offspring
   Conflict in Mating'
 ---

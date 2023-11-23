@@ -9,7 +9,7 @@ summary: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Foundi
   \ International Society for Evolution, Medicine, and Public Health. He was the initial\
   \ organizer and second president of the Human Behavior and Evolution Society, and\
   \ is currently the president of the International Society for Evolution, Medicine\
-  \ &amp; Public Health. He is a Distinguished Life Fellow of the American Psychiatric\
+  \ & Public Health. He is a Distinguished Life Fellow of the American Psychiatric\
   \ Association, a Fellow of the Association for Psychological Sciences, and an elected\
   \ Fellow of the AAAS (American Association for the Advancement of Science). He\u2019\
   s also the author of several books, including Why We Get Sick (coauthored with George\

@@ -3,7 +3,7 @@ date: '2019-07-26'
 draft: 'false'
 id: e124
 summary: "Dr. Robert Plomin is Professor of Behavioural Genetics at the Social Genetic\
-  \ &amp; Developmental Psychiatry Center at King\u2019s College London, and Research\
+  \ & Developmental Psychiatry Center at King\u2019s College London, and Research\
   \ Professor at the Medical Research Council (MRC). He\u2019s one of the leading\
   \ figures in the entire field of Behavioral Genetics. A Review of General Psychology\
   \ survey, published in 2002, ranked Dr. Plomin as the 71st most cited psychologist\

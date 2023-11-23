@@ -2,10 +2,7 @@
 date: '2020-01-30'
 draft: 'false'
 id: e288
-summary: Dr. Joanna Schug is Associate Professor of Psychology and Undergraduate Studies
-  Director at the College of William &amp; Mary. Her areas of specialization include
-  cross-cultural psychology, social psychology, and socio-ecological approaches to
-  human behavior.
+summary: 'RECORDED ON NOVEMBER 21st, 2019.  '
 title: '#288 Joanna Schug: Emotional Expressions, And Relational Mobility'
 ---
 {{< episode >}}

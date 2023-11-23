@@ -2,10 +2,7 @@
 date: '2023-06-19'
 draft: 'false'
 id: e797
-summary: Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscience
-  in the Brain and Cognitive Sciences department at MIT. Her research focuses on the
-  language system, including its internal architecture, and its relationship with
-  other cognitive systems.
+summary: 'RECORDED ON FEBRUARY 27th 2023.  '
 title: '#797 Evelina Fedorenko: The Neuroscience of Language'
 ---
 {{< episode >}}
