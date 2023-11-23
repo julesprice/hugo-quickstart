@@ -19,5 +19,4 @@
   </audio>
   </figure>
 {{ end }}
-<h2>Show notes</h2>
-{{ $data.shownotes | safeHTML }}
+{{ $data.shownotes | markdownify }}
