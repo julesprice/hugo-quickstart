@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://julesprice.github.io/hugo-quickstart/'
 languageCode = 'en-us'
 title = 'The Dissenter'
 theme = 'ananke'
