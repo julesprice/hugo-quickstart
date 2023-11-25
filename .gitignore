@@ -5,3 +5,4 @@ themes/ananke
 script/*.xml
 #data/episode/*.yaml
 #content/episodes/*.md
+static/pagefind/
