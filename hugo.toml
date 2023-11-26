@@ -2,5 +2,23 @@ baseURL = 'https://julesprice.github.io/'
 languageCode = 'en-us'
 title = 'The Dissenter'
 theme = 'ananke'
-sectionPagesMenu = 'main'
 copyright = "Ricardo Lopes"
+
+#sectionPagesMenu = 'main'
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menu.main]]
+    name = 'Episodes'
+    pageRef = '/episodes'
+    weight = 20
+[[menu.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+[[menu.main]]
+    name = 'Search'
+    pageRef = '/search'
+    weight = 40
